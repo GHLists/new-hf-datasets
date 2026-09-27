@@ -1,0 +1,59 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-27T22:22:37Z,rasyosef/open-perfectblend-qwen-3.5-2b,rasyosef,0,0,size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T22:22:54Z,lkibbalam/scut-sound-packs,lkibbalam,0,0,size_categories:n<1K; modality:audio; modality:text; region:us
+2026-09-27T22:23:59Z,fzisengwe/tourism-dataset,fzisengwe,0,0,region:us
+2026-09-27T22:28:27Z,RanaGaber/Reddit_Data_filtered_3,RanaGaber,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T22:29:00Z,SOTAagi2030/FieldNote-Labels,SOTAagi2030,0,0,region:us
+2026-09-27T22:29:04Z,SOTAagi2030/FieldNote-Observations,SOTAagi2030,0,0,region:us
+2026-09-27T22:30:24Z,matthiasblum/uniprotkb-150m,matthiasblum,0,0,license:cc-by-4.0; region:us
+2026-09-27T22:31:02Z,arthrod/neurotic_docx_bench-fixtures,arthrod,0,0,license:odc-by; size_categories:n<1K; format:imagefolder; modality:document; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-27T22:31:09Z,SOTAagi2030/Meridian-Estuary-Briefings,SOTAagi2030,0,0,region:us
+2026-09-27T22:31:10Z,SOTAagi2030/Meridian-Estuary-Field-Notebooks,SOTAagi2030,0,0,region:us
+2026-09-27T22:34:13Z,dinos17/PS-Applications,dinos17,0,0,region:us
+2026-09-27T22:38:16Z,aghasalim/azbench,aghasalim,0,0,task_categories:multiple-choice; task_categories:question-answering; language:az; license:cc-by-sa-4.0; license:apache-2.0; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:text;…
+2026-09-27T22:38:30Z,Nam-toon-studio/Punjabi-Conversational-Speech-Corpus,Nam-toon-studio,0,0,task_categories:automatic-speech-recognition; task_categories:text-to-speech; language:pa; license:apache-2.0; size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; l…
+2026-09-27T22:38:43Z,Asurr/gatotkacamlbb,Asurr,0,0,region:us
+2026-09-27T22:40:48Z,Asurr/gatotkaca,Asurr,0,0,region:us
+2026-09-27T22:48:41Z,SOTAagi2030/Orchard-Atlas-Harvest-Guidance,SOTAagi2030,0,0,region:us
+2026-09-27T22:48:42Z,SOTAagi2030/Orchard-Atlas-Canopy-Observations,SOTAagi2030,0,0,region:us
+2026-09-27T22:49:01Z,SOTAagi2030/Harbor-Incident-Narratives,SOTAagi2030,0,0,region:us
+2026-09-27T22:49:02Z,SOTAagi2030/Harbor-Sensor-Logs,SOTAagi2030,0,0,region:us
+2026-09-27T22:51:04Z,SOTAagi2030/Harbor-SpeechLedger-Alignments,SOTAagi2030,0,0,region:us
+2026-09-27T22:51:05Z,SOTAagi2030/Harbor-SpeechLedger-Clips,SOTAagi2030,0,0,region:us
+2026-09-27T22:51:09Z,jyotishsa04/livehfdatacourse,jyotishsa04,0,0,region:us
+2026-09-27T22:51:19Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-09-27T22:51:19Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-09-27T22:51:28Z,domenicor046/reader-v2-labels,domenicor046,0,0,license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; vesuvius-challenge; ink-detection
+2026-09-27T22:54:42Z,Melo03101986/games-reels-tmp,Melo03101986,0,0,region:us
+2026-09-27T22:55:12Z,KMFDSHGSA/Annoy-PyEdu-Rs,KMFDSHGSA,0,0,region:us
+2026-09-27T22:55:13Z,KMFDSHGSA/Annoy-PyEdu-Rs-Raw,KMFDSHGSA,0,0,region:us
+2026-09-27T22:55:53Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-09-27T22:55:54Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-09-27T22:55:54Z,sdadafdaf4546/Annoy-PyEdu-Rs,sdadafdaf4546,0,0,region:us
+2026-09-27T22:55:54Z,sdadafdaf4546/Annoy-PyEdu-Rs-Raw,sdadafdaf4546,0,0,region:us
+2026-09-27T22:58:03Z,sadasdasdsdds/Annoy-PyEdu-Rs,sadasdasdsdds,0,0,region:us
+2026-09-27T22:58:04Z,sadasdasdsdds/Annoy-PyEdu-Rs-Raw,sadasdasdsdds,0,0,region:us
+2026-09-27T22:58:20Z,g1n0st/c200d06140abe771874c0dfcbdbd73a62dc26f1c,g1n0st,0,0,region:us
+2026-09-27T23:00:27Z,philgabr/rest-natural-language,philgabr,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-27T23:03:29Z,RiverRider/motherlode-code-small-en-v0.1-evidence,RiverRider,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2407.02883; region:us;…
+2026-09-27T23:03:55Z,hranesscom/sys1-benchmarks,hranesscom,0,0,language:en; license:mit; region:us; evaluation; synthetic; decision-making
+2026-09-27T23:04:36Z,g1n0st/ea2247d09a329a60a599b47f3edab7618af0434b,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T23:04:50Z,hranesscom/gobstopper-benchmarks,hranesscom,0,0,license:cc-by-4.0; region:us; benchmark; evaluation; context-compression
+2026-09-27T23:05:02Z,hranesscom/clankdar-benchmarks,hranesscom,0,0,license:cc-by-4.0; region:us; benchmark; evaluation; agents
+2026-09-27T23:05:12Z,hranesscom/algal-experiments,hranesscom,0,0,language:en; license:mit; region:us; agents; evaluation; experiments
+2026-09-27T23:06:54Z,sad12cxzqw/Annoy-PyEdu-Rs,sad12cxzqw,0,0,region:us
+2026-09-27T23:06:55Z,sad12cxzqw/Annoy-PyEdu-Rs-Raw,sad12cxzqw,0,0,region:us
+2026-09-27T23:09:13Z,Jerrycristiano/dataforge-ai-qna,Jerrycristiano,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T23:09:27Z,SOTAagi2030/HarborPulse-Weather-Raw,SOTAagi2030,0,0,region:us
+2026-09-27T23:09:29Z,SOTAagi2030/HarborPulse-Forecast-Notes,SOTAagi2030,0,0,region:us
+2026-09-27T23:11:45Z,divyanshumishra/Adivyanta-Dialogue-Seed-v1,divyanshumishra,0,0,task_categories:text-generation; language:en; language:hi; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-09-27T23:13:15Z,SOTAagi2030/MosaicBench-Source,SOTAagi2030,0,0,region:us
+2026-09-27T23:13:16Z,SOTAagi2030/MosaicBench-Dialog,SOTAagi2030,0,0,region:us
+2026-09-27T23:13:56Z,g1n0st/dd59b6f937279a1612df735cd1997535ba4d1bc4,g1n0st,0,0,region:us
+2026-09-27T23:14:41Z,Special-Vices/comfyui-runpod-scripts,Special-Vices,0,0,region:us
+2026-09-27T23:15:09Z,rubenortega1990/audio-video-data,rubenortega1990,0,0,license:apache-2.0; region:us; dataset; ocean; audio-video
+2026-09-27T23:18:04Z,CHRISrobomacro/global-macro-economic-simulations,CHRISrobomacro,0,0,task_categories:time-series-forecasting; task_categories:question-answering; license:other; size_categories:n<1K; region:us; economics; synthetic; time-series; impulse-response; financial-markets
+2026-09-27T23:18:05Z,CHRISrobomacro/global-macro-economic-simulations-license,CHRISrobomacro,0,0,license:other; region:us; economics; synthetic; impulse-response; financial-markets
+2026-09-27T23:20:01Z,g1n0st/3df85e0dae6b427d5edd5997d37a426719c92f8a,g1n0st,0,0,region:us
+2026-09-27T23:20:54Z,vantovault/2-4-unit-housing-stock-83-metros,vantovault,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; modality:tabular; region:us; housing; census; real-estate; united-states; tabular
+2026-09-27T23:20:54Z,vantovault/duplex-buyers-atlas-2018-2025,vantovault,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; modality:tabular; region:us; housing; mortgage; hmda; real-estate; united-states; tabular
