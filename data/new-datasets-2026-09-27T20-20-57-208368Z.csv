@@ -1,0 +1,63 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-27T19:22:50Z,Tricar/asr-spell-ru,Tricar,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T19:23:22Z,Yuanze/rsi-sandbagging-elicitation-public,Yuanze,0,0,region:us
+2026-09-27T19:23:52Z,sfidan42/turkish-ocr-noise-corpus-v2,sfidan42,0,0,task_categories:image-to-text; language:tr; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; ocr; document-images; robustness; turkish;…
+2026-09-27T19:24:07Z,Yuanze/rsi-sandbagging-elicitation-hidden,Yuanze,0,0,region:us
+2026-09-27T19:24:57Z,miesdevries/stay4s-unified-dataset,miesdevries,0,0,language:nl; license:other; size_categories:10K<n<100K; region:us; dutch; nederlands; stay4s; training-data; multi-agent
+2026-09-27T19:25:29Z,g1n0st/8485bbe4845de65b444a890310fa5200d0bf1508,g1n0st,0,0,region:us
+2026-09-27T19:28:44Z,dm-stark27/russian-asr-corrections,dm-stark27,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T19:30:22Z,haoranranranran/vibeworlding-split05-100-full-trajectories,haoranranranran,0,0,region:us
+2026-09-27T19:30:25Z,qizhangslam/unblur-exposure-final-public-20260927,qizhangslam,0,0,region:us
+2026-09-27T19:31:08Z,sauravsingla08/VertiMosaic-VFL-Benchmark,sauravsingla08,0,0,license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; vertical-federated-learnin…
+2026-09-27T19:31:42Z,emrevrg/n5-pkg,emrevrg,0,0,region:us
+2026-09-27T19:32:31Z,SparksLyse-Community/satori-jsx,SparksLyse-Community,0,0,task_categories:text-generation; language:fr; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us…
+2026-09-27T19:33:19Z,g1n0st/54ea6b76edb5f758b7589fc22a6786ca3abed381,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T19:34:52Z,thaki-AI/daily-paper-2026-09-28-predictability-tax-cost-variance-routing,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; LLM routing; cost predictability; heavy tails; mean-variance frontier; agent loops; FrugalGPT cascade; budget truncation; token pricing
+2026-09-27T19:35:29Z,SOTAagi2030/Metro-Lift-Briefs,SOTAagi2030,0,0,region:us
+2026-09-27T19:35:30Z,SOTAagi2030/Metro-Lift-Events,SOTAagi2030,0,0,region:us
+2026-09-27T19:36:08Z,yyoraa/mm-memory-conflict,yyoraa,0,0,region:us
+2026-09-27T19:40:26Z,CrazyBadRedCat/asr-spell-correction-ru,CrazyBadRedCat,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T19:42:11Z,kbora/Half-Truths,kbora,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2602.23906; regio…
+2026-09-27T19:42:26Z,Dynamicresponselabs/JASON-Public-Evaluation-Starter-Kit,Dynamicresponselabs,0,0,license:apache-2.0; license:cc-by-4.0; region:us; ai-evaluation; responsible-ai; model-governance; synthetic; high-stakes-ai
+2026-09-27T19:43:06Z,joyonta23/brta-rules-2022-bn,joyonta23,0,1,task_categories:text-retrieval; language:bn; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; bengali; bangla; nlp;…
+2026-09-27T19:43:22Z,kbora/CS-CLIP-Training,kbora,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2602.23906; region:us; image-text-…
+2026-09-27T19:45:58Z,Alexey240577/github-trending,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-09-27T19:46:08Z,Alexey240577/2026-09-27,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-09-27T19:51:09Z,lakhidas168/awesome-indian-exams,lakhidas168,0,0,language:en; license:cc-by-sa-4.0; size_categories:n<1K; region:us; education; india; competitive-exams; exam-preparation
+2026-09-27T19:56:03Z,xce1xz21dsa/Annoy-PyEdu-Rs,xce1xz21dsa,0,0,region:us
+2026-09-27T19:56:04Z,xce1xz21dsa/Annoy-PyEdu-Rs-Raw,xce1xz21dsa,0,0,region:us
+2026-09-27T19:57:03Z,tafseer-nayeem/ame-bre-structural-bias,tafseer-nayeem,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:dask; library:mlc…
+2026-09-27T19:57:09Z,PeterLiZijia/zijia-cluster-transfer-20260927,PeterLiZijia,0,0,region:us
+2026-09-27T19:58:48Z,mariannedhk/librispeech_lengths,mariannedhk,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T19:59:23Z,Rishabh23456789/python-codes-25k,Rishabh23456789,0,0,task_categories:text-classification; task_categories:question-answering; task_categories:token-classification; task_categories:summarization; task_categories:text-generation; size_categories:10K<n<10…
+2026-09-27T19:59:28Z,Zd21EDSA123/Annoy-PyEdu-Rs,Zd21EDSA123,0,0,region:us
+2026-09-27T19:59:29Z,Zd21EDSA123/Annoy-PyEdu-Rs-Raw,Zd21EDSA123,0,0,region:us
+2026-09-27T20:03:24Z,RanaGaber/Reddit_Data_filtered_3,RanaGaber,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T20:03:53Z,Spacklight/chiwoko,Spacklight,0,0,region:us
+2026-09-27T20:04:42Z,g1n0st/dd7bf6a644eac14f8b5764fce58d976671386b6e,g1n0st,0,0,region:us
+2026-09-27T20:06:34Z,varun-ramakanth-16/items_prompts_full,varun-ramakanth-16,0,0,region:us
+2026-09-27T20:06:53Z,habib1295/clinicalguard-judge,habib1295,0,0,region:us
+2026-09-27T20:07:22Z,rookierufus/pick_red_wire_diverse_2_20260928_004844,rookierufus,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-27T20:08:32Z,PureOne/evie-cubic-nonbacktracking-kemeny,PureOne,0,0,language:en; size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2510.06650; region:us;…
+2026-09-27T20:09:27Z,g1n0st/236db08c159af815a915d088fb31f2895c10c52f,g1n0st,0,0,region:us
+2026-09-27T20:09:54Z,SOTAagi2030/CodeHarbor-Tracebook,SOTAagi2030,0,0,region:us
+2026-09-27T20:09:54Z,SOTAagi2030/CodeHarbor-Function-Corpus,SOTAagi2030,0,0,region:us
+2026-09-27T20:10:35Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-09-27T20:10:35Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-09-27T20:10:58Z,SOTAagi2030/Aurora-Fault-Tags,SOTAagi2030,0,0,region:us
+2026-09-27T20:10:59Z,SOTAagi2030/Aurora-Substation-Pulses,SOTAagi2030,0,0,region:us
+2026-09-27T20:12:08Z,SOTAagi2030/EstuarySound-FieldClips,SOTAagi2030,0,0,region:us
+2026-09-27T20:12:10Z,SOTAagi2030/EstuarySound-CallTags,SOTAagi2030,0,0,region:us
+2026-09-27T20:12:25Z,smmdlovu/dirisa-sdc-2026-youth-gap-data,smmdlovu,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T20:13:25Z,tfrere/reachy-mini-trailer-video,tfrere,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-27T20:13:30Z,kaffff/groq-ru-spell-correction,kaffff,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T20:13:49Z,YoungMan233/Cap-Evolve,YoungMan233,0,0,region:us
+2026-09-27T20:14:18Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-09-27T20:14:19Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
+2026-09-27T20:14:47Z,darlinnnk/asr-spell-correction,darlinnnk,0,0,region:us
+2026-09-27T20:15:30Z,pyfccc/cgeq-image-depth,pyfccc,0,0,task_categories:depth-estimation; language:en; license:cc-by-nc-sa-3.0; size_categories:1K<n<10K; arxiv:2205.09095; region:us; kitti; leres; online-calibration; risk-control; cgeq
+2026-09-27T20:16:04Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-09-27T20:16:04Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-09-27T20:17:11Z,alperk3003/frca-adversarialqa-dbert-minilm-raw-results-20260924,alperk3003,0,0,language:en; license:other; region:us; reproducibility; question-answering; adapters; qlora
+2026-09-27T20:19:33Z,RanaGaber/Reddit_Egy,RanaGaber,0,0,region:us
+2026-09-27T20:19:47Z,fatimaqasim26/ai-blindspot-financial-health-access,fatimaqasim26,0,0,region:us
