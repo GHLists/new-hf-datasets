@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-27T21:20:43Z,SADD1DSA21DSA/Annoy-PyEdu-Rs,SADD1DSA21DSA,0,0,region:us
+2026-09-27T21:20:44Z,SADD1DSA21DSA/Annoy-PyEdu-Rs-Raw,SADD1DSA21DSA,0,0,region:us
+2026-09-27T21:24:16Z,betojdk/banking77,betojdk,0,0,task_categories:text-classification; task_ids:intent-classification; task_ids:multi-class-classification; annotations_creators:expert-generated; language_creators:expert-generated; multilinguality:mo…
+2026-09-27T21:25:20Z,g1n0st/80f1b1e6dd12fde17490166a0d8e2f7bc9234fb2,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-09-27T21:25:27Z,kiteml/dual-openyam-close-box,kiteml,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-27T21:25:56Z,mustafamirghani/hadith-authenticity-blindspot-qwen2.5-3b,mustafamirghani,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T21:27:22Z,mordecaiusm/kerno-microstructure,mordecaiusm,0,0,license:cc-by-nc-4.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; finance; crypto; marke…
+2026-09-27T21:27:26Z,tafseer-nayeem/NameTrace,tafseer-nayeem,0,0,task_categories:text-classification; language:en; license:other; size_categories:n<1K; modality:tabular; modality:text; region:us; tokenization; language-models; first-names; representation-analysis
+2026-09-27T21:29:06Z,Similoluwa/capstone-datasets,Similoluwa,0,0,task_categories:text-classification; task_categories:question-answering; task_categories:text-generation; multilinguality:multilingual; language:en; language:sw; language:am; language:lg; language:ak…
+2026-09-27T21:30:28Z,SOTAagi2030/Ridgeway-Terrain-Grid-Tiles,SOTAagi2030,0,0,region:us
+2026-09-27T21:30:31Z,SOTAagi2030/Ridgeway-Route-Brief-Generations,SOTAagi2030,0,0,region:us
+2026-09-27T21:30:40Z,eduherminio/lynx-dfrc-1.0,eduherminio,0,0,license:mit; region:us
+2026-09-27T21:31:42Z,mkche9/cyan_wrist_only,mkche9,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-09-27T21:31:46Z,RTM-MT/qwen3.8-27b-OT,RTM-MT,0,0,task_categories:translation; language:multilingual; region:us; qwen; reasoning
+2026-09-27T21:37:19Z,Morganestipose/so101_lipstick_20260927_232547,Morganestipose,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-27T21:37:30Z,frankchang1000/sim2real_data,frankchang1000,0,0,region:us
+2026-09-27T21:38:26Z,g1n0st/fd46e6fa06f75f1d0e931a33d395824665879a84,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-09-27T21:39:24Z,ssdunit/abc_sim_set_up_chess_pieces_on_the_board,ssdunit,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-09-27T21:39:34Z,bryce301best/place_block_rebot_final_73_relative,bryce301best,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-27T21:41:41Z,lonelyforever/enveda.casmi,lonelyforever,0,0,license:mit; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T21:45:55Z,eduherminio/lynx-1.0-extended,eduherminio,0,0,license:mit; region:us
+2026-09-27T21:46:04Z,ytung/g1-pipette-augmented0927,ytung,0,0,language:en; size_categories:n<1K; modality:tabular; modality:text; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; robotics; lerobot; unitree-g1; simulation; video
+2026-09-27T21:46:08Z,Alexey240577/dataset-90545554,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-09-27T21:47:22Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-09-27T21:47:22Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-09-27T21:47:42Z,SOTAagi2030/LanternReef-DiveLog,SOTAagi2030,0,0,region:us
+2026-09-27T21:47:43Z,SOTAagi2030/LanternReef-SpeciesCapsules,SOTAagi2030,0,0,region:us
+2026-09-27T21:49:09Z,SOTAagi2030/Tidal-Basin-Observations,SOTAagi2030,0,0,region:us
+2026-09-27T21:49:11Z,SOTAagi2030/Tidal-Basin-Annotations,SOTAagi2030,0,0,region:us
+2026-09-27T21:50:26Z,SOTAagi2030/Mica-Harbor-Sensors,SOTAagi2030,0,0,region:us
+2026-09-27T21:50:27Z,SOTAagi2030/Mica-Harbor-Alerts,SOTAagi2030,0,0,region:us
+2026-09-27T21:52:04Z,SOTAagi2030/Marsh-Echo-Records,SOTAagi2030,0,0,region:us
+2026-09-27T21:52:06Z,SOTAagi2030/Marsh-Echo-Summaries,SOTAagi2030,0,0,region:us
+2026-09-27T21:52:27Z,ASCXZ12D/Annoy-PyEdu-Rs,ASCXZ12D,0,0,region:us
+2026-09-27T21:52:28Z,ASCXZ12D/Annoy-PyEdu-Rs-Raw,ASCXZ12D,0,0,region:us
+2026-09-27T21:56:53Z,e-sensing/cerrado_emb_ssl_lejepa_tcnn_2018,e-sensing,0,0,license:cc-by-nc-sa-2.0; region:us
+2026-09-27T21:59:24Z,g1n0st/716b5fd5a9637dd6c809fc58bd47ced27a24d31c,g1n0st,0,0,region:us
+2026-09-27T22:00:30Z,adrae/Annoy-PyEdu-Rs,adrae,0,0,region:us
+2026-09-27T22:00:30Z,adrae/Annoy-PyEdu-Rs-Raw,adrae,0,0,region:us
+2026-09-27T22:01:37Z,g1n0st/b4db2cbbd178e2b69c207c176a2d13d020365a44,g1n0st,0,0,region:us
+2026-09-27T22:08:03Z,liuf12123456/Annoy-PyEdu-Rs-Raw,liuf12123456,0,0,region:us
+2026-09-27T22:08:03Z,liuf12123456/Annoy-PyEdu-Rs,liuf12123456,0,0,region:us
+2026-09-27T22:08:42Z,g1n0st/630e1cdf17d78ab8d6c2a1f011f40804471c984f,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T22:08:58Z,SOTAagi2030/HarborSignal-Route-Summaries,SOTAagi2030,0,0,region:us
+2026-09-27T22:08:59Z,SOTAagi2030/HarborSignal-Source-Notices,SOTAagi2030,0,0,region:us
+2026-09-27T22:09:06Z,SOTAagi2030/Cedar-Code-Archive,SOTAagi2030,0,0,region:us
+2026-09-27T22:09:08Z,SOTAagi2030/Cedar-Code-Refined,SOTAagi2030,0,0,region:us
+2026-09-27T22:09:33Z,SOTAagi2030/VelaCross-MapTiles,SOTAagi2030,0,0,region:us
+2026-09-27T22:09:36Z,SOTAagi2030/VelaCross-DispatchLogs,SOTAagi2030,0,0,region:us
+2026-09-27T22:10:22Z,SOTAagi2030/MesaRelay-Sensor-Windows,SOTAagi2030,0,0,region:us
+2026-09-27T22:10:23Z,SOTAagi2030/MesaRelay-Fault-Explanations,SOTAagi2030,0,0,region:us
+2026-09-27T22:14:11Z,SOTAagi2030/Aurora-Service-Summaries,SOTAagi2030,0,0,region:us
+2026-09-27T22:14:12Z,SOTAagi2030/Aurora-Rider-Transcripts,SOTAagi2030,0,0,region:us
+2026-09-27T22:14:43Z,g1n0st/8fb784e6f32ef15e8390e214af9cb5ebada47d68,g1n0st,0,0,region:us
+2026-09-27T22:16:31Z,OSTswiss/SwissPoliticalFactCheckingBenchmark,OSTswiss,0,0,license:mit; region:us
+2026-09-27T22:19:44Z,secondstate/finance-agents-benchmark,secondstate,0,0,region:us
