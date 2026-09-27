@@ -20,7 +20,7 @@ permissions:
   contents: write
 
 concurrency:
-  group: hourly-new-hf-datasets
+  group: hourly-new-huggingface-datasets
   cancel-in-progress: false
 
 jobs:

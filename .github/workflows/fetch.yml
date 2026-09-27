@@ -45,7 +45,7 @@ jobs:
             args+=(--until "$INPUT_UNTIL")
           fi
           retry python3 scripts/fetch_new_datasets.py \
-            --user-agent "new-hf-datasets/1.0 (+https://github.com/${{ github.repository }})" \
+            --user-agent "new-huggingface-datasets/1.0 (+https://github.com/${{ github.repository }})" \
             "${args[@]}"
 
       - name: Render README

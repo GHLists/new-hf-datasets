@@ -24,7 +24,7 @@ from pathlib import Path
 
 DATASETS_URL = "https://huggingface.co/api/datasets"
 DEFAULT_USER_AGENT = (
-    "new-hf-datasets/1.0 (https://github.com/GHLists/new-hf-datasets)"
+    "new-huggingface-datasets/1.0 (https://github.com/GHLists/new-huggingface-datasets)"
 )
 
 PAGE_SIZE = 1000
