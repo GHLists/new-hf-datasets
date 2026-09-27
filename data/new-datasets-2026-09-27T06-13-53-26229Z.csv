@@ -1,0 +1,42 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-27T05:14:52Z,guichol727/tensor-batch-ueuiry,guichol727,0,0,region:us
+2026-09-27T05:14:53Z,nguyen599/dspk-0423-trace,nguyen599,0,0,license:apache-2.0; region:us
+2026-09-27T05:16:10Z,g1n0st/a34701d5b8996db29b21cb69852e9b4eb809ed00,g1n0st,0,0,region:us
+2026-09-27T05:16:19Z,oklenAI/web-page-quality-edu-strict-blind-5196,oklenAI,0,0,task_categories:text-classification; language:en; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-09-27T05:17:42Z,totum-labs/plumb-data,totum-labs,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-09-27T05:18:15Z,incrediblecrab/scotus-about,incrediblecrab,0,0,region:us
+2026-09-27T05:22:28Z,olusegunola/primekg-gt-trainprompt-seed7,olusegunola,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T05:23:55Z,yamaisanerd/clean_20260927_112628,yamaisanerd,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-27T05:24:35Z,g1n0st/e4bda3ed5dceb9b050db2b494e666947de6fe872,g1n0st,0,0,region:us
+2026-09-27T05:29:38Z,Tenry55/Pick_and_put_screw_driver_with_more_variance2_20260927_132716,Tenry55,0,0,region:us
+2026-09-27T05:31:43Z,Tenry55/Pick_and_put_screw_driver_with_more_variance2_20260927_133012,Tenry55,0,0,region:us
+2026-09-27T05:41:27Z,gyuhyeong-k/RealSWE-bench,gyuhyeong-k,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T05:41:36Z,z1hanw/PRISM,z1hanw,0,0,license:cc-by-4.0; region:us
+2026-09-27T05:42:09Z,flpjck/css-ncii-teamwork-marped-deck,flpjck,0,0,region:us
+2026-09-27T05:51:50Z,hugstan1/vibeworlding-split08-100-full-trajectories,hugstan1,0,0,region:us
+2026-09-27T05:52:15Z,hf989/TwinLlama-3.1-8B-results,hf989,0,0,region:us
+2026-09-27T05:53:07Z,SADCAS12CSA/Annoy-PyEdu-Rs,SADCAS12CSA,0,0,region:us
+2026-09-27T05:53:07Z,SADCAS12CSA/Annoy-PyEdu-Rs-Raw,SADCAS12CSA,0,0,region:us
+2026-09-27T05:53:21Z,hyunho7979/sonic-turn-dance,hyunho7979,0,0,modality:text; region:us
+2026-09-27T05:53:32Z,Blackueos999/Popular_data,Blackueos999,0,0,region:us
+2026-09-27T05:54:05Z,ASD213213SA/Annoy-PyEdu-Rs,ASD213213SA,0,0,region:us
+2026-09-27T05:54:06Z,ASD213213SA/Annoy-PyEdu-Rs-Raw,ASD213213SA,0,0,region:us
+2026-09-27T05:55:20Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-09-27T05:55:21Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-09-27T05:56:12Z,DSA21CSA31A21EER/Annoy-PyEdu-Rs-Raw,DSA21CSA31A21EER,0,0,region:us
+2026-09-27T05:56:12Z,DSA21CSA31A21EER/Annoy-PyEdu-Rs,DSA21CSA31A21EER,0,0,region:us
+2026-09-27T05:57:38Z,Aaaay-0610/so101-test-2,Aaaay-0610,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-27T05:59:21Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-09-27T05:59:21Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-09-27T06:07:22Z,g1n0st/000ba05afd1caf7bd468dc9e4951e24089aeda30,g1n0st,0,0,region:us
+2026-09-27T06:08:00Z,Org-Exp/Tokenizer,Org-Exp,0,0,region:us
+2026-09-27T06:08:25Z,Darknsu/100hr-temp-run-model,Darknsu,0,0,license:apache-2.0; region:us
+2026-09-27T06:08:32Z,g1n0st/ddd75a5231ae0b97e4543524996893b0e0bf7d0b,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-27T06:08:35Z,WinderBYZ/Annoy-PyEdu-Rs-Raw-beta,WinderBYZ,0,0,region:us
+2026-09-27T06:08:35Z,WinderBYZ/Annoy-PyEdu-Rs-beta,WinderBYZ,0,0,region:us
+2026-09-27T06:09:10Z,robro612/msmarco_lateon_hpool_regularized,robro612,0,0,region:us
+2026-09-27T06:10:21Z,yamaisanerd/clean_20260927_124608,yamaisanerd,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-09-27T06:10:44Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-09-27T06:10:44Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-09-27T06:11:23Z,Tenry55/Pick_and_put_screw_driver_with_more_variance2_20260927_133152,Tenry55,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-09-27T06:12:51Z,Darstellar/nhan_filter,Darstellar,0,0,region:us; robotis; cyclo_intelligence; robotics
