@@ -1,0 +1,69 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-28T04:21:48Z,SADCAS12CSA/Annoy-PyEdu-Rs-Raw,SADCAS12CSA,0,0,region:us
+2026-09-28T04:21:48Z,SADCAS12CSA/Annoy-PyEdu-Rs,SADCAS12CSA,0,0,region:us
+2026-09-28T04:24:27Z,rijal028/ai-vs-human-continual-split,rijal028,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-28T04:27:48Z,akimaru/Narrow_zone,akimaru,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-28T04:28:11Z,pytenter/ling-kda-artifacts,pytenter,0,0,region:us
+2026-09-28T04:29:01Z,WestlakeDI/awomo-preview-molmospaces-eval,WestlakeDI,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us; molmospaces; robotics; evaluation
+2026-09-28T04:29:07Z,sven1985/aimodels,sven1985,0,0,region:us
+2026-09-28T04:30:13Z,nassimjp/Pretraining_Dataset,nassimjp,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T04:31:01Z,SOTAagi2030/Meadow-Sighting-Events,SOTAagi2030,0,0,region:us
+2026-09-28T04:31:06Z,SOTAagi2030/Bloom-Visit-Explanations,SOTAagi2030,0,0,region:us
+2026-09-28T04:35:01Z,xiapk7/ANT-A-Benchmark,xiapk7,0,0,task_categories:text-classification; task_categories:token-classification; task_categories:image-classification; multilinguality:multilingual; language:en; language:zh; license:apache-2.0; size_categ…
+2026-09-28T04:35:55Z,SOTAagi2030/LedgerLeaf-Receipt-Scans,SOTAagi2030,0,0,region:us
+2026-09-28T04:35:58Z,SOTAagi2030/LedgerLeaf-Line-Transcriptions,SOTAagi2030,0,0,region:us
+2026-09-28T04:36:30Z,Gsgsgsvdbda/Ffts,Gsgsgsvdbda,0,0,region:us
+2026-09-28T04:38:25Z,mviola/nuImages-cam-front,mviola,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-09-28T04:40:50Z,1202kbs/FAR-Datasets,1202kbs,0,0,license:apache-2.0; region:us
+2026-09-28T04:40:51Z,safafaf4546/Annoy-PyEdu-Rs-Raw,safafaf4546,0,0,region:us
+2026-09-28T04:40:51Z,safafaf4546/Annoy-PyEdu-Rs,safafaf4546,0,0,region:us
+2026-09-28T04:41:35Z,Feelx8989/samantha-1.1-uncensored,Feelx8989,0,1,language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T04:42:42Z,g1n0st/e406822092e79e08d16154c1abb970bd06d93d56,g1n0st,0,0,region:us
+2026-09-28T04:45:20Z,fakeid-dev-8421/fakeid-api-dist,fakeid-dev-8421,0,0,region:us
+2026-09-28T04:46:45Z,shamitwell/yam-tube-pour-in-beaker-2026-09-27,shamitwell,0,0,region:us; robotics; teleoperation; raw-backup
+2026-09-28T04:49:03Z,kingchou007/3dtacdex,kingchou007,0,0,language:en; size_categories:10K<n<100K; region:us; robotics; tactile; dexterous-manipulation; zarr; open-x-tactile
+2026-09-28T04:49:15Z,lwjohnson/agriculture-dataset,lwjohnson,0,0,license:mit; region:us; dataset; agriculture; multimodal3
+2026-09-28T04:49:16Z,rbtrprjkt/rollout_gract_han10e_20260927_234529,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-28T04:52:36Z,indojin/ur5e-test-tube-3cam-newroom0928,indojin,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-28T04:53:49Z,Tok331102/38-2022-dataset-complete,Tok331102,0,0,region:us
+2026-09-28T04:54:04Z,ASDCXZ12E3213/Annoy-PyEdu-Rs,ASDCXZ12E3213,0,0,region:us
+2026-09-28T04:54:05Z,qwrqwrqwrqr/Annoy-PyEdu-Rs,qwrqwrqwrqr,0,0,region:us
+2026-09-28T04:54:05Z,ASDCXZ12E3213/Annoy-PyEdu-Rs-Raw,ASDCXZ12E3213,0,0,region:us
+2026-09-28T04:54:05Z,DSAD12E1/Annoy-PyEdu-Rs,DSAD12E1,0,0,region:us
+2026-09-28T04:54:06Z,qwrqwrqwrqr/Annoy-PyEdu-Rs-Raw,qwrqwrqwrqr,0,0,region:us
+2026-09-28T04:54:06Z,DSAD12E1/Annoy-PyEdu-Rs-Raw,DSAD12E1,0,0,region:us
+2026-09-28T04:56:30Z,songjie0209/PhenoNormBench,songjie0209,0,0,license:mit; region:us
+2026-09-28T04:56:33Z,Victo-rfir4/quick-travel,Victo-rfir4,0,0,license:apache-2.0; region:us; dataset; travel; text-tabular
+2026-09-28T04:57:19Z,g1n0st/54376f85dc6c5b566a08dbddd609375565a5d6d9,g1n0st,0,0,region:us
+2026-09-28T04:58:02Z,WinderBYZ/Annoy-PyEdu-Rs-gamma,WinderBYZ,0,0,region:us
+2026-09-28T04:58:03Z,WinderBYZ/Annoy-PyEdu-Rs-Raw-gamma,WinderBYZ,0,0,region:us
+2026-09-28T04:59:29Z,g1n0st/50a61e1466dbb5ff9bd15a8f2225e41b8db9e0bc,g1n0st,0,0,region:us
+2026-09-28T05:00:25Z,unlimitedpipe/feed-history,unlimitedpipe,0,0,task_categories:text-retrieval; task_categories:question-answering; language:en; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polar…
+2026-09-28T05:00:51Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-09-28T05:00:51Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-09-28T05:04:41Z,SOTAagi2030/HarborGlyph-Tide-Gauge-Readings,SOTAagi2030,0,0,region:us
+2026-09-28T05:04:42Z,SOTAagi2030/HarborGlyph-Port-Map-Annotations,SOTAagi2030,0,0,region:us
+2026-09-28T05:07:14Z,MARIAVASport/code-audio-video-curated-2023,MARIAVASport,0,0,license:cc-by-4.0; region:us; dataset; code; audio-video
+2026-09-28T05:07:21Z,chaoliangUNSW/decision-index-results,chaoliangUNSW,0,0,license:apache-2.0; region:us; decision-index; jev-style
+2026-09-28T05:09:00Z,lisonallen/jev-ai-benchmark,lisonallen,0,0,language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; jev; typesafe; benchmark…
+2026-09-28T05:09:14Z,liang12121/nebula101-upload-speedtest-20260928-050914,liang12121,0,0,region:us
+2026-09-28T05:09:40Z,Long27/so101_cartesian_demo10,Long27,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-28T05:09:53Z,Athar-vchau/learn-code,Athar-vchau,0,0,license:cc-by-4.0; region:us; dataset; code; sensor-fusion
+2026-09-28T05:10:22Z,kucheroleksii777/pre_y22_dataset_complete,kucheroleksii777,0,0,task_categories:text-generation; language:en; license:mit; size_categories:100B<n<1T; region:us
+2026-09-28T05:11:30Z,SOTAagi2030/AuroraLedger-Station-Archive,SOTAagi2030,0,0,region:us
+2026-09-28T05:11:34Z,SOTAagi2030/AuroraLedger-Event-Briefs,SOTAagi2030,0,0,region:us
+2026-09-28T05:11:46Z,earth37815/lead-alpamayo-multirig-pai,earth37815,0,0,region:us
+2026-09-28T05:12:27Z,g1n0st/8192812f76710bb052c702e7c59f401da5713d26,g1n0st,0,0,region:us
+2026-09-28T05:13:09Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-09-28T05:13:09Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-09-28T05:14:37Z,saanvibhat/nlp-qa-sensor-fusion,saanvibhat,0,0,license:apache-2.0; region:us; dataset; nlp-qa; sensor-fusion
+2026-09-28T05:14:56Z,VertexAGI/cyberdata-1,VertexAGI,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:code; license:other; size_categories:10K<n<100K; region:us; cybersecurity; security; agents; tool-use; code;…
+2026-09-28T05:15:18Z,smerkd/c4d-scenes,smerkd,0,0,size_categories:1K<n<10K; region:us; synthetic; 4d; multi-view; depth; optical-flow; computer-vision
+2026-09-28T05:18:19Z,FINAL-Bench/OSC-Superconductor,FINAL-Bench,0,0,language:en; language:ko; license:apache-2.0; region:us; open-science; superconductivity; strongly-correlated; materials-discovery; 2d-materials; hubbard-model; challenge; leaderboard; cpu-friendly
+2026-09-28T05:18:22Z,SOTAagi2030/CivicLumen-Poster-Transcripts,SOTAagi2030,0,0,region:us
+2026-09-28T05:18:44Z,hab-swe/20260927-hab-think-medcli-v2-grpo-27b-iter29-rerun-1-public,hab-swe,0,0,region:us
+2026-09-28T05:20:16Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-09-28T05:20:17Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
+2026-09-28T05:20:56Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-09-28T05:20:56Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-09-28T05:21:59Z,hajunkhk/math-data,hajunkhk,0,0,license:apache-2.0; region:us; dataset; math; video-text
