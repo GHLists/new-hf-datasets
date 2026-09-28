@@ -1,0 +1,74 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-28T00:20:59Z,rose33300/38-2022-2-submission,rose33300,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T00:23:02Z,hranesscom/sponge-research-evaluations,hranesscom,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; evaluation; deep-research
+2026-09-28T00:25:08Z,nassimjp/Polyglot-Restaurant-Reasoning-Dataset,nassimjp,0,0,task_categories:text-generation; task_categories:question-answering; language:ps; language:fa; language:ur; language:bal; language:snd; language:en; language:ja; license:mit; size_categories:n<1K; fo…
+2026-09-28T00:27:17Z,SOTAagi2030/CedarMap-Street-Plate-Scans,SOTAagi2030,0,0,region:us
+2026-09-28T00:27:17Z,SOTAagi2030/CedarMap-Normalized-Place-Names,SOTAagi2030,0,0,region:us
+2026-09-28T00:29:45Z,SOTAagi2030/Beacon-Rook-Pings,SOTAagi2030,0,0,region:us
+2026-09-28T00:29:46Z,SOTAagi2030/Beacon-Rook-Briefs,SOTAagi2030,0,0,region:us
+2026-09-28T00:30:41Z,YNSScarSaiyan/bulmax-production-resume-159512,YNSScarSaiyan,0,0,region:us
+2026-09-28T00:33:07Z,kenneth-holstad/lab05-semantic-search,kenneth-holstad,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T00:35:30Z,Alexey240577/dataset-90555383,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-09-28T00:36:59Z,SaanviMehta/nlp-summarization-dataset,SaanviMehta,0,0,license:cc-by-4.0; region:us; dataset; nlp-summarization; audio-text
+2026-09-28T00:38:08Z,jieuncjc/nlp-summarization-data,jieuncjc,0,0,license:mit; region:us; dataset; nlp-summarization; pointcloud-text
+2026-09-28T00:38:28Z,thevareoz/Rack,thevareoz,0,0,region:us
+2026-09-28T00:43:14Z,hmorimitsu/resolution-calibrated-corruptions,hmorimitsu,0,0,license:cc-by-4.0; region:us
+2026-09-28T00:45:00Z,SOTAagi2030/LatticeAir-Monitor-Records,SOTAagi2030,0,0,region:us
+2026-09-28T00:45:03Z,SOTAagi2030/LatticeAir-Exposure-Annotations,SOTAagi2030,0,0,region:us
+2026-09-28T00:46:09Z,SOTAagi2030/CinderMap-Events,SOTAagi2030,0,0,region:us
+2026-09-28T00:46:12Z,SOTAagi2030/CinderMap-Annotations,SOTAagi2030,0,0,region:us
+2026-09-28T00:46:59Z,SOTAagi2030/CanopyPulse-Frost-Advisories,SOTAagi2030,0,0,region:us
+2026-09-28T00:47:00Z,SOTAagi2030/CanopyPulse-Sensor-Bursts,SOTAagi2030,0,0,region:us
+2026-09-28T00:47:37Z,jacobwhiteberg/geology-audio-video-benchmark,jacobwhiteberg,0,0,license:apache-2.0; region:us; dataset; geology; audio-video
+2026-09-28T00:48:04Z,mabahboh/ArVoice-Undiacritized,mabahboh,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; source_datasets:MBZUAI/ArVoice; language:ar; license:cc-by-4.0; size_categories:10K<n<100K; modality:audio; modality:text…
+2026-09-28T00:48:07Z,Xingqiao-2002/ScaffoldAR-training-data,Xingqiao-2002,0,0,license:gpl-3.0; region:us; polymer; conformation-generation
+2026-09-28T00:48:17Z,ydaichi/eval_pencil_color4,ydaichi,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-09-28T00:49:38Z,SOTAagi2030/Civic-Atlas-Tiles,SOTAagi2030,0,0,region:us
+2026-09-28T00:49:39Z,SOTAagi2030/Civic-Atlas-Samples,SOTAagi2030,0,0,region:us
+2026-09-28T00:51:19Z,hab-swe/20260927-hab-think-medcli-v2-grpo-27b-iter49-public,hab-swe,0,0,region:us; healthagentbench; agent-evaluation
+2026-09-28T00:52:27Z,itokelvin00/my-satellite,itokelvin00,0,0,license:mit; region:us; dataset; satellite; video-text
+2026-09-28T00:53:36Z,argagar/Annoy-PyEdu-Rs,argagar,0,0,region:us
+2026-09-28T00:53:37Z,argagar/Annoy-PyEdu-Rs-Raw,argagar,0,0,region:us
+2026-09-28T00:54:07Z,gehaergserg/Annoy-PyEdu-Rs,gehaergserg,0,0,region:us
+2026-09-28T00:54:08Z,gehaergserg/Annoy-PyEdu-Rs-Raw,gehaergserg,0,0,region:us
+2026-09-28T00:55:13Z,AgenticFilmLab/minimax-h3-third-person-view-lora-record,AgenticFilmLab,0,0,task_categories:text-to-video; task_categories:video-to-video; license:other; size_categories:n<1K; region:us; minimax-h3; lora; video-generation; comfyui; runpod; controlled-test
+2026-09-28T00:56:03Z,ASD21DWSA/Annoy-PyEdu-Rs,ASD21DWSA,0,0,region:us
+2026-09-28T00:56:04Z,ASD21DWSA/Annoy-PyEdu-Rs-Raw,ASD21DWSA,0,0,region:us
+2026-09-28T00:56:23Z,hab-swe/20260927-hab-think-medcli-v2-grpo-27b-iter49-rerun-1-public,hab-swe,0,0,region:us; healthagentbench; agent-evaluation
+2026-09-28T00:57:10Z,thaeagher/Annoy-PyEdu-Rs,thaeagher,0,0,region:us
+2026-09-28T00:57:11Z,thaeagher/Annoy-PyEdu-Rs-Raw,thaeagher,0,0,region:us
+2026-09-28T00:57:20Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-09-28T00:57:20Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-09-28T00:58:04Z,jadomingo05/astronomy-sensor-fusion64-2023,jadomingo05,0,0,license:cc-by-4.0; region:us; dataset; astronomy; sensor-fusion
+2026-09-28T01:00:03Z,ASCXZ13DASX/Annoy-PyEdu-Rs,ASCXZ13DASX,0,0,region:us
+2026-09-28T01:00:03Z,ASCXZ13DASX/Annoy-PyEdu-Rs-Raw,ASCXZ13DASX,0,0,region:us
+2026-09-28T01:00:05Z,QSJMKDSFDS/Annoy-PyEdu-Rs,QSJMKDSFDS,0,0,region:us
+2026-09-28T01:00:06Z,QSJMKDSFDS/Annoy-PyEdu-Rs-Raw,QSJMKDSFDS,0,0,region:us
+2026-09-28T01:00:28Z,rubentium/sparseatt-mask-cache-8k-mixed,rubentium,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-09-28T01:00:54Z,Marcus-ikeda/nlp-qa-multimodal3,Marcus-ikeda,0,0,license:cc-by-4.0; region:us; dataset; nlp-qa; multimodal3
+2026-09-28T01:01:06Z,IbrahimSeven/medgemma-1.5-4b-fundus-cot-eval,IbrahimSeven,0,0,region:us
+2026-09-28T01:01:41Z,librakevin/lewm-pusht,librakevin,0,0,region:us
+2026-09-28T01:02:17Z,sa1zxc1q23sadae/Annoy-PyEdu-Rs,sa1zxc1q23sadae,0,0,region:us
+2026-09-28T01:02:18Z,sa1zxc1q23sadae/Annoy-PyEdu-Rs-Raw,sa1zxc1q23sadae,0,0,region:us
+2026-09-28T01:02:44Z,bytebarhq/bytebar-free-exam-questions,bytebarhq,0,0,task_categories:question-answering; task_categories:text-generation; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-09-28T01:02:58Z,rbtrprjkt/rollout_pi05_han10e_20260927_200245,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-09-28T01:06:06Z,SOTAagi2030/HarborSignal-Observations,SOTAagi2030,0,0,region:us
+2026-09-28T01:06:08Z,SOTAagi2030/HarborSignal-QA,SOTAagi2030,0,0,region:us
+2026-09-28T01:06:38Z,SOTAagi2030/Metro-Service-Annotations,SOTAagi2030,0,0,region:us
+2026-09-28T01:06:38Z,SOTAagi2030/Metro-Stop-Photos,SOTAagi2030,0,0,region:us
+2026-09-28T01:06:56Z,rbtrprjkt/rollout_pi05_han10e_20260927_200616,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-09-28T01:06:59Z,SOTAagi2030/OrchardEcho-SensorFrames,SOTAagi2030,0,0,region:us
+2026-09-28T01:07:01Z,SOTAagi2030/OrchardEcho-QualityTags,SOTAagi2030,0,0,region:us
+2026-09-28T01:07:21Z,trshen925/robolab-pi05-simple15-30,trshen925,0,0,task_categories:robotics; license:other; region:us; robolab; pi0.5; robot-manipulation
+2026-09-28T01:08:12Z,Johnblick187/tweaktron-dataset,Johnblick187,0,0,size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T01:09:35Z,SOTAagi2030/Harbor-Estuary-Navigation-Summaries,SOTAagi2030,0,0,region:us
+2026-09-28T01:09:35Z,SOTAagi2030/Harbor-Estuary-Tide-Observations,SOTAagi2030,0,0,region:us
+2026-09-28T01:09:36Z,CodyQin/zh-decision-bench,CodyQin,0,0,task_categories:text-classification; task_categories:feature-extraction; language:zh; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:po…
+2026-09-28T01:13:06Z,ASD12EDSXA/Annoy-PyEdu-Rs,ASD12EDSXA,0,0,region:us
+2026-09-28T01:13:07Z,ASD12EDSXA/Annoy-PyEdu-Rs-Raw,ASD12EDSXA,0,0,region:us
+2026-09-28T01:13:36Z,chscott90/music-image-audio,chscott90,0,0,license:cc-by-4.0; region:us; dataset; music; image-audio
+2026-09-28T01:15:16Z,rbtrprjkt/rollout_gract_han10e_20260927_201408,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-09-28T01:15:37Z,yarahazim333/mws-bug-docs-dataset-v2,yarahazim333,0,0,region:us
+2026-09-28T01:16:59Z,hai-tran/simple-agriculture,hai-tran,0,0,license:cc-by-4.0; region:us; dataset; agriculture; video-text
+2026-09-28T01:17:41Z,rbtrprjkt/rollout_gract_han10e_20260927_201632,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-09-28T01:19:40Z,ramosl-orenzo/simple-comics,ramosl-orenzo,0,0,license:mit; region:us; dataset; comics; multimodal3
