@@ -1,0 +1,359 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-28T17:21:43Z,CheneyWong/PubTables-v2,CheneyWong,0,0,region:us
+2026-09-28T17:23:32Z,PEN2044/set50cub_20260928_201427,PEN2044,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-28T17:27:06Z,grey-cat/cs6013-codec-lab-v2,grey-cat,0,0,region:us
+2026-09-28T17:27:37Z,bk912/green_cube_blue_platform_to_box,bk912,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:28:33Z,aabreu-nv/simready-assets-product-pound,aabreu-nv,0,0,region:us
+2026-09-28T17:28:36Z,astroduck17/anlp-a2-task3-generations,astroduck17,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; region:us
+2026-09-28T17:30:49Z,Parth41/usda-fdc-foods-cleaned,Parth41,0,0,language:en; license:cc0-1.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; nutrition;…
+2026-09-28T17:31:19Z,owenisas/arkor-synthetic-vision-smoke,owenisas,0,0,task_categories:image-text-to-text; license:cc0-1.0; size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:31:45Z,CheneyWong/TableVerse-5K,CheneyWong,0,0,region:us
+2026-09-28T17:32:07Z,uiuc-kang-lab/PersistBD,uiuc-kang-lab,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; backdoor-attack; llm-agents; software-engineering; swe-bench; safety; preference-learning
+2026-09-28T17:33:19Z,g1n0st/2062b459e3fc7cb615b88e3aecc5b90e0a47374f,g1n0st,0,0,region:us
+2026-09-28T17:33:39Z,CheneyWong/PubTabNet,CheneyWong,0,0,region:us
+2026-09-28T17:33:39Z,CheneyWong/PubTabNet-ICDAR-test-GT,CheneyWong,0,0,region:us
+2026-09-28T17:33:39Z,HarshilDaGoat/gem-bid-risk-data,HarshilDaGoat,0,0,size_categories:100K<n<1M; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:33:48Z,simranprajapa/synthetic-indic-manuscripts,simranprajapa,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:46Z,swhitfield/biomap-research-ssp_q3,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:48Z,swhitfield/biomap-research-ssp_q8,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:50Z,swhitfield/biomap-research-fold_prediction,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:51Z,swhitfield/biomap-research-fitness_prediction,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:53Z,swhitfield/biomap-research-metal_ion_binding,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:55Z,swhitfield/biomap-research-localization_prediction,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:57Z,swhitfield/biomap-research-enzyme_catalytic_efficiency,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:36:58Z,swhitfield/biomap-research-optimal_ph,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:37:00Z,swhitfield/biomap-research-optimal_temperature,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:37:01Z,swhitfield/biomap-research-temperature_stability,swhitfield,0,0,size_categories:1M<n<10M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:37:04Z,swhitfield/biomap-research-stability_prediction,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:37:06Z,swhitfield/biomap-research-solubility_prediction,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:37:11Z,swhitfield/interpro_active_site,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:37:15Z,swhitfield/interpro_binding_site,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:37:23Z,swhitfield/interpro_conserved_site,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:38:08Z,udontknome1212/Fable-5.1-Max-Reasoning-Filtered-10000x,udontknome1212,0,0,task_categories:text-generation; task_categories:question-answering; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; library:datasets; library:pandas; library:polars; librar…
+2026-09-28T17:39:06Z,NathanTong/astra3d-split10-trajectories,NathanTong,0,0,region:us
+2026-09-28T17:39:34Z,datraailab/Stereo,datraailab,0,0,modality:video; region:us
+2026-09-28T17:39:45Z,Vijayks2001/hitloaw,Vijayks2001,0,0,region:us
+2026-09-28T17:40:51Z,swhitfield/interpro_domain,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:41:19Z,schneiderkamplab/dfm12-alia-ca-es,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:41:30Z,schneiderkamplab/dfm12-amalia-if,schneiderkamplab,0,0,task_categories:text-generation; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:42:00Z,schneiderkamplab/dfm12-amalia-persona,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:42:17Z,schneiderkamplab/dfm12-amalia-summarize,schneiderkamplab,0,0,task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:42:35Z,schneiderkamplab/dfm12-amalia-wikipedia,schneiderkamplab,0,0,task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:42:46Z,schneiderkamplab/dfm12-aya-human-train,schneiderkamplab,0,0,task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:43:00Z,mws-physical-ai/cosmos3-g1brainco-datasets,mws-physical-ai,0,0,region:us
+2026-09-28T17:43:14Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-09-28T17:43:14Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-09-28T17:43:30Z,schneiderkamplab/dfm12-dolci-translated-cs,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:44:05Z,idg101/Aperture_Lab_Synthetic_Side_Scan_Sonar_v1,idg101,0,0,task_categories:object-detection; task_categories:image-segmentation; license:other; size_categories:n<1K; modality:image; modality:text; region:us; sonar; side-scan-sonar; synthetic-data; underwater…
+2026-09-28T17:44:20Z,schneiderkamplab/dfm12-dolci-translated-de,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:44:45Z,amiralifirouzi/tiny-persian-sft-15k,amiralifirouzi,0,0,task_categories:question-answering; task_categories:text-generation; language:fa; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:data…
+2026-09-28T17:44:45Z,tiagozip/krs,tiagozip,0,1,language:pl; license:other; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; poland; company-register; krs
+2026-09-28T17:44:58Z,g1n0st/9df62e56910967220e5fc69599253de14a125ace,g1n0st,0,0,region:us
+2026-09-28T17:45:08Z,swhitfield/interpro_family,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:45:15Z,schneiderkamplab/dfm12-dolci-translated-el,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:45:35Z,tiagozip/tenor,tiagozip,0,0,license:cc0-1.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; gif; tenor
+2026-09-28T17:45:46Z,thaki-AI/daily-paper-2026-09-29-fickle-router-paraphrase-instability,thaki-AI,0,0,language:en; license:cc-by-4.0; region:us; skill-routing; decision-instability; paraphrase-robustness; retrieval-stability; top-1-flip-rate; agent-harness; unattended-automation; stability-gate
+2026-09-28T17:46:04Z,schneiderkamplab/dfm12-dolci-translated-es,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:46:13Z,swhitfield/interpro_homologous_superfamily,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:46:15Z,g1n0st/43562362be5e69e04b92fc91a2989ae3ea7a4fe6,g1n0st,0,0,region:us
+2026-09-28T17:46:23Z,swhitfield/interpro_repeat,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:46:49Z,schneiderkamplab/dfm12-dolci-translated-fi,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:47:24Z,swhitfield/proteingym-dms_substitutions,swhitfield,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:47:34Z,borjapenalver/tideline-public-record,borjapenalver,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; time-seri…
+2026-09-28T17:47:36Z,Fate1999/doomalay-metrics,Fate1999,0,0,region:us; doomalay-metrics
+2026-09-28T17:47:39Z,schneiderkamplab/dfm12-dolci-translated-fr,schneiderkamplab,0,0,task_categories:text-generation; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:47:46Z,swhitfield/proteingym-dms_indels,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:48:04Z,rose33300/38-2023-1-submission,rose33300,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:48:06Z,swhitfield/proteingym-clinical_substitutions,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:48:29Z,schneiderkamplab/dfm12-dolci-translated-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:48:51Z,swhitfield/proteingym-clinical_indels,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-28T17:48:54Z,codebydante/local-video-downloader,codebydante,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-28T17:49:19Z,schneiderkamplab/dfm12-dolci-translated-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:50:13Z,rose33300/38-2023-2-submission,rose33300,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:50:15Z,schneiderkamplab/dfm12-dolci-translated-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:50:29Z,schneiderkamplab/dfm12-dolly-nl-train,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:50:33Z,codebydante/imageninja-hd,codebydante,0,0,region:us
+2026-09-28T17:50:37Z,codebydante/extension-fish,codebydante,0,0,region:us
+2026-09-28T17:50:39Z,e-sensing/cerrado_emb_ssl_vicreg_tcnn_2018,e-sensing,0,0,license:cc-by-nc-sa-3.0; region:us
+2026-09-28T17:50:44Z,schneiderkamplab/dfm12-eu-instruct-cs,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:51:04Z,schneiderkamplab/dfm12-eu-instruct-de,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:51:24Z,schneiderkamplab/dfm12-eu-instruct-el,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:51:35Z,zifeng-ai/bci-decoding,zifeng-ai,0,0,region:us
+2026-09-28T17:51:44Z,schneiderkamplab/dfm12-eu-instruct-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:51:47Z,krish5831/tissues_into_box_20260928_194959,krish5831,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-09-28T17:51:50Z,Biswaw23/glm53-flash-function-calling-sft,Biswaw23,0,0,region:us
+2026-09-28T17:51:56Z,swhitfield/uniprot-GO_mf,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:52:03Z,schneiderkamplab/dfm12-eu-instruct-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:52:11Z,codebydante/detector-de-enlaces-copia,codebydante,0,0,region:us
+2026-09-28T17:52:12Z,codebydante/buscador-hls,codebydante,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:52:22Z,schneiderkamplab/dfm12-eu-instruct-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:52:41Z,schneiderkamplab/dfm12-eu-instruct-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:53:01Z,schneiderkamplab/dfm12-eu-instruct-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:53:20Z,schneiderkamplab/dfm12-eu-instruct-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:53:43Z,schneiderkamplab/dfm12-eu-instruct-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:53:59Z,robert131OO4/out-series,robert131OO4,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-09-28T17:55:45Z,swhitfield/uniprot-GO_bp,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:55:46Z,schneiderkamplab/dfm12-euroblocks,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:15Z,schneiderkamplab/dfm12-magpie-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:24Z,schneiderkamplab/dfm12-opus-ca-cs,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:28Z,schneiderkamplab/dfm12-opus-ca-da,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:31Z,schneiderkamplab/dfm12-opus-ca-de,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:35Z,schneiderkamplab/dfm12-opus-ca-el,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:38Z,schneiderkamplab/dfm12-opus-ca-en,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:42Z,schneiderkamplab/dfm12-opus-ca-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:46Z,schneiderkamplab/dfm12-opus-ca-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:50Z,schneiderkamplab/dfm12-opus-ca-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:54Z,toolathon123/Annoy-PyEdu-Rs,toolathon123,0,0,region:us
+2026-09-28T17:56:55Z,toolathon123/Annoy-PyEdu-Rs-Raw,toolathon123,0,0,region:us
+2026-09-28T17:56:55Z,schneiderkamplab/dfm12-opus-ca-fo,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:56:58Z,schneiderkamplab/dfm12-opus-ca-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:02Z,schneiderkamplab/dfm12-opus-ca-is-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:05Z,schneiderkamplab/dfm12-opus-ca-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:09Z,schneiderkamplab/dfm12-opus-ca-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:10Z,g1n0st/e5ebf075a7fbc5b5caff22f449ce1f616df833ed,g1n0st,0,0,region:us
+2026-09-28T17:57:12Z,schneiderkamplab/dfm12-opus-ca-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:16Z,schneiderkamplab/dfm12-opus-ca-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:19Z,schneiderkamplab/dfm12-opus-ca-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:24Z,schneiderkamplab/dfm12-opus-ca-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:28Z,schneiderkamplab/dfm12-opus-ca-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:31Z,schneiderkamplab/dfm12-opus-ca-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:34Z,schneiderkamplab/dfm12-opus-ca-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:36Z,g1n0st/cb523e9de7dae20af2f5532a836b70f867ab805a,g1n0st,0,0,region:us
+2026-09-28T17:57:38Z,schneiderkamplab/dfm12-opus-cs-da,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:44Z,schneiderkamplab/dfm12-opus-cs-de,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:47Z,swhitfield/uniprot-GO_cc,swhitfield,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:57:48Z,SeragAmin/Egyptian_Reddit_Egy_en,SeragAmin,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:57:48Z,schneiderkamplab/dfm12-opus-cs-el,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:54Z,schneiderkamplab/dfm12-opus-cs-en,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:57:59Z,schneiderkamplab/dfm12-opus-cs-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:03Z,schneiderkamplab/dfm12-opus-cs-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:06Z,schneiderkamplab/dfm12-opus-cs-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:09Z,schneiderkamplab/dfm12-opus-cs-fo,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:13Z,schneiderkamplab/dfm12-opus-cs-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:16Z,swhitfield/uniprot_secondary_structure,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:58:17Z,schneiderkamplab/dfm12-opus-cs-is-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:21Z,wiliamvvvvv/nlp-finance-project1,wiliamvvvvv,0,0,size_categories:n<1K; format:csv; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:58:21Z,schneiderkamplab/dfm12-opus-cs-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:25Z,schneiderkamplab/dfm12-opus-cs-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:31Z,schneiderkamplab/dfm12-opus-cs-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:34Z,schneiderkamplab/dfm12-opus-cs-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:38Z,schneiderkamplab/dfm12-opus-cs-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:41Z,schneiderkamplab/dfm12-opus-cs-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:45Z,schneiderkamplab/dfm12-opus-cs-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:47Z,swhitfield/uniprot_post_translational_modification,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:58:49Z,schneiderkamplab/dfm12-opus-cs-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:52Z,schneiderkamplab/dfm12-opus-cs-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:58:57Z,schneiderkamplab/dfm12-opus-da-de,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:01Z,schneiderkamplab/dfm12-opus-da-el,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:05Z,schneiderkamplab/dfm12-opus-da-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:08Z,swhitfield/uniprot_glycosylation,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:59:09Z,schneiderkamplab/dfm12-opus-da-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:12Z,schneiderkamplab/dfm12-opus-da-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:18Z,schneiderkamplab/dfm12-opus-da-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:22Z,schneiderkamplab/dfm12-opus-da-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:26Z,schneiderkamplab/dfm12-opus-da-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:28Z,swhitfield/uniprot_phosphorylation,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T17:59:29Z,schneiderkamplab/dfm12-opus-da-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:35Z,schneiderkamplab/dfm12-opus-da-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:39Z,schneiderkamplab/dfm12-opus-de-el,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T17:59:45Z,lastwarning/Flipkart,lastwarning,0,0,region:us
+2026-09-28T17:59:48Z,swhitfield/uniprot_lipidation,swhitfield,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:00:00Z,schneiderkamplab/dfm12-opus-de-en,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:08Z,swhitfield/uniprot_membrane_pass,swhitfield,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:00:12Z,schneiderkamplab/dfm12-opus-de-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:18Z,schneiderkamplab/dfm12-opus-de-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:24Z,schneiderkamplab/dfm12-opus-de-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:28Z,schneiderkamplab/dfm12-opus-de-fo-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:30Z,swhitfield/uniprot_topology,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:00:32Z,MMR83/Jizzibelle,MMR83,0,1,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-28T18:00:37Z,schneiderkamplab/dfm12-opus-de-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:44Z,Shuibai12138/crb-paper-inputs,Shuibai12138,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2512…
+2026-09-28T18:00:44Z,schneiderkamplab/dfm12-opus-de-is,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:48Z,schneiderkamplab/dfm12-opus-de-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:00:50Z,swhitfield/uniprot_peptide,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:00:53Z,schneiderkamplab/dfm12-opus-de-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:01Z,schneiderkamplab/dfm12-opus-de-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:06Z,schneiderkamplab/dfm12-opus-de-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:10Z,schneiderkamplab/dfm12-opus-de-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:11Z,swhitfield/uniprot_functional_sites,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:01:14Z,bearda/croissantminer,bearda,0,0,task_categories:text-classification; task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; lib…
+2026-09-28T18:01:15Z,schneiderkamplab/dfm12-opus-de-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:19Z,schneiderkamplab/dfm12-opus-de-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:24Z,schneiderkamplab/dfm12-opus-de-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:31Z,swhitfield/uniprot_domains,swhitfield,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:01:32Z,schneiderkamplab/dfm12-opus-de-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:38Z,schneiderkamplab/dfm12-opus-el-en,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:42Z,schneiderkamplab/dfm12-opus-el-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:47Z,schneiderkamplab/dfm12-opus-el-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:50Z,schneiderkamplab/dfm12-opus-el-fi-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:52Z,swhitfield/uniprot_regions,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:01:54Z,schneiderkamplab/dfm12-opus-el-fo-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:01:57Z,schneiderkamplab/dfm12-opus-el-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:03Z,schneiderkamplab/dfm12-opus-el-is-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:07Z,schneiderkamplab/dfm12-opus-el-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:10Z,schneiderkamplab/dfm12-opus-el-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:12Z,swhitfield/uniprot_structures,swhitfield,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:02:13Z,schneiderkamplab/dfm12-opus-el-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:17Z,schneiderkamplab/dfm12-opus-el-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:20Z,swhitfield/uniprot_protparams,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T18:02:23Z,schneiderkamplab/dfm12-opus-el-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:27Z,schneiderkamplab/dfm12-opus-el-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:30Z,schneiderkamplab/dfm12-opus-el-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:34Z,schneiderkamplab/dfm12-opus-el-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:37Z,schneiderkamplab/dfm12-opus-el-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:52Z,schneiderkamplab/dfm12-opus-en-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:02:57Z,gaurabdas/pricelab-product-prices,gaurabdas,0,1,language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; product-price-estimation; r…
+2026-09-28T18:02:58Z,schneiderkamplab/dfm12-opus-en-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:03:04Z,afsdaaaf/Annoy-PyEdu-Rs,afsdaaaf,0,0,region:us
+2026-09-28T18:03:06Z,schneiderkamplab/dfm12-opus-en-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:03:07Z,afsdaaaf/Annoy-PyEdu-Rs-Raw,afsdaaaf,0,0,region:us
+2026-09-28T18:03:10Z,charlieK123/gripper_Top_Base_Camera_Views,charlieK123,0,0,region:us
+2026-09-28T18:03:25Z,schneiderkamplab/dfm12-opus-en-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:03:57Z,schneiderkamplab/dfm12-opus-en-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:03:59Z,ewinchell07/blue_block_slow_20260928_110142,ewinchell07,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-28T18:04:10Z,PEN2044/set36cub_20260928_204306,PEN2044,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-28T18:04:17Z,schneiderkamplab/dfm12-opus-en-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:04:24Z,schneiderkamplab/dfm12-opus-en-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:04:40Z,schneiderkamplab/dfm12-opus-en-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:04:46Z,schneiderkamplab/dfm12-opus-es-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:04:50Z,schneiderkamplab/dfm12-opus-es-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:04:54Z,schneiderkamplab/dfm12-opus-es-fo-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:00Z,schneiderkamplab/dfm12-opus-es-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:02Z,SD12DSA21EAS/Annoy-PyEdu-Rs,SD12DSA21EAS,0,0,region:us
+2026-09-28T18:05:02Z,SD12DSA21EAS/Annoy-PyEdu-Rs-Raw,SD12DSA21EAS,0,0,region:us
+2026-09-28T18:05:04Z,tiagozip/bluesky,tiagozip,0,0,task_categories:text-classification; license:other; size_categories:100M<n<1B; region:us; social-media; bluesky; atproto
+2026-09-28T18:05:05Z,schneiderkamplab/dfm12-opus-es-is,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:09Z,schneiderkamplab/dfm12-opus-es-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:17Z,schneiderkamplab/dfm12-opus-es-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:22Z,schneiderkamplab/dfm12-opus-es-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:27Z,schneiderkamplab/dfm12-opus-es-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:31Z,schneiderkamplab/dfm12-opus-es-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:39Z,schneiderkamplab/dfm12-opus-es-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:44Z,schneiderkamplab/dfm12-opus-es-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:50Z,schneiderkamplab/dfm12-opus-es-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:53Z,aabreu-nv/simready-assets-pp-21,aabreu-nv,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-28T18:05:55Z,schneiderkamplab/dfm12-opus-es-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:05:59Z,schneiderkamplab/dfm12-opus-et-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:02Z,schneiderkamplab/dfm12-opus-et-fo,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:06Z,schneiderkamplab/dfm12-opus-et-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:09Z,schneiderkamplab/dfm12-opus-et-is-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:12Z,schneiderkamplab/dfm12-opus-et-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:16Z,schneiderkamplab/dfm12-opus-et-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:21Z,schneiderkamplab/dfm12-opus-et-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:24Z,schneiderkamplab/dfm12-opus-et-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:28Z,schneiderkamplab/dfm12-opus-et-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:31Z,schneiderkamplab/dfm12-opus-et-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:34Z,schneiderkamplab/dfm12-opus-et-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:37Z,schneiderkamplab/dfm12-opus-et-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:40Z,schneiderkamplab/dfm12-opus-et-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:44Z,schneiderkamplab/dfm12-opus-fi-fo,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:47Z,schneiderkamplab/dfm12-opus-fi-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:51Z,schneiderkamplab/dfm12-opus-fi-is,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:55Z,schneiderkamplab/dfm12-opus-fi-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:06:58Z,Trustgate/ds-compslm-proposals-run1,Trustgate,0,0,region:us
+2026-09-28T18:06:59Z,schneiderkamplab/dfm12-opus-fi-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:02Z,schneiderkamplab/dfm12-opus-fi-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:06Z,schneiderkamplab/dfm12-opus-fi-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:09Z,schneiderkamplab/dfm12-opus-fi-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:13Z,schneiderkamplab/dfm12-opus-fi-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:15Z,grey-cat/cs6013-w7-ec20-artifacts,grey-cat,0,0,region:us
+2026-09-28T18:07:17Z,schneiderkamplab/dfm12-opus-fi-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:23Z,schneiderkamplab/dfm12-opus-fi-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:28Z,schneiderkamplab/dfm12-opus-fi-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:31Z,schneiderkamplab/dfm12-opus-fo-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:34Z,tiagozip/tiktok,tiagozip,0,0,task_categories:text-classification; license:other; size_categories:1B<n<10B; region:us; social-media; tiktok
+2026-09-28T18:07:34Z,schneiderkamplab/dfm12-opus-fo-it-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:38Z,schneiderkamplab/dfm12-opus-fo-pt_pt-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:41Z,schneiderkamplab/dfm12-opus-fo-ro-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:46Z,schneiderkamplab/dfm12-opus-fo-uk-english-anchor,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:49Z,schneiderkamplab/dfm12-opus-fr-is,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:07:56Z,schneiderkamplab/dfm12-opus-fr-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:01Z,schneiderkamplab/dfm12-opus-fr-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:06Z,schneiderkamplab/dfm12-opus-fr-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:11Z,schneiderkamplab/dfm12-opus-fr-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:16Z,schneiderkamplab/dfm12-opus-fr-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:20Z,schneiderkamplab/dfm12-opus-fr-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:25Z,schneiderkamplab/dfm12-opus-fr-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:29Z,schneiderkamplab/dfm12-opus-fr-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:35Z,schneiderkamplab/dfm12-opus-fr-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:39Z,schneiderkamplab/dfm12-opus-is-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:43Z,schneiderkamplab/dfm12-opus-is-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:46Z,schneiderkamplab/dfm12-opus-is-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:50Z,schneiderkamplab/dfm12-opus-is-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:53Z,schneiderkamplab/dfm12-opus-it-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:08:58Z,schneiderkamplab/dfm12-opus-it-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:02Z,schneiderkamplab/dfm12-opus-it-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:05Z,schneiderkamplab/dfm12-opus-it-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:09Z,schneiderkamplab/dfm12-opus-it-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:14Z,schneiderkamplab/dfm12-opus-it-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:18Z,schneiderkamplab/dfm12-opus-it-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:22Z,schneiderkamplab/dfm12-opus-it-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:24Z,rameesSV97/AIGC_Image_Steganography_Dataset,rameesSV97,0,0,task_categories:image-classification; task_categories:unconditional-image-generation; license:apache-2.0; size_categories:10K<n<100K; region:us; steganography; aigc; text-to-image; deepfake-detection…
+2026-09-28T18:09:26Z,schneiderkamplab/dfm12-opus-nb-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:28Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-09-28T18:09:29Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-09-28T18:09:30Z,schneiderkamplab/dfm12-opus-nb-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:34Z,schneiderkamplab/dfm12-opus-nb-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:38Z,schneiderkamplab/dfm12-opus-nl-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:43Z,schneiderkamplab/dfm12-opus-nl-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:48Z,schneiderkamplab/dfm12-opus-nl-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:52Z,schneiderkamplab/dfm12-opus-nn-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:55Z,schneiderkamplab/dfm12-opus-nn-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:09:59Z,schneiderkamplab/dfm12-opus-nn-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:02Z,schneiderkamplab/dfm12-opus-pl-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:06Z,schneiderkamplab/dfm12-opus-pl-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:09Z,schneiderkamplab/dfm12-opus-pl-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:14Z,schneiderkamplab/dfm12-opus-pt_pt-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:18Z,schneiderkamplab/dfm12-opus-pt_pt-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:24Z,schneiderkamplab/dfm12-opus-pt_pt-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:28Z,schneiderkamplab/dfm12-opus-ro-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:31Z,schneiderkamplab/dfm12-opus-ro-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:34Z,schneiderkamplab/dfm12-opus-sv-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:10:50Z,tlders/domain-prices-sample,tlders,0,0,language:en; license:cc-by-nc-4.0; size_categories:n<1K; region:us; domains; domain-names; tld; registrars; pricing; web
+2026-09-28T18:11:15Z,jerome8575/raytracing_time_series,jerome8575,0,0,license:apache-2.0; region:us
+2026-09-28T18:11:19Z,schneiderkamplab/dfm12-poro2-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:11:37Z,schneiderkamplab/dfm12-smoltalk2-chat-en,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:12:05Z,schneiderkamplab/dfm12-text-ca,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:12:28Z,ewinchell07/blue_slow_20260928_111125,ewinchell07,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; makermods; openbooth; MakerModsLab
+2026-09-28T18:12:42Z,schneiderkamplab/dfm12-text-cs,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:13:16Z,schneiderkamplab/dfm12-text-de,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:13:57Z,schneiderkamplab/dfm12-text-el,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:14:03Z,belztjti/abcde,belztjti,0,0,region:us
+2026-09-28T18:14:37Z,schneiderkamplab/dfm12-text-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:15:08Z,schneiderkamplab/dfm12-text-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:15:22Z,pablosnow/fear_of_AI,pablosnow,0,0,license:cc-by-4.0; region:us
+2026-09-28T18:15:42Z,schneiderkamplab/dfm12-text-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:16:13Z,schneiderkamplab/dfm12-text-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:16:46Z,schneiderkamplab/dfm12-text-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:17:07Z,lopi-hfsec-a1/whb28-gated-d,lopi-hfsec-a1,0,0,region:us
+2026-09-28T18:17:29Z,belztjti/1111,belztjti,0,0,region:us
+2026-09-28T18:17:32Z,schneiderkamplab/dfm12-text-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:18:04Z,schneiderkamplab/dfm12-text-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:18:10Z,davidburhans/decision-index-results,davidburhans,0,0,region:us
+2026-09-28T18:18:27Z,CheneyWong/HiTab,CheneyWong,0,0,region:us
+2026-09-28T18:18:27Z,CheneyWong/MMSci-Table,CheneyWong,0,0,region:us
+2026-09-28T18:18:40Z,schneiderkamplab/dfm12-text-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:18:51Z,schneiderkamplab/dfm12-trustllm-ca,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:18:56Z,schneiderkamplab/dfm12-trustllm-cs,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:00Z,schneiderkamplab/dfm12-trustllm-da,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:04Z,schneiderkamplab/dfm12-trustllm-de,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:07Z,schneiderkamplab/dfm12-trustllm-el,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:11Z,schneiderkamplab/dfm12-trustllm-en,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:14Z,Jwuthrich/selfjev-decision-bench,Jwuthrich,0,0,task_categories:text-classification; task_categories:question-answering; language:en; size_categories:1K<n<10K; region:us; evaluation; synthetic; structured-decisions; llm-evaluation; multilabel
+2026-09-28T18:19:15Z,schneiderkamplab/dfm12-trustllm-es,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:19Z,schneiderkamplab/dfm12-trustllm-et,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:23Z,schneiderkamplab/dfm12-trustllm-fi,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:27Z,schneiderkamplab/dfm12-trustllm-fo,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:31Z,schneiderkamplab/dfm12-trustllm-fr,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:37Z,schneiderkamplab/dfm12-trustllm-is,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:41Z,schneiderkamplab/dfm12-trustllm-it,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:45Z,schneiderkamplab/dfm12-trustllm-nb,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:48Z,schneiderkamplab/dfm12-trustllm-nl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:53Z,SOTAagi2030/Tidepool-Route-Dialogs,SOTAagi2030,0,0,region:us
+2026-09-28T18:19:54Z,schneiderkamplab/dfm12-trustllm-nn,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:19:54Z,SOTAagi2030/Tidepool-Transit-Logs,SOTAagi2030,0,0,region:us
+2026-09-28T18:19:58Z,schneiderkamplab/dfm12-trustllm-pl,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:20:02Z,schneiderkamplab/dfm12-trustllm-pt_pt,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:20:06Z,schneiderkamplab/dfm12-trustllm-ro,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:20:10Z,schneiderkamplab/dfm12-trustllm-sv,schneiderkamplab,0,0,task_categories:text-generation; region:us
+2026-09-28T18:20:14Z,schneiderkamplab/dfm12-trustllm-uk,schneiderkamplab,0,0,task_categories:text-generation; region:us
