@@ -1,0 +1,47 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-28T23:23:42Z,buildchange/segmentation_training_data,buildchange,0,0,region:us
+2026-09-28T23:24:22Z,kylelovesllms/grammar-v2-frames,kylelovesllms,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T23:24:25Z,Dennis1315/reason-math-14b-ckpt,Dennis1315,0,0,region:us
+2026-09-28T23:25:38Z,kulikov1/teledysk-zostan-tu,kulikov1,0,0,region:us
+2026-09-28T23:26:33Z,kylelovesllms/grammar-v2-frames-ce-rb,kylelovesllms,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T23:26:37Z,kylelovesllms/grammar-v2-frames-ce,kylelovesllms,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T23:26:41Z,kylelovesllms/grammar-v2-frames-rb,kylelovesllms,0,0,size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T23:28:53Z,abupitu762/Annoy-PyEdu-Rs,abupitu762,0,0,region:us
+2026-09-28T23:28:54Z,abupitu762/Annoy-PyEdu-Rs-Raw,abupitu762,0,0,region:us
+2026-09-28T23:32:52Z,shijithpk/ncert-history-ocr-2005-paddleocr-vl-1.6,shijithpk,0,0,language:en; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ocr; document-processing; ncert
+2026-09-28T23:33:22Z,alphabot2/23Sep_STEA_pick_Cortex_prefer_bag_time,alphabot2,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-28T23:34:36Z,Michaellllaidi/deploy-templates,Michaellllaidi,0,0,task_categories:other; language:ru; language:en; license:mit; region:us; deployment; github-actions; huggingface-hub; static-site; sso
+2026-09-28T23:36:13Z,Koko12345p/qwen-arabic-data,Koko12345p,0,0,license:apache-2.0; region:us
+2026-09-28T23:37:58Z,Justinci/gaming-multimodal3-benchmark,Justinci,0,0,license:cc-by-4.0; region:us; dataset; gaming; multimodal3
+2026-09-28T23:38:15Z,msc-thesis-org/ckpts,msc-thesis-org,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-28T23:38:22Z,yaniguan/ocsr-dataset,yaniguan,0,0,task_categories:image-to-text; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:ml…
+2026-09-28T23:39:28Z,Sla01/godot-game,Sla01,0,0,region:us
+2026-09-28T23:41:34Z,AnShi-HW/ToolPrivBench,AnShi-HW,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; tool-use; agent-evaluation; ai-safety; privilege-escalation; synthetic-data
+2026-09-28T23:41:49Z,dcsharma/nlp-sentiment-image-audio,dcsharma,0,0,license:mit; region:us; dataset; nlp-sentiment; image-audio
+2026-09-28T23:43:56Z,davidheineman/s2-rubrics-gpt6sol,davidheineman,0,0,region:us
+2026-09-28T23:44:03Z,EdwardSJ151/speedtest-scratch-0928,EdwardSJ151,0,0,region:us
+2026-09-28T23:45:48Z,wckwan/Alfworld-Olmo3-7B-GiGPO-s1000-eval,wckwan,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-09-28T23:47:06Z,shijithpk/ncert-history-ocr-1988-paddleocr-vl-1.6,shijithpk,0,0,language:en; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ocr; document-processing; ncert
+2026-09-28T23:47:56Z,tristenjackson/openvid-256,tristenjackson,0,0,task_categories:video-text-to-text; license:cc-by-4.0; modality:video; region:us; video
+2026-09-28T23:48:41Z,fffy/hls-residue,fffy,0,0,language:en; size_categories:n<1K; format:imagefolder; modality:image; modality:geospatial; library:datasets; library:mlcroissant; region:us; remote-sensing; crop-residue; landsat; sentinel-2; harmon…
+2026-09-28T23:51:04Z,hussainmahmood2583/nsfw-images-1,hussainmahmood2583,0,0,region:us; not-for-all-audiences
+2026-09-28T23:52:22Z,sanaka87/openve_fixed_bernini1p3_opd_vmse_t2expr1s1r1_action_motion_s500_step200_openve,sanaka87,0,0,region:us
+2026-09-28T23:55:06Z,mialina395/Annoy-PyEdu-Rs,mialina395,0,0,region:us
+2026-09-28T23:55:06Z,mialina395/Annoy-PyEdu-Rs-Raw,mialina395,0,0,region:us
+2026-09-28T23:57:40Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-09-28T23:57:41Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-09-28T23:58:49Z,RegalFire/Verified-Python-Repair-Mini-v1,RegalFire,0,0,license:other; region:us
+2026-09-28T23:58:56Z,sanaka87/openve_fixed_bernini1p3_opd_vmse_t2s1r1_action_motion_s500_step200_openve,sanaka87,0,0,region:us
+2026-09-29T00:01:06Z,aixk/1024-1024,aixk,0,0,region:us
+2026-09-29T00:01:23Z,aixk/3072-1024,aixk,0,0,region:us
+2026-09-29T00:02:01Z,HeritageAgent/ViHeritage-QA,HeritageAgent,0,0,region:us
+2026-09-29T00:08:26Z,yudduy/icpc-bank,yudduy,0,0,task_categories:text-generation; language:en; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-09-29T00:13:06Z,kadirnar/mytts-en-grow-smoke-1f5815,kadirnar,0,0,region:us
+2026-09-29T00:14:53Z,rohitripg/research-industrial,rohitripg,0,0,license:mit; region:us; dataset; industrial; text-tabular
+2026-09-29T00:15:19Z,albertklorer/safedocs-cc-single-page-perfect-20260928,albertklorer,0,0,region:us
+2026-09-29T00:15:30Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-09-29T00:15:31Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-09-29T00:20:20Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-09-29T00:20:21Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-09-29T00:20:47Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-09-29T00:20:47Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
