@@ -1,0 +1,82 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-29T15:20:20Z,GabrielSnn/postdoc-nlp-qa,GabrielSnn,0,0,license:apache-2.0; region:us; dataset; nlp-qa; audio-video
+2026-09-29T15:22:21Z,kabirsharma/grad-architecture33-2024,kabirsharma,0,0,license:apache-2.0; region:us; dataset; architecture; image-audio
+2026-09-29T15:24:07Z,Seungjun/dp_removed_s1K-1.1,Seungjun,0,0,source_datasets:simplescaling/s1K-1.1; language:en; license:mit; size_categories:n<1K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; libra…
+2026-09-29T15:24:12Z,Seungjun/dp_removed_DAPO-Math-17k-Processed,Seungjun,0,0,source_datasets:open-r1/DAPO-Math-17k-Processed; language:en; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:…
+2026-09-29T15:24:15Z,Seungjun/dp_removed_aime_2024,Seungjun,0,0,source_datasets:HuggingFaceH4/aime_2024; language:en; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics
+2026-09-29T15:24:15Z,fraxea/my-dataset,fraxea,0,0,license:apache-2.0; region:us
+2026-09-29T15:24:17Z,Seungjun/dp_removed_aime25,Seungjun,0,0,source_datasets:math-ai/aime25; language:en; license:apache-2.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-09-29T15:24:20Z,Seungjun/dp_removed_aime_2026,Seungjun,0,0,source_datasets:MathArena/aime_2026; language:en; license:cc-by-nc-sa-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-09-29T15:24:22Z,Seungjun/dp_removed_amc23,Seungjun,0,0,source_datasets:math-ai/amc23; language:en; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics
+2026-09-29T15:24:25Z,Seungjun/dp_removed_MATH-500,Seungjun,0,0,source_datasets:HuggingFaceH4/MATH-500; language:en; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics
+2026-09-29T15:25:40Z,pzycl0/public-attack-dataset-s41,pzycl0,0,0,region:us
+2026-09-29T15:25:54Z,augustander/ch4-test-eval,augustander,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T15:25:54Z,augustander/ch4-operating-ckpts,augustander,0,0,region:us
+2026-09-29T15:26:01Z,staffbox/staffbox-evals,staffbox,0,0,task_categories:text-generation; task_categories:text-classification; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; lib…
+2026-09-29T15:26:26Z,thomasdubo/traffic-corpus,thomasdubo,0,0,license:mit; region:us; dataset; traffic; pointcloud-text
+2026-09-29T15:27:33Z,staffbox/staffbox-bench,staffbox,0,0,language:en; license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; benchmark; ollama; apple…
+2026-09-29T15:27:34Z,lujainloveKPOP5/eiryl-artist-data,lujainloveKPOP5,0,0,region:us
+2026-09-29T15:27:45Z,oddadmix/unnamed-split-ar,oddadmix,0,0,task_categories:automatic-speech-recognition; language:ar; license:cc-by-3.0; region:us
+2026-09-29T15:28:02Z,dougalldeepmind/2026-09-29-hospital-self-sacrificial-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:colosseum_hospital; model:qwen36; mode:think; variant:self_sacrificial
+2026-09-29T15:29:16Z,VertexAIco/nws-eas-alerts-10k,VertexAIco,0,0,task_categories:text-generation; source_datasets:original; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; l…
+2026-09-29T15:29:21Z,VertexAIco/nws-eas-alerts-30k,VertexAIco,0,0,task_categories:text-generation; source_datasets:original; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; l…
+2026-09-29T15:29:28Z,VertexAIco/nws-eas-alerts-54k,VertexAIco,0,0,task_categories:text-generation; source_datasets:original; language:en; license:other; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; l…
+2026-09-29T15:29:31Z,Tenelbek/EmotionClassification,Tenelbek,0,0,license:mit; region:us
+2026-09-29T15:29:54Z,kimhosoo/JointGen-overview-pairs,kimhosoo,0,0,region:us
+2026-09-29T15:30:00Z,vasilyevina/video-text-dataset,vasilyevina,0,0,license:apache-2.0; region:us; dataset; art; video-text
+2026-09-29T15:30:08Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-09-29T15:30:09Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-09-29T15:30:24Z,kimyg119/Box_Palletizing_v0,kimyg119,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; library:lerob…
+2026-09-29T15:31:50Z,shashuo0104/260928_aloha_towel_folding_80Hz_100eps_v1,shashuo0104,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T15:33:38Z,zhengtu666/HIVE-Bench-Data,zhengtu666,0,0,license:mit; region:us
+2026-09-29T15:34:18Z,ValerianFourel/geodml-emnlp-2026-probing-activations,ValerianFourel,0,0,license:other; region:us
+2026-09-29T15:35:39Z,Tohirju/sl-wolfberry,Tohirju,0,0,license:cc-by-nc-4.0; region:us
+2026-09-29T15:36:16Z,cyttic/heb-synth-punct-digits-hhf,cyttic,0,0,task_categories:image-to-text; language:he; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcro…
+2026-09-29T15:36:28Z,Th0ooRr/assignment4,Th0ooRr,0,0,region:us
+2026-09-29T15:36:50Z,g1n0st/aea5d5a191416fbb3243f94ca2285afa9b705fe2,g1n0st,0,0,region:us
+2026-09-29T15:39:09Z,charlieK123/gripper_Top_Base_Camera_Views_Combined,charlieK123,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T15:39:22Z,mmm8383/NextMe-800-assets,mmm8383,0,0,license:cc-by-nc-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-29T15:39:43Z,TheReinventGuy/agbeai-cassava-speech,TheReinventGuy,0,0,task_categories:automatic-speech-recognition; language:en; language:yo; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissa…
+2026-09-29T15:40:27Z,endoard/grab_ball_3cam_skin,endoard,0,0,task_categories:robotics; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; libra…
+2026-09-29T15:40:31Z,sai-prasanna/robotwin-2.0-480p,sai-prasanna,0,0,source_datasets:TianxingChen/RoboTwin2.0; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:video; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-09-29T15:40:35Z,disi-unibo-nlp-students/dataset_appalti,disi-unibo-nlp-students,0,0,license:mit; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T15:40:56Z,ai4y/tictactoe-position-3_20260930_002216,ai4y,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-09-29T15:41:50Z,sotef/lct,sotef,0,0,license:mit; modality:text; region:us
+2026-09-29T15:41:57Z,shashuo0104/260928_aloha_towel_folding_80Hz_50eps_v1,shashuo0104,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T15:42:40Z,punegupta/pointcloud-text-data,punegupta,0,0,license:mit; region:us; dataset; ocean; pointcloud-text
+2026-09-29T15:43:15Z,Dat2705/denguelens-dongnai-dengue,Dat2705,0,0,annotations_creators:no-annotation; source_datasets:original; language:en; language:vi; license:mit; region:us
+2026-09-29T15:43:33Z,olingoudey/push_pineapple_off_stove,olingoudey,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T15:44:09Z,nassimjp/Pashto-Aplaca-Reasoning,nassimjp,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T15:44:21Z,olingoudey/take_egplant_out_of_bin,olingoudey,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T15:44:47Z,castanetnicolas/UR5e_nut_assembly_square_100_absolute_OSC_POS_SIZE_84,castanetnicolas,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-29T15:45:03Z,AstroAadi/after_may_2025,AstroAadi,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T15:45:06Z,toolathon123/Annoy-PyEdu-Rs,toolathon123,0,0,region:us
+2026-09-29T15:45:07Z,toolathon123/Annoy-PyEdu-Rs-Raw,toolathon123,0,0,region:us
+2026-09-29T15:45:12Z,abbuibuibui/MoehaFujiwara-Dataset,abbuibuibui,0,0,task_categories:text-to-image; language:en; language:zh; license:creativeml-openrail-m; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant;…
+2026-09-29T15:48:11Z,dragoox/macroSum-fromUniform1B-valsize16-simplifiedValidation-seed2-25B,dragoox,0,0,region:us
+2026-09-29T15:48:40Z,yilun-wu/dsec_train_events,yilun-wu,0,0,license:cc-by-sa-4.0; region:us
+2026-09-29T15:49:11Z,fysical/rollout_smolvla_S100_seed2_20260929_174032,fysical,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T15:50:26Z,sungminhwan/robotics-sensor-fusion,sungminhwan,0,0,license:apache-2.0; region:us; dataset; robotics; sensor-fusion
+2026-09-29T15:51:27Z,lekhanh/WinPE_xanmqv,lekhanh,0,0,region:us
+2026-09-29T15:57:32Z,JAHIN7/PhysicsMate,JAHIN7,0,0,task_categories:question-answering; task_categories:text-generation; language:bn; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; libr…
+2026-09-29T15:57:52Z,g1n0st/c8c5297dc0c2362ba412e0b87b7baeed0d4f845f,g1n0st,0,0,region:us
+2026-09-29T16:00:05Z,vpalma/FunFunNoFun,vpalma,0,0,license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T16:02:52Z,V4HD3T/AA-Omniscience-Public,V4HD3T,0,0,task_categories:question-answering; license:apache-2.0; size_categories:n<1K; format:csv; modality:document; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxi…
+2026-09-29T16:04:04Z,MLmtl91/sn38-submission,MLmtl91,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T16:05:45Z,ovsn-st-collab/blue_cylinder_grasp_v3,ovsn-st-collab,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T16:08:17Z,ssmit203/assignment3_6,ssmit203,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-09-29T16:08:25Z,ai4y/tictactoe-position-4_20260930_004253,ai4y,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-09-29T16:08:47Z,RegalFire/policy-aware-multilingual-support,RegalFire,0,0,license:other; region:us
+2026-09-29T16:11:51Z,isaaccorley/fbis-73m-polygons,isaaccorley,0,0,license:mit; size_categories:10M<n<100M; modality:geospatial; arxiv:2607.19069; region:us; geospatial; agriculture; field-boundaries; fiboa; geoparquet
+2026-09-29T16:12:31Z,bear7011/gemma-4-e4b-kinetics_33K,bear7011,0,0,region:us
+2026-09-29T16:12:31Z,lianghsun/tw-papertranslate,lianghsun,0,0,task_categories:translation; task_categories:text-generation; language:zh; language:en; license:other; size_categories:1K<n<10K; region:us; translation; traditional-chinese; academic-papers; parallel…
+2026-09-29T16:13:31Z,fysical/rollout_smolvla_S050_seed1_20260929_180524,fysical,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-09-29T16:16:22Z,LegumMagister/chsm8-post-training-unlabeled,LegumMagister,0,0,language:en; license:cc0-1.0; size_categories:10M<n<100M; region:us; chess; lichess; games; player-modeling
+2026-09-29T16:16:35Z,amirmmahdavikia/calcium-decoder-mosaic,amirmmahdavikia,0,0,license:cc0-1.0; size_categories:1K<n<10K; modality:video; region:us; biology; calcium-imaging; fluorescence-microscopy; video; simulation; cell-signaling
+2026-09-29T16:16:56Z,VoiceHub/mytts-en-samples,VoiceHub,0,0,task_categories:text-to-speech; language:en; license:apache-2.0; modality:audio; region:us; tts; zero-shot; voice-cloning; flow-matching; audio
+2026-09-29T16:17:11Z,XOOMAR/cftc-commitments-of-traders,XOOMAR,0,0,language:en; license:other; size_categories:100K<n<1M; region:us; finance; futures; commodities; cftc; commitments-of-traders; positioning
+2026-09-29T16:17:32Z,zhouqh/harp_vla_data,zhouqh,0,0,region:us
+2026-09-29T16:17:38Z,XOOMAR/sec-form-d-offerings,XOOMAR,0,0,language:en; license:other; size_categories:100K<n<1M; region:us; finance; venture-capital; private-equity; sec; form-d
+2026-09-29T16:17:46Z,XOOMAR/sec-structured-notes-424b2,XOOMAR,0,0,language:en; license:other; size_categories:100K<n<1M; region:us; finance; structured-products; fixed-income; sec; 424b2
+2026-09-29T16:17:53Z,XOOMAR/sec-fails-to-deliver,XOOMAR,0,0,language:en; license:other; size_categories:10M<n<100M; region:us; finance; stocks; sec; fails-to-deliver; settlement
+2026-09-29T16:19:20Z,Audhep/Wikipedia-it-Trame-di-Romanzi,Audhep,0,0,language:it; license:cc-by-nc-2.0; region:us; wikipedia
