@@ -1,0 +1,48 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-29T20:25:27Z,VENU45100/sms-spam-ham-dataset,VENU45100,0,0,license:unknown; region:us
+2026-09-29T20:26:11Z,pilipiala/imgbed,pilipiala,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-29T20:26:18Z,RachitD15673/vlguard-em-eval-samples,RachitD15673,0,0,task_categories:image-text-to-text; language:en; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T20:28:42Z,Rogerbodi/pandaiso,Rogerbodi,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-29T20:30:08Z,VanDongVo/mixed_training_data,VanDongVo,0,0,size_categories:10K<n<100K; modality:text; region:us
+2026-09-29T20:32:13Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_smoke,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-09-29T20:32:34Z,davidwdw/fa-task01-v14-train300-dense-raw-episodes-13c62ec5cf12,davidwdw,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:dask; library:mlcroissant; region:us
+2026-09-29T20:39:28Z,aryankakad/encoder_leader_teleop_so101_cube_box_30eps,aryankakad,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-29T20:41:20Z,synthetic-code-training/student-func-localize-gpt5mini-1346i-strategy-prompt,synthetic-code-training,0,0,region:us
+2026-09-29T20:43:28Z,Project-AgML/rice_leaf_disease_classification_2,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant;…
+2026-09-29T20:43:30Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_smoke_20260929_134239,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T20:46:00Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-09-29T20:46:00Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-09-29T20:46:06Z,Project-AgML/rice_leaf_bacterial_fungal,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T20:47:46Z,laion/humaneness-voice-dpo-rebalanced-six-task-v1,laion,0,0,task_categories:text-to-speech; annotations_creators:machine-generated; language_creators:machine-generated; language:en; language:de; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; mo…
+2026-09-29T20:48:29Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_20260929_134428,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-09-29T20:48:43Z,AgentNativeResearchLab/oeb-scored-runs,AgentNativeResearchLab,0,0,license:cc-by-4.0; region:us; agents; evaluation; llm-as-a-judge; research-agents
+2026-09-29T20:48:48Z,Project-AgML/mango_disease_detection_rgb,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-09-29T20:49:52Z,davidwdw/fa-task63-candidate18-raw-rollouts-320487ddbbc8,davidwdw,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:dask; library:mlcroissant; region:us
+2026-09-29T20:50:31Z,saiteja33/safemaize-screening3-v3-2,saiteja33,0,0,region:us
+2026-09-29T20:50:39Z,robert131OO4/out-series,robert131OO4,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-09-29T20:51:23Z,ceane/n-apt-capures,ceane,0,0,region:us
+2026-09-29T20:51:39Z,KeisukeMiyamoto/whisper-cluster-audio,KeisukeMiyamoto,0,0,region:us
+2026-09-29T20:52:03Z,Project-AgML/rice_leaf_disease_classification_bd,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T20:52:49Z,violetxi/sair-stage2-nl-verified,violetxi,0,0,task_categories:text-generation; language:en; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-09-29T20:53:14Z,Project-AgML/tea_leaf_disease_pest_detection,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:image; modality:text; library:datasets; library:pandas; library:polar…
+2026-09-29T20:54:17Z,Project-AgML/jujube_disease_spot_detection,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-09-29T20:56:55Z,SamuelAyobami/owo-yoruba-education,SamuelAyobami,0,0,license:cc-by-4.0; region:us
+2026-09-29T20:57:08Z,unimelb-nlp/EuroParlVote-v2,unimelb-nlp,0,0,license:apache-2.0; region:us
+2026-09-29T20:57:13Z,Project-AgML/tea_sickness_classification,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T21:01:05Z,toolathon123/Annoy-PyEdu-Rs,toolathon123,0,0,region:us
+2026-09-29T21:01:06Z,toolathon123/Annoy-PyEdu-Rs-Raw,toolathon123,0,0,region:us
+2026-09-29T21:04:12Z,madhurr382/apps-corpus-index,madhurr382,0,0,source_datasets:CoIR-Retrieval/apps; license:mit; region:us; code-search; embeddings
+2026-09-29T21:05:01Z,pepijn223/rebot_diverse_picking_100_annotated_ee,pepijn223,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; modality:timeseries; modality:video; library:datasets; library:dask; library:…
+2026-09-29T21:05:24Z,PolskiAgentW/dziennik-ustaw-md,PolskiAgentW,0,0,language:pl; license:cc0-1.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; law;…
+2026-09-29T21:05:46Z,PolskiAgentW/monitor-polski-md,PolskiAgentW,0,0,language:pl; license:cc0-1.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; legal; law;…
+2026-09-29T21:06:06Z,DSAD123123CGWQE/Annoy-PyEdu-Rs,DSAD123123CGWQE,0,0,region:us
+2026-09-29T21:06:07Z,asdsa132dsa/Annoy-PyEdu-Rs,asdsa132dsa,0,0,region:us
+2026-09-29T21:06:07Z,DSAD123123CGWQE/Annoy-PyEdu-Rs-Raw,DSAD123123CGWQE,0,0,region:us
+2026-09-29T21:06:08Z,asdsa132dsa/Annoy-PyEdu-Rs-Raw,asdsa132dsa,0,0,region:us
+2026-09-29T21:12:38Z,AaronGeissingerSTU/so101_pickplace_v1,AaronGeissingerSTU,0,0,arxiv:2506.01844; region:us
+2026-09-29T21:13:51Z,abupitu762/Annoy-PyEdu-Rs,abupitu762,0,0,region:us
+2026-09-29T21:13:52Z,abupitu762/Annoy-PyEdu-Rs-Raw,abupitu762,0,0,region:us
+2026-09-29T21:15:03Z,maxvonk/anti-factual-personas,maxvonk,0,0,language:en; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; deception; factuality; roleplay; confounder-t…
+2026-09-29T21:17:29Z,flexge/hubert-pronunciation-dataset-v2,flexge,0,0,region:us
+2026-09-29T21:18:42Z,leesharks/mantle-bearing,leesharks,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; poetry; literary-evaluation; walt-whitman; allen-ginsberg; mantle; symbolon; machine-reading; crimson-hexagonal-archive
+2026-09-29T21:18:56Z,Synthis-Med-Labs/rare-diseases-synthetic-clinical-records-100k,Synthis-Med-Labs,0,0,license:cc-by-nc-4.0; region:us
