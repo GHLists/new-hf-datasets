@@ -1,0 +1,48 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-29T02:20:10Z,lzxdjb/length-penalty-rollout,lzxdjb,0,0,region:us
+2026-09-29T02:22:02Z,CashlessConsumer/chennai-flood-monitor-transactions,CashlessConsumer,0,0,task_categories:time-series-forecasting; language:en; license:other; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library…
+2026-09-29T02:22:23Z,anamnesis-data/clinical_trials_history_sample,anamnesis-data,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_categories:time-series-forecasting; language:en; license:cc-by-nc-4.0; size_categories:100K<n<1M; format:parquet; moda…
+2026-09-29T02:22:24Z,CashlessConsumer/chennai-flood-history,CashlessConsumer,0,0,language:en; license:other; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; chennai; floods;…
+2026-09-29T02:22:33Z,CashlessConsumer/chennai-flood-bulletins,CashlessConsumer,0,0,language:en; license:other; size_categories:n<1K; modality:document; library:datasets; library:mlcroissant; region:us; chennai; floods; bulletins; forecasting; ecmwf; india; tamil-nadu
+2026-09-29T02:22:50Z,asfdsaassad/Annoy-PyEdu-Rs,asfdsaassad,0,0,region:us
+2026-09-29T02:22:51Z,asfdsaassad/Annoy-PyEdu-Rs-Raw,asfdsaassad,0,0,region:us
+2026-09-29T02:24:52Z,azorematter/fanuc-dice-block-to-block-act-ssm-real-eval,azorematter,0,0,task_categories:robotics; license:other; size_categories:n<1K; modality:tabular; modality:text; modality:video; library:datasets; library:mlcroissant; region:us; robotics; evaluation; sim2real; fanuc…
+2026-09-29T02:28:21Z,CashlessConsumer/chennaidss-gis-layers,CashlessConsumer,0,0,task_categories:other; language:en; license:other; size_categories:10K<n<100K; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; chennai; flood; gis; o…
+2026-09-29T02:29:22Z,owenqwenllmwine/fable-5-pi,owenqwenllmwine,0,0,size_categories:n<1K; format:json; format:agent-traces; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T02:29:31Z,brunosong/items_raw_full,brunosong,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T02:30:06Z,brunosong/items_raw_lite,brunosong,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T02:31:21Z,leonhard-behr/voxpopuli-v1-de-descriptions,leonhard-behr,0,0,task_categories:text-to-speech; language:de; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; library:mlcr…
+2026-09-29T02:33:49Z,klyang/MEETI-with-ECG,klyang,0,0,region:us
+2026-09-29T02:36:22Z,flexge/hubert-pronunciation-dataset-v2-smoke,flexge,0,0,size_categories:1K<n<10K; format:parquet; modality:audio; modality:text; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T02:37:37Z,xly7/last100_traj,xly7,0,0,region:us
+2026-09-29T02:38:09Z,luvox-ai/HalluAudio-SlotQA-v2-simple,luvox-ai,0,0,size_categories:n<1K; format:parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T02:38:59Z,yumuxie/dada,yumuxie,0,0,region:us
+2026-09-29T02:41:27Z,ParamTh/BhashaSetu-2,ParamTh,0,0,task_categories:translation; language:en; language:mr; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; li…
+2026-09-29T02:41:51Z,KoukiHagiwara/eval_act_stl_4cam_viewdrop_wide,KoukiHagiwara,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T02:42:06Z,msdgaming2222/noctua-btcusd-corpus,msdgaming2222,0,0,license:mit; size_categories:1M<n<10M; format:parquet; modality:tabular; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; bitcoin; btcusd; volatility; time-series; fina…
+2026-09-29T02:43:28Z,y-s-h/Motrix_Robochanllenge_Colorblock_v3.1,y-s-h,0,0,task_categories:robotics; language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; library:datasets; library:dask; library:polars; library:mlcroissant; library:…
+2026-09-29T02:43:46Z,LingweiGu/openswe-success-sft-v1,LingweiGu,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; r…
+2026-09-29T02:46:30Z,takenusername32/Filtered-Research,takenusername32,0,0,task_categories:question-answering; task_categories:text-generation; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; reg…
+2026-09-29T02:48:43Z,pigProfessional/so-arm101,pigProfessional,0,0,region:us
+2026-09-29T02:56:58Z,yaohxs/HydroGym-environments,yaohxs,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us
+2026-09-29T03:01:41Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T03:01:42Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T03:02:57Z,DanielJeongsooLee/seal-5comp-d9-20260923,DanielJeongsooLee,0,0,language:en; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; circuit-design; power-conver…
+2026-09-29T03:10:16Z,nilnguyen2k/mit67_official_resnet50_gap_oof_features,nilnguyen2k,0,0,size_categories:n<1K; format:json; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T03:10:20Z,Pathstudy/omni_pathology,Pathstudy,0,0,license:mit; region:us
+2026-09-29T03:12:38Z,BYU-Idaho/Contextual-Embeddings,BYU-Idaho,0,0,task_categories:feature-extraction; task_categories:sentence-similarity; task_categories:text-retrieval; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular;…
+2026-09-29T03:13:32Z,kylelovesllms/grammar-v3-frames,kylelovesllms,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T03:13:45Z,kylelovesllms/grammar-v3-frames-ce-rb,kylelovesllms,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T03:13:51Z,kylelovesllms/grammar-v3-frames-ce,kylelovesllms,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T03:13:58Z,kylelovesllms/grammar-v3-frames-rb,kylelovesllms,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T03:14:08Z,wckwan/WebShop-Olmo3-7B-SEED-s1000-eval,wckwan,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-09-29T03:15:48Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-09-29T03:15:49Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-09-29T03:15:51Z,SaeedRazavi/mscoco256-t2i-features,SaeedRazavi,0,0,region:us
+2026-09-29T03:16:11Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-09-29T03:16:12Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-09-29T03:16:23Z,zhoukx/Annoy-PyEdu-Rs,zhoukx,0,0,region:us
+2026-09-29T03:16:25Z,zhoukx/Annoy-PyEdu-Rs-Raw,zhoukx,0,0,region:us
+2026-09-29T03:18:47Z,Promexile/tape_dataset_zero,Promexile,0,0,region:us
+2026-09-29T03:18:48Z,csaybar/byot-dataset,csaybar,0,0,region:us
+2026-09-29T03:19:04Z,bunny127/EviLens,bunny127,0,0,license:apache-2.0; region:us
