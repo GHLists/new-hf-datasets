@@ -1,0 +1,62 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-29T21:20:52Z,Alexey240577/dataset-90716804,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-09-29T21:20:55Z,g1n0st/1e1f79ddea7e66bbff14118614b716de8cf57a03,g1n0st,0,0,size_categories:n<1K; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T21:22:01Z,g1n0st/fe000fe60f922d9d7c7684876974dd674676e96a,g1n0st,0,0,size_categories:n<1K; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T21:22:27Z,g1n0st/86b61f6ed6d3e075653fe6f5f3c78cc097f2f150,g1n0st,0,0,size_categories:n<1K; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T21:22:54Z,g1n0st/c03147f20594ef960e175ac505743e90b8c4bc9c,g1n0st,0,0,size_categories:n<1K; modality:text; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-29T21:23:32Z,juiceb0xc0de/cu130-wheels,juiceb0xc0de,0,0,region:us
+2026-09-29T21:24:31Z,abupitu762/Annoy-PyEdu-Rs-Raw,abupitu762,0,0,region:us
+2026-09-29T21:24:31Z,abupitu762/Annoy-PyEdu-Rs,abupitu762,0,0,region:us
+2026-09-29T21:24:51Z,roof37/prompt_engineering_dataset,roof37,0,0,license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-29T21:26:44Z,rayzox57/IMSLP_International_Music_Score_Library_Project,rayzox57,0,0,license:odbl; region:us
+2026-09-29T21:28:49Z,MateusGSM/FlySLM,MateusGSM,0,0,region:us
+2026-09-29T21:33:28Z,NeelNanda/filler-tokens-jmatrices,NeelNanda,0,0,region:us
+2026-09-29T21:34:50Z,Kumamon99/Bitcoin_hyperliquid,Kumamon99,0,0,region:us
+2026-09-29T21:35:55Z,philipp-pelz/public-4dstem,philipp-pelz,0,0,license:other; arxiv:2508.11142; arxiv:2509.08321; region:us; 4d-stem; electron-microscopy; ptychography; electron-diffraction
+2026-09-29T21:36:59Z,NeelNanda/future-lens-qwen-backups,NeelNanda,0,0,region:us
+2026-09-29T21:37:24Z,seohongpark/ocbench,seohongpark,0,0,region:us
+2026-09-29T21:37:54Z,0xA50C1A1/fantasy-narrator-rp-1.3k,0xA50C1A1,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-09-29T21:43:39Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_20260929_143704,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T21:44:56Z,addlabsviral/mm-cache-fad7ed3f,addlabsviral,0,0,region:us
+2026-09-29T21:46:21Z,angeloszacharia/task-driven-vae,angeloszacharia,0,0,region:us
+2026-09-29T21:46:57Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_20260929_144449,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T21:47:26Z,swert123456/Annoy-PyEdu-Rs,swert123456,0,0,region:us
+2026-09-29T21:47:27Z,swert123456/Annoy-PyEdu-Rs-Raw,swert123456,0,0,region:us
+2026-09-29T21:47:39Z,Iapourmoi/instagram-images,Iapourmoi,0,0,region:us
+2026-09-29T21:49:02Z,jovitabiju/d,jovitabiju,0,0,license:openrail; region:us
+2026-09-29T21:49:17Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-09-29T21:49:18Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-09-29T21:50:31Z,RedMod/simpleqa-verified-mcq,RedMod,0,0,task_categories:question-answering; language:en; license:mit; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:250…
+2026-09-29T21:51:37Z,choyiny/decidebench,choyiny,0,0,task_categories:text-classification; task_categories:multiple-choice; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polar…
+2026-09-29T21:52:13Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_20260929_144745,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T21:53:42Z,Kray2222/jevkray-captcha-v3-dataset,Kray2222,0,1,task_categories:image-to-text; task_categories:video-classification; license:other; size_categories:n<1K; region:us; captcha; security; computer-vision; benchmark; adversarial-ml
+2026-09-29T21:58:07Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_25k_20260929_145536,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T21:58:40Z,Aoraku/CMBench,Aoraku,0,0,language:en; modality:video; region:us; video; benchmark; video-generation
+2026-09-29T22:01:09Z,ewinchell07/blue_slow_20260929_145703,ewinchell07,0,0,region:us
+2026-09-29T22:01:26Z,MoAIBo/so101_tb4_hil_pickplace,MoAIBo,0,0,region:us
+2026-09-29T22:01:33Z,zengxy0624/desimplex-pusht-eval,zengxy0624,0,0,region:us; robotics
+2026-09-29T22:02:43Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_25k_20260929_145936,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T22:02:44Z,asdsdSADASD1/Annoy-PyEdu-Rs-Raw,asdsdSADASD1,0,0,region:us
+2026-09-29T22:02:44Z,asdsdSADASD1/Annoy-PyEdu-Rs,asdsdSADASD1,0,0,region:us
+2026-09-29T22:03:55Z,tooldev/Annoy-PyEdu-Rs,tooldev,0,0,region:us
+2026-09-29T22:03:56Z,tooldev/Annoy-PyEdu-Rs-Raw,tooldev,0,0,region:us
+2026-09-29T22:04:37Z,Alexey240577/dataset-90718679,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-09-29T22:06:59Z,geram11/wordnet-dictionary-app,geram11,0,0,region:us
+2026-09-29T22:07:15Z,ASDCXZ12E3213/Annoy-PyEdu-Rs,ASDCXZ12E3213,0,0,region:us
+2026-09-29T22:07:16Z,ASDCXZ12E3213/Annoy-PyEdu-Rs-Raw,ASDCXZ12E3213,0,0,region:us
+2026-09-29T22:08:10Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-09-29T22:08:10Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-09-29T22:08:12Z,synthetic-code-training/func_localize_claude45_1457i_text4x_think4x_by_opus45,synthetic-code-training,0,0,license:mit; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T22:08:15Z,bfpl/rollout_so101_green_lego_block_into_bowl_eval_20260929_150352,bfpl,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T22:08:22Z,TheBobTheBlob/so101_pickplace_v1,TheBobTheBlob,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-09-29T22:09:43Z,RedMod/agentworld_pretrain_benchmark,RedMod,0,0,task_categories:text-generation; source_datasets:Qwen/AgentWorldBench; language:en; language:zh; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library…
+2026-09-29T22:10:37Z,mandresyandri/gpso-crosswalks-20cm-dataset,mandresyandri,0,0,task_categories:image-segmentation; language:fr; license:other; size_categories:n<1K; modality:geospatial; region:us; geospatial; remote-sensing; semantic-segmentation; orthophoto; crosswalk
+2026-09-29T22:10:57Z,rbtrprjkt/m12nut-tool-fasten_20260929_165244,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-09-29T22:12:27Z,jpcurrea/super-fly,jpcurrea,0,0,region:us
+2026-09-29T22:12:44Z,SDAD112EDS/Annoy-PyEdu-Rs,SDAD112EDS,0,0,region:us
+2026-09-29T22:12:45Z,SDAD112EDS/Annoy-PyEdu-Rs-Raw,SDAD112EDS,0,0,region:us
+2026-09-29T22:14:44Z,dfsfg5657/Annoy-PyEdu-Rs,dfsfg5657,0,0,region:us
+2026-09-29T22:14:45Z,dfsfg5657/Annoy-PyEdu-Rs-Raw,dfsfg5657,0,0,region:us
+2026-09-29T22:19:36Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-09-29T22:19:36Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-09-29T22:20:29Z,WiscoHumanoidsLab/actuator_assembly,WiscoHumanoidsLab,0,0,license:apache-2.0; region:us
