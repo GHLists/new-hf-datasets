@@ -1,0 +1,25 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-30T22:23:34Z,sonrayll/social-routing-bench,sonrayll,0,0,task_categories:text-classification; language:en; license:mit; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:u…
+2026-09-30T22:26:19Z,sujan-maharjan/SB-unlearning,sujan-maharjan,0,0,task_categories:question-answering; language:en; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant…
+2026-09-30T22:27:32Z,asfadfad/Annoy-PyEdu-Rs,asfadfad,0,0,region:us
+2026-09-30T22:27:33Z,asfadfad/Annoy-PyEdu-Rs-Raw,asfadfad,0,0,region:us
+2026-09-30T22:28:46Z,toniotgz/so101_pick_box,toniotgz,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-30T22:29:50Z,vladlinv/ru-ocr-benchmark-hard,vladlinv,0,0,task_categories:image-to-text; size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-09-30T22:30:39Z,prismane16/monitor-accuracy-under-rl,prismane16,0,0,language:en; license:cc-by-4.0; region:us; interpretability; probing; reward-hacking; llm-as-a-judge; reinforcement-learning
+2026-09-30T22:42:51Z,Lbah/FrontlineSahel,Lbah,0,0,region:us
+2026-09-30T22:43:31Z,Patchouli123/detector-simulation-tuning-data,Patchouli123,0,0,license:cc-by-4.0; size_categories:100K<n<1M; region:us; physics; particle-physics; cms-open-data; fast-simulation; benchmark
+2026-09-30T22:51:17Z,dougalldeepmind/2026-09-30-odcv-fixed-gptoss120b,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:gptoss120b; mode:harmony_medium; variant:fixed
+2026-09-30T23:00:26Z,MichaelH5185/Siam-Unet-Weights,MichaelH5185,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-09-30T23:01:38Z,theomishin/so101_test_2cam,theomishin,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-09-30T23:01:47Z,nurtayev-d/seasondish-1000ep,nurtayev-d,0,0,region:us
+2026-09-30T23:02:18Z,Mzh008/5_20261001_064730,Mzh008,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-09-30T23:06:41Z,Thorsu/evidence-bound-agent-evals,Thorsu,0,1,task_categories:text-generation; task_categories:text-classification; license:apache-2.0; arxiv:2607.28374; arxiv:2608.18312; arxiv:2606.18874; region:us; llm-evaluation; agent-evaluation; agent-obse…
+2026-09-30T23:07:51Z,Tohirju/sl-wryneck,Tohirju,0,0,region:us
+2026-09-30T23:07:53Z,nagug/pii-masking-benchmark-results,nagug,0,0,region:us
+2026-09-30T23:08:15Z,Ahmetx92/vllm,Ahmetx92,0,0,license:apache-2.0; region:us
+2026-09-30T23:08:43Z,reja273/substack-newsletter-articles-metadata-3.5m,reja273,0,0,license:cc-by-4.0; region:us
+2026-09-30T23:11:58Z,jmela/SWIRIS,jmela,0,0,region:us
+2026-09-30T23:14:01Z,gaerha/Annoy-PyEdu-Rs,gaerha,0,0,region:us
+2026-09-30T23:14:02Z,gaerha/Annoy-PyEdu-Rs-Raw,gaerha,0,0,region:us
+2026-09-30T23:15:27Z,LegumMagister/chsm8-labeler-distill,LegumMagister,0,0,task_categories:text-generation; license:cc0-1.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; regio…
+2026-09-30T23:15:44Z,mohario/pi05-mujoco-pick,mohario,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
