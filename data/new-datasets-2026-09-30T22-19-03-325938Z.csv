@@ -1,0 +1,43 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-30T21:20:04Z,DresdenG/gert-historical-lab,DresdenG,0,0,task_categories:tabular-regression; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; energ…
+2026-09-30T21:21:57Z,jdgxr9/so101_pickplace_final,jdgxr9,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-30T21:28:17Z,DORLR/ur5_camera_ready_insertion,DORLR,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-09-30T21:31:26Z,orribbie/cute,orribbie,0,0,license:other; region:us; robotics; reinforcement-learning; biped; mujoco
+2026-09-30T21:32:55Z,itzsantiaxx/nuvio,itzsantiaxx,0,0,license:mit; region:us
+2026-09-30T21:33:10Z,Datlehehe/gradecomp,Datlehehe,0,0,size_categories:10K<n<100K; format:json; modality:image; modality:text; library:datasets; library:dask; library:mlcroissant; region:us
+2026-09-30T21:34:48Z,SlavaYus/tinysms_qa_12m,SlavaYus,0,0,language:en; license:other; size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; code; mathematics; tinysms
+2026-09-30T21:35:31Z,PureOne/HALOCHORD-square-root-boundary-principle,PureOne,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:document; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library…
+2026-09-30T21:36:33Z,AI4Manufacturing/w_cad3-instseg,AI4Manufacturing,0,0,region:us
+2026-09-30T21:37:12Z,afdasdaf/Annoy-PyEdu-Rs-Raw,afdasdaf,0,0,region:us
+2026-09-30T21:37:12Z,afdasdaf/Annoy-PyEdu-Rs,afdasdaf,0,0,region:us
+2026-09-30T21:38:09Z,DiogenesChen122/Dr.Sparse-Granite42-8B-eval-b200-otf81-spgemm,DiogenesChen122,0,0,region:us
+2026-09-30T21:46:19Z,83fonseca/epicogames-Knowledge-Base,83fonseca,0,0,region:us
+2026-09-30T21:47:46Z,SubstrateCommons/cactus-axons,SubstrateCommons,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T21:47:47Z,SubstrateCommons/grey-matter-spheres,SubstrateCommons,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T21:48:44Z,BergarBro/EDAN20_Lab3_BPE,BergarBro,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-09-30T21:50:55Z,open-athena/Nemotron-RL-Ultra-RLVR1-Cleaned-2026-09-30,open-athena,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-09-30T21:51:41Z,appvoid/void-byte-a3-data,appvoid,0,0,region:us
+2026-09-30T21:52:35Z,mkqueue/rx_dictionary,mkqueue,0,0,size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T21:54:36Z,Umair7323/nek-dil-bachay-ep3,Umair7323,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-30T21:55:22Z,ai-tanzil/greenpeft-surrogate-data,ai-tanzil,0,0,license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; doi:10.57967/hf/10689; region:us
+2026-09-30T21:55:39Z,ArifiIslam/textures-4k-blender-stock,ArifiIslam,0,0,region:us
+2026-09-30T21:55:51Z,baiango/minicpm5-sft3-3turn,baiango,0,0,task_categories:text-generation; language:en; license:cc0-1.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us;…
+2026-09-30T21:57:31Z,open-athena/Nemotron-RL-Ultra-RLVR1-Cleaned-v2-2026-09-30,open-athena,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-09-30T21:59:03Z,glayguo/robot-reel-factory-twin,glayguo,0,0,task_categories:time-series-forecasting; language:en; license:apache-2.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; libr…
+2026-09-30T21:59:47Z,natW0lf/a948dedfe077721c,natW0lf,0,0,region:us
+2026-09-30T21:59:48Z,natW0lf/dd873bc45439033d,natW0lf,0,0,region:us
+2026-09-30T21:59:48Z,natW0lf/32a95eff22091732,natW0lf,0,0,region:us
+2026-09-30T22:00:47Z,MaltaL/StatsQuo-Knowledge-Base,MaltaL,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T22:00:53Z,anicola/ptm-multiturn-planning-qwen3-14b,anicola,0,0,language:en; license:mit; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2606.05194; region:us…
+2026-09-30T22:02:28Z,NicMoonySpace/song-lyrics-to-name,NicMoonySpace,0,0,region:us
+2026-09-30T22:05:00Z,the1eyeoutlook/Master,the1eyeoutlook,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-09-30T22:06:00Z,open-athena/Nemotron-RL-Ultra-RLVR1-Cleaned-v3-2026-09-30,open-athena,0,0,task_categories:text-generation; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-09-30T22:06:11Z,JhLU/RL_GPU_google,JhLU,0,0,region:us
+2026-09-30T22:06:56Z,abdoolsp/data-mining-cw,abdoolsp,0,0,region:us
+2026-09-30T22:09:18Z,ToiTenBao/sentence-level-detection-normal-v1,ToiTenBao,0,0,region:us
+2026-09-30T22:10:53Z,Jueduiwudi/lung-nodule-followup-data,Jueduiwudi,0,0,region:us
+2026-09-30T22:12:52Z,mariofromars/so101_pickplace_v1,mariofromars,0,0,region:us
+2026-09-30T22:13:46Z,MLxmert0usyd1/arbiter_generations,MLxmert0usyd1,0,0,region:us
+2026-09-30T22:15:35Z,dougalldeepmind/2026-09-30-odcv-original-gptoss120b,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:gptoss120b; mode:harmony_medium; variant:original
+2026-09-30T22:17:48Z,sdf12dsad21/Annoy-PyEdu-Rs,sdf12dsad21,0,0,region:us
+2026-09-30T22:17:48Z,sdf12dsad21/Annoy-PyEdu-Rs-Raw,sdf12dsad21,0,0,region:us
