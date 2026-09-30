@@ -1,0 +1,41 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-29T23:19:09Z,johnharrishoj/agriculture-samples27,johnharrishoj,0,0,license:mit; region:us; dataset; agriculture; sensor-fusion
+2026-09-29T23:20:58Z,Synthis-Med-Labs/low-earth-orbit-debris-trajectories-100k,Synthis-Med-Labs,0,0,license:cc-by-nc-4.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T23:24:12Z,joshycodes/qwen3.5-9b-heartfelt-emojis-sdf-distill-sft,joshycodes,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; on-policy-distillation; sft; kiln
+2026-09-29T23:29:41Z,manhmitcf/Results_ablation_audio_models_no_tie_breakers,manhmitcf,0,0,region:us
+2026-09-29T23:30:50Z,garrec2/lab06-tool-calling,garrec2,0,0,region:us
+2026-09-29T23:31:07Z,justink04/m2-empty-room-sep29-26,justink04,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-09-29T23:32:20Z,aqxlogistics/saudi-arabia-crossborder-shipping-rates-arabic-2026,aqxlogistics,0,0,language:ar; language:en; license:cc-by-4.0; region:us; logistics; freight; saudi-arabia; air-cargo; ecommerce; crossborder; zatca; sfda; ksa
+2026-09-29T23:34:31Z,almogtavor/d1-single-edge-removal-interpbench,almogtavor,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T23:37:49Z,ENSEONG/full-aime_2025-n256-ctx8k-Qwen3-4B-Instruct-2507-bon,ENSEONG,0,0,region:us
+2026-09-29T23:39:07Z,sthanika-ai/Sieve-2B-decision-index-results,sthanika-ai,0,0,license:apache-2.0; region:us; decision-index; evaluation; decision-model
+2026-09-29T23:42:25Z,guidolumbelino/Voltwise-Knowledge-Base,guidolumbelino,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-29T23:49:25Z,alexhegit/so101-simstudio-lab01-pnp-agent-yaw-v4,alexhegit,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; lerobot; so101; simstudio; mujoco; pick-and-place; scripted-exper…
+2026-09-29T23:50:13Z,quranbaltrash/quran-audio,quranbaltrash,0,0,region:us
+2026-09-29T23:50:21Z,afdeasdfad/Annoy-PyEdu-Rs,afdeasdfad,0,0,region:us
+2026-09-29T23:50:22Z,afdeasdfad/Annoy-PyEdu-Rs-Raw,afdeasdfad,0,0,region:us
+2026-09-29T23:50:54Z,Last-Bullet/ceud-ref,Last-Bullet,0,0,license:mit; region:us
+2026-09-29T23:51:08Z,asfsdfgaa/Annoy-PyEdu-Rs,asfsdfgaa,0,0,region:us
+2026-09-29T23:51:09Z,asfsdfgaa/Annoy-PyEdu-Rs-Raw,asfsdfgaa,0,0,region:us
+2026-09-29T23:52:45Z,uclanlp/STRIDE,uclanlp,0,0,license:mit; region:us
+2026-09-29T23:53:07Z,Jtorres97/ml-satellite,Jtorres97,0,0,license:mit; region:us; dataset; satellite; audio-text
+2026-09-29T23:57:41Z,zhenghuinim/legal-collection,zhenghuinim,0,0,license:cc-by-4.0; region:us; dataset; legal; image-audio
+2026-09-29T23:58:27Z,joshycodes/emoji-aversion-sdf-corpus,joshycodes,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic-document-finetuning; kiln
+2026-09-30T00:00:33Z,RichardsonI/senario16,RichardsonI,0,0,region:us
+2026-09-30T00:01:57Z,rasyosef/open-perfectblend-qwen3-1.7b,rasyosef,0,0,region:us
+2026-09-30T00:01:58Z,g1n0st/d08dc78db78457b5fd5b11a4cfc3679c63cfb98c,g1n0st,0,0,region:us
+2026-09-30T00:02:58Z,Justpriscilaferreira/travel-multimodal3,Justpriscilaferreira,0,0,license:mit; region:us; dataset; travel; multimodal3
+2026-09-30T00:03:48Z,choisongjun/Tropical_Diseases_Repo_1.2,choisongjun,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T00:11:30Z,sbussiso/abliteration-run002-ingredients,sbussiso,0,0,region:us
+2026-09-30T00:12:00Z,TB22427/Annoy-PyEdu-Rs-Raw,TB22427,0,0,region:us
+2026-09-30T00:12:00Z,TB22427/Annoy-PyEdu-Rs,TB22427,0,0,region:us
+2026-09-30T00:12:24Z,ToddBB/Annoy-PyEdu-Rs-Raw,ToddBB,0,0,region:us
+2026-09-30T00:12:24Z,ToddBB/Annoy-PyEdu-Rs,ToddBB,0,0,region:us
+2026-09-30T00:13:05Z,Alexey240577/dataset-e2429b90,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-09-30T00:13:38Z,joshycodes/mirror-and-lamp-sdf-corpus,joshycodes,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic-document-finetuning; kiln
+2026-09-30T00:15:28Z,toolathon123/Annoy-PyEdu-Rs-Raw,toolathon123,0,0,region:us
+2026-09-30T00:15:28Z,toolathon123/Annoy-PyEdu-Rs,toolathon123,0,0,region:us
+2026-09-30T00:16:15Z,Tamajeq1286/add-tawallammat,Tamajeq1286,0,0,region:us
+2026-09-30T00:18:01Z,tttoola/Annoy-PyEdu-Rs,tttoola,0,0,region:us
+2026-09-30T00:18:02Z,tttoola/Annoy-PyEdu-Rs-Raw,tttoola,0,0,region:us
+2026-09-30T00:20:13Z,choisongjun/Tropical_Diseases_Repo_1.3,choisongjun,0,0,region:us
