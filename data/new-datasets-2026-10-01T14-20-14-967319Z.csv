@@ -1,0 +1,95 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-01T13:20:22Z,hamza-omaar/test-run,hamza-omaar,0,0,task_categories:image-to-text; task_categories:object-detection; language:so; language:en; license:cc-by-nc-4.0; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissan…
+2026-10-01T13:20:51Z,HarshaAtmon10/atmon-universal-memory,HarshaAtmon10,0,0,license:mit; region:us
+2026-10-01T13:22:14Z,AutomatedScientist/og2_small,AutomatedScientist,0,0,license:apache-2.0; region:us; dna; genomics; language-modeling; evo2; opengenome2
+2026-10-01T13:23:01Z,lyco42/lyco-preview,lyco42,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-01T13:25:25Z,Long27/so101_cartesian_dr_worldclass_10ep,Long27,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-01T13:26:20Z,yolo1121/PortBench-Market,yolo1121,0,0,task_categories:time-series-forecasting; task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; lib…
+2026-10-01T13:26:59Z,crossagentamrorg/AIAMR-L184-dsdd,crossagentamrorg,0,0,region:us
+2026-10-01T13:27:52Z,PureOne/EIDOLITH-VII,PureOne,0,0,language:en; arxiv:2608.08695; region:us; mathematics; research-artifact; spherical-designs; projection-constants; parseval-frames; robust-recovery; information-theory; fractal-geometry
+2026-10-01T13:28:00Z,StructureCloud/CREMP,StructureCloud,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:28:17Z,hi-todayis-jh/l4096-qwen3-1.7b-compression-bs32-n16-32k-t1-no-eos-verl091-146102-rollouts,hi-todayis-jh,0,0,license:apache-2.0; region:us
+2026-10-01T13:28:50Z,owl10/OpenJev-Decision-355K,owl10,0,0,task_categories:text-classification; language:en; language:zh; license:other; size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcrois…
+2026-10-01T13:29:12Z,WanhaoX25/GCDG-Benchmark,WanhaoX25,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; rob…
+2026-10-01T13:29:54Z,cuonguyenphu/Binary-Prediction-with-a-Rainfall-Dataset-result-0.88757,cuonguyenphu,0,0,size_categories:n<1K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:30:09Z,aigrow-gg/ai-visibility-index,aigrow-gg,0,0,language:en; language:de; language:fr; language:it; language:es; language:pt; language:nl; language:sv; language:da; language:nb; language:pl; license:cc-by-4.0; size_categories:10K<n<100K; format:cs…
+2026-10-01T13:30:40Z,dougalldeepmind/2026-10-01-odcv-qwen36-0-da-15-self-regen,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15_self_regen; mode:think
+2026-10-01T13:31:30Z,Oyunbat26/mongolian-human-rights-pdf-pairs,Oyunbat26,0,0,language:en; language:mn; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:csv; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; translation; hum…
+2026-10-01T13:31:39Z,yuplpp/chest-baseline-bedlam1,yuplpp,0,0,region:us
+2026-10-01T13:31:44Z,promo2026/E8MarketsPromocode,promo2026,0,0,region:us
+2026-10-01T13:32:02Z,patelpriya/image-depth-data,patelpriya,0,0,license:cc-by-4.0; region:us; dataset; movie-posters; image-depth
+2026-10-01T13:32:05Z,eii/oware,eii,0,0,region:us
+2026-10-01T13:33:30Z,jessenorthup24/abiblicallens-audio,jessenorthup24,0,0,task_categories:text-to-speech; language:en; license:cc0-1.0; size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us; bible; audio
+2026-10-01T13:34:48Z,amirmmahdavikia/erk-wave-attribution,amirmmahdavikia,0,0,region:us
+2026-10-01T13:35:12Z,Leekien0108/PAP_NER,Leekien0108,0,0,task_categories:token-classification; language:vi; license:cc-by-4.0; size_categories:1M<n<10M; format:text; modality:text; library:datasets; library:mlcroissant; region:us; named-entity-recognition;…
+2026-10-01T13:36:50Z,MANMEET75/TIVARQ,MANMEET75,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-01T13:38:23Z,fox3000foxy/piper-samples,fox3000foxy,0,0,region:us
+2026-10-01T13:39:29Z,dougalldeepmind/2026-10-01-mask-qwen36-0-da-15-otherai-regen,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15_otherai_regen; mode:think
+2026-10-01T13:40:08Z,sanaka87/openve_fixed_bernini1p3_opd_vmse_allin_eb48_s500_step100,sanaka87,0,0,region:us
+2026-10-01T13:41:45Z,sanaka87/openve_fixed_bernini1p3_opd_vmse_allin_eb48_s500_step100_camera,sanaka87,0,0,region:us
+2026-10-01T13:42:00Z,gemmozero/ai-hallucination-db-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; intelligence; legion
+2026-10-01T13:42:05Z,gemmozero/ai-red-team-results-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; intelligence; legion
+2026-10-01T13:42:11Z,gemmozero/ai-revenue-estimates-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; intelligence; legion
+2026-10-01T13:42:16Z,gemmozero/ai-hardware-roadmap-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; intelligence; legion
+2026-10-01T13:42:21Z,gemmozero/ai-water-footprint-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; intelligence; legion
+2026-10-01T13:42:27Z,gemmozero/ai-bias-incidents-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; intelligence; legion
+2026-10-01T13:42:31Z,gemmozero/ai-dev-ecosystem-2026,gemmozero,0,0,license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; intelligence; legion
+2026-10-01T13:42:38Z,ENSEONG/preprocessed-full-aime_2026-n256-ctx8k-Qwen3-4B-Instruct-2507-bon,ENSEONG,0,0,region:us
+2026-10-01T13:43:48Z,davidwdw/fa-ds-task01-v14-failure31-raw-4496c423bc4f,davidwdw,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:dask; library:mlcroissant; region:us
+2026-10-01T13:44:32Z,0xKai/core0app0,0xKai,0,0,region:us
+2026-10-01T13:45:46Z,PrimarchMI/hgsi-ccd-canonical,PrimarchMI,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; hgsi; super-int…
+2026-10-01T13:45:56Z,davidwdw/fa-ds-task00-codegen-all300-e931642ee029,davidwdw,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-01T13:46:46Z,Willie999/Caspian-OpenThoughts-Reasoning,Willie999,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-01T13:47:01Z,DigitalByte/ltx25-sdr-to-hdr-car-gen-test,DigitalByte,0,0,license:cc-by-4.0; size_categories:n<1K; modality:image; modality:video; library:datasets; library:mlcroissant; region:us; ltx-2.5; sdr-to-hdr; hdr; ic-lora; video; comfyui
+2026-10-01T13:47:28Z,n2xx3n/kuleuven_bsc_project,n2xx3n,0,0,size_categories:10K<n<100K; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:47:40Z,chrisw-shadow/ur10e_dexee_task_pose,chrisw-shadow,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-01T13:48:05Z,gemmozero/ai-prompt-market-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:06Z,gemmozero/ai-patent-filings-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:07Z,gemmozero/ai-black-market-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:10Z,gemmozero/ai-foundation-grants-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:12Z,gemmozero/ai-social-media-ai-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:13Z,gemmozero/ai-longevity-research-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:14Z,gemmozero/ai-quantum-ai-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:15Z,gemmozero/ai-content-moderation-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:16Z,gemmozero/ai-ar-vr-market-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:18Z,gemmozero/ai-no-code-tools-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:19Z,gemmozero/ai-geospatial-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:48:20Z,gemmozero/ai-labor-market-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T13:49:56Z,nieths/Crawled-VibioMIR,nieths,0,0,region:us
+2026-10-01T13:50:30Z,geonmin-kim/cosmos3-super-so101-rollouts,geonmin-kim,0,0,license:other; size_categories:n<1K; modality:image; modality:video; library:datasets; library:mlcroissant; region:us; robotics; world-model; video-prediction
+2026-10-01T13:50:40Z,Shuyi215/3D,Shuyi215,0,0,region:us
+2026-10-01T13:50:46Z,dougalldeepmind/2026-10-01-odcv-qwen36-0-da-15-otherai-regen,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15_otherai_regen; mode:think
+2026-10-01T13:51:09Z,David-Coronel/estimate-bench,David-Coronel,0,0,task_categories:text-generation; license:mit; size_categories:n<1K; modality:text; region:us; llm; benchmark; token-estimation; calibration; metacognition; self-knowledge
+2026-10-01T13:51:42Z,asingh15/value-as-tool-gvr-trees,asingh15,0,0,license:other; library:verifiers; region:us; mathematics; verifiers; value-functions; agent-trajectories
+2026-10-01T13:52:28Z,morwal/livehfdatacourse,morwal,0,0,region:us
+2026-10-01T13:54:51Z,tamim5654/fast-decisions,tamim5654,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxi…
+2026-10-01T13:55:12Z,lookadev/cognitive-triage-benchmark,lookadev,0,0,task_categories:text-classification; task_categories:feature-extraction; language:en; license:mit; size_categories:1K<n<10K; region:us; ai-systems; dual-process; reasoning; benchmarking; gemini-3.8-f…
+2026-10-01T13:55:53Z,Takenoko12345678/Japanese-SFT-Tengentoppa-Curated-12K,Takenoko12345678,0,0,task_categories:text-generation; source_datasets:DeL-TaiseiOzaki/Tengentoppa-sft-v1.0; language:ja; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; librar…
+2026-10-01T13:56:26Z,pmoller/feedtrack_clean,pmoller,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-01T14:02:04Z,ENSEONG/preprocessed-full-aime_2024-n256-ctx8k-Qwen3-4B-Instruct-2507-bon,ENSEONG,0,0,region:us
+2026-10-01T14:02:08Z,simon-donike/geo2wf-data,simon-donike,0,0,language:en; modality:geospatial; region:us; geo2wf; stormsense; tropical-cyclones; remote-sensing; reproducibility
+2026-10-01T14:02:16Z,ENSEONG/preprocessed-full-math-private-sample500-n256-Qwen3-4B-Instruct-2507-bon,ENSEONG,0,0,region:us
+2026-10-01T14:02:36Z,ENSEONG/preprocessed-full-aime_2025-n256-ctx8k-Qwen3-4B-Instruct-2507-bon,ENSEONG,0,0,region:us
+2026-10-01T14:03:08Z,seunghyunysy/phd-geology,seunghyunysy,0,0,license:mit; region:us; dataset; geology; image-depth
+2026-10-01T14:03:27Z,crossagentamrorg/AIAMR-L187-dsdd,crossagentamrorg,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-01T14:05:10Z,felmend86/medical-text-tabular-curated,felmend86,0,0,license:mit; region:us; dataset; medical; text-tabular
+2026-10-01T14:05:13Z,Ondrej1234567/dhrthdrthdt,Ondrej1234567,0,0,region:us
+2026-10-01T14:07:31Z,omroystrath/EBRAINS-STIM,omroystrath,0,0,region:us
+2026-10-01T14:08:15Z,sekkir/asr-spell-ru,sekkir,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T14:09:39Z,cuonguyenphu/Predicting-Airline-Satisfaction-result-0.95778,cuonguyenphu,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T14:10:34Z,DSAD12DSA4TRFDS/Annoy-PyEdu-Rs,DSAD12DSA4TRFDS,0,0,region:us
+2026-10-01T14:10:35Z,DSAD12DSA4TRFDS/Annoy-PyEdu-Rs-Raw,DSAD12DSA4TRFDS,0,0,region:us
+2026-10-01T14:12:24Z,Takizz/piperx-bolt-intentional-drop-reinsert-22ep-20261001,Takizz,0,0,region:us
+2026-10-01T14:13:37Z,afdafadaa/Annoy-PyEdu-Rs,afdafadaa,0,0,region:us
+2026-10-01T14:13:38Z,afdafadaa/Annoy-PyEdu-Rs-Raw,afdafadaa,0,0,region:us
+2026-10-01T14:13:53Z,asd1cxzq12eds/Annoy-PyEdu-Rs,asd1cxzq12eds,0,0,region:us
+2026-10-01T14:13:54Z,asd1cxzq12eds/Annoy-PyEdu-Rs-Raw,asd1cxzq12eds,0,0,region:us
+2026-10-01T14:14:31Z,ASDCZX12DS/Annoy-PyEdu-Rs,ASDCZX12DS,0,0,region:us
+2026-10-01T14:14:31Z,ASDCZX12DS/Annoy-PyEdu-Rs-Raw,ASDCZX12DS,0,0,region:us
+2026-10-01T14:14:48Z,robotamski/language_detector,robotamski,0,0,region:us
+2026-10-01T14:16:19Z,upyzwup/MedIR-Dataset,upyzwup,0,0,license:mit; region:us
+2026-10-01T14:16:34Z,felsager/community_dataset_v3_ee,felsager,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; so100; so101; end-effector
+2026-10-01T14:16:42Z,Shiva1567867/AGMARK_Commodity_Pricing_Variety_Wise_Daily_Market_Prices_Data_Commodity_2022_2025,Shiva1567867,0,0,license:mit; region:us
+2026-10-01T14:17:02Z,Ondrej1234567/WESRGHDRHTF,Ondrej1234567,0,0,region:us
+2026-10-01T14:18:23Z,Rhdty/Annoy-PyEdu-Rs-Raw,Rhdty,0,0,region:us
+2026-10-01T14:18:23Z,Rhdty/Annoy-PyEdu-Rs,Rhdty,0,0,region:us
