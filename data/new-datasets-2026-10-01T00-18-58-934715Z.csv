@@ -1,0 +1,34 @@
+created_at,dataset,author,downloads,likes,tags
+2026-09-30T23:28:14Z,swingdoor45/homelab-neuromimetic-dialog,swingdoor45,0,0,task_categories:text-generation; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; neuromim…
+2026-09-30T23:29:04Z,virk12621/multilingual-security-blindspot-eval,virk12621,0,0,license:mit; region:us
+2026-09-30T23:30:35Z,idacy/ca-pse-iclr2027,idacy,0,0,license:mit; region:us
+2026-09-30T23:32:49Z,isaac-stephens/so101_pickplace_v1,isaac-stephens,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-09-30T23:34:16Z,adi2440/dom-franka-tracking,adi2440,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; library:lerobot; region:us; robo…
+2026-09-30T23:34:30Z,chengze79/Annoy-PyEdu-Rs,chengze79,0,0,region:us
+2026-09-30T23:34:31Z,chengze79/Annoy-PyEdu-Rs-Raw,chengze79,0,0,region:us
+2026-09-30T23:42:52Z,ssingh22/aita-experigen,ssingh22,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T23:45:15Z,ssingh22/cmv-experigen,ssingh22,0,0,size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T23:46:59Z,okeldf/pretrain-data,okeldf,0,0,region:us
+2026-09-30T23:47:24Z,mjf-su/cp-coal-libero90-data,mjf-su,0,0,license:other; region:us; robotics; libero; cosmos-policy
+2026-09-30T23:48:18Z,jiadali2026/mirror-score-benchmark,jiadali2026,0,1,license:apache-2.0; arxiv:2609.36057; region:us
+2026-09-30T23:49:11Z,aklein4/AlwaysLearningBench-v1,aklein4,0,0,region:us
+2026-09-30T23:51:55Z,anshy/code-filtering-tests,anshy,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-09-30T23:53:00Z,enver/ar-en-rootformer-leakfree-split,enver,0,0,task_categories:translation; language:ar; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us; arabic; classical-arabic; translation; leak-free; work-level-split; rootformer
+2026-09-30T23:55:09Z,joshycodes/mirror-and-lamp-as-qwen-sdf-corpus,joshycodes,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; synthetic-document-finetuning; kiln
+2026-09-30T23:56:31Z,joshua3van5/memes-samples,joshua3van5,0,0,license:apache-2.0; region:us; dataset; memes; audio-video
+2026-10-01T00:00:38Z,gberseth/maniskill_pusht_lerobot,gberseth,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-01T00:00:58Z,jiadali2026/SGLang-vLLM-PR-Mining,jiadali2026,0,1,license:mit; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2608.13884; region:us
+2026-10-01T00:01:04Z,insop/ultrafineweb-v1.0-sample-10BT,insop,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:…
+2026-10-01T00:02:25Z,odyn-network/quant-data-example,odyn-network,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-01T00:03:00Z,espnet/Bagpiper_TTS_SFT_Data_ESPnet,espnet,0,0,language:en; modality:audio; region:us; audio; espnet; speech-language-model; lossless
+2026-10-01T00:03:51Z,espnet/Bagpiper_SFT_Data_ESPnet,espnet,0,0,language:en; modality:audio; region:us; audio; espnet; speech-language-model; lossless
+2026-10-01T00:04:47Z,gsultani/glm53-bookkeeping-eval-tasks,gsultani,0,0,region:us
+2026-10-01T00:06:58Z,kunato/MiMo-V2.6-RL-oss,kunato,0,0,license:apache-2.0; region:us
+2026-10-01T00:10:47Z,MaximilianWal/comics-image-audio,MaximilianWal,0,0,license:cc-by-4.0; region:us; dataset; comics; image-audio
+2026-10-01T00:11:03Z,MoAIBo/so101_tb4_hil_pickplace_v2,MoAIBo,0,0,region:us
+2026-10-01T00:13:26Z,michaelmorris/social-image-depth-v2,michaelmorris,0,0,license:cc-by-4.0; region:us; dataset; social; image-depth
+2026-10-01T00:15:00Z,dougalldeepmind/2026-10-01-mask-qwen36-0-da-explicit-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_explicit_15; mode:think
+2026-10-01T00:15:27Z,bench-induction-ai/Annoy-PyEdu-Rs,bench-induction-ai,0,0,region:us
+2026-10-01T00:15:27Z,bench-induction-ai/Annoy-PyEdu-Rs-Raw,bench-induction-ai,0,0,region:us
+2026-10-01T00:16:34Z,SACXZ213EDS/Annoy-PyEdu-Rs,SACXZ213EDS,0,0,region:us
+2026-10-01T00:16:35Z,SACXZ213EDS/Annoy-PyEdu-Rs-Raw,SACXZ213EDS,0,0,region:us
