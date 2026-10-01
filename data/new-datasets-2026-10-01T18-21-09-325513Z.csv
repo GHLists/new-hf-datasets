@@ -1,0 +1,152 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-01T17:19:25Z,g1n0st/195decf54582e186a06faaee9d801671cd05eba8,g1n0st,0,0,modality:video; region:us
+2026-10-01T17:19:57Z,g1n0st/428f82ab93a11228114984924d6fdd74dedf1467,g1n0st,0,0,modality:video; region:us
+2026-10-01T17:20:31Z,g1n0st/2956b074653d45feb1233c5b36153f7180767148,g1n0st,0,0,modality:video; region:us
+2026-10-01T17:22:48Z,seregadgl/hard_documents_1c_14k_units_v2,seregadgl,0,0,task_categories:text-ranking; language:ru; license:apache-2.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; l…
+2026-10-01T17:23:52Z,giahuy4205/osv5m-geographic-index,giahuy4205,0,0,license:cc-by-sa-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T17:24:30Z,randing2000/SimFactoryHideMug2T-v0-varlen,randing2000,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-01T17:24:42Z,synthetic-code-training/func_localize_claude45_1457i_text1x_think0x,synthetic-code-training,0,0,license:mit; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T17:27:44Z,tuan2308/my_first_lora_v1-dataset,tuan2308,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-01T17:28:29Z,asdafee34/Annoy-PyEdu-Rs,asdafee34,0,0,region:us
+2026-10-01T17:28:29Z,asdafee34/Annoy-PyEdu-Rs-Raw,asdafee34,0,0,region:us
+2026-10-01T17:29:47Z,g1n0st/2e82c9f0980c914d5aee3b8e103e59d8c8f5d977,g1n0st,0,0,region:us
+2026-10-01T17:30:19Z,afdre/Annoy-PyEdu-Rs,afdre,0,0,region:us
+2026-10-01T17:30:20Z,afdre/Annoy-PyEdu-Rs-Raw,afdre,0,0,region:us
+2026-10-01T17:30:51Z,kimyg119/Box_Palletizing_260929_ep28-51_20261002_022516,kimyg119,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-01T17:31:23Z,est4ever/so101-raw-20260930,est4ever,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-01T17:31:50Z,longtimedevs/Example-Dataset,longtimedevs,0,0,task_categories:text-generation; language:ru; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; chat; in…
+2026-10-01T17:33:00Z,theunnecessarythings/JADE-Data,theunnecessarythings,0,0,task_categories:text-classification; language:en; license:apache-2.0; size_categories:100K<n<1M; region:us
+2026-10-01T17:34:48Z,Tian-Xia/mose3-viser,Tian-Xia,0,0,license:cc-by-4.0; size_categories:n<1K; modality:text; modality:video; region:us
+2026-10-01T17:35:03Z,Jomanne3/Annoy-PyEdu-Rs,Jomanne3,0,0,region:us
+2026-10-01T17:35:03Z,Jomanne3/Annoy-PyEdu-Rs-Raw,Jomanne3,0,0,region:us
+2026-10-01T17:35:50Z,marcio0990/ai-water-tracker,marcio0990,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; energy; data-c…
+2026-10-01T17:37:24Z,dougalldeepmind/2026-10-01-da-synth,dougalldeepmind,0,0,size_categories:1K<n<10K; modality:tabular; modality:text; region:us; training-data; kind:synth; pipeline:da; constitution:claude_distilled_09_principles
+2026-10-01T17:38:39Z,omarcavazosgzz/SO101RGBandDepth,omarcavazosgzz,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T17:39:14Z,Indigma/SeLMRoute-Semantic-Features,Indigma,0,0,license:apache-2.0; size_categories:10K<n<100K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2609.34736; region:us; llm-ro…
+2026-10-01T17:39:37Z,sfafasgag5657/Annoy-PyEdu-Rs,sfafasgag5657,0,0,region:us
+2026-10-01T17:39:37Z,sfafasgag5657/Annoy-PyEdu-Rs-Raw,sfafasgag5657,0,0,region:us
+2026-10-01T17:41:37Z,cpral/SYNTH-Polski,cpral,0,0,language:pl; language:pol; size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-01T17:41:46Z,g1n0st/a76ddb5250c3c1ff4c6ab2c1c41b0ea14da901a1,g1n0st,0,0,modality:video; region:us
+2026-10-01T17:42:14Z,Keizano/images,Keizano,0,0,task_categories:image-classification; license:cc-by-4.0; region:us; fashion
+2026-10-01T17:43:32Z,g1n0st/46d99be33ae95de8c2b7a38f39778ecca0e65afe,g1n0st,0,0,modality:video; region:us
+2026-10-01T17:43:46Z,sanaka87/openve_lc_fixed_bernini1p3_opd_vmse_allin_eb48_s500_step200,sanaka87,0,0,region:us
+2026-10-01T17:44:00Z,Alexey240577/dataset-7b30121d,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-01T17:44:16Z,multabench/extended-img-reg-flipkart-ratio,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:44:52Z,g1n0st/ad5846134adfef7a05323d17a0fc88b7ee52f12f,g1n0st,0,0,modality:video; region:us
+2026-10-01T17:44:54Z,Link-Dev/canopy-height-data,Link-Dev,0,0,region:us
+2026-10-01T17:45:16Z,multabench/extended-img-reg-dvm-car,multabench,0,0,size_categories:100K<n<1M; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:45:24Z,g1n0st/a85a2d6951cfb9711b518967ab57b8201c8aaff3,g1n0st,0,0,region:us
+2026-10-01T17:45:26Z,raftbioworks/frameflow-ltx-ae-vae-p128-full-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:26Z,raftbioworks/frameflow-ltx-ae-vae-p64-full-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:26Z,raftbioworks/frameflow-ltx-ae-vae-p512-data10k-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:28Z,multabench/core-img-cls-chexpert,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:45:29Z,raftbioworks/frameflow-ltx-ae-ae-p512-full-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:29Z,raftbioworks/frameflow-ltx-ae-ae-p64-full-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:32Z,raftbioworks/frameflow-ltx-ae-vae-p512-data40k-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:35Z,raftbioworks/frameflow-ltx-ae-vae-p512-full-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:36Z,raftbioworks/frameflow-ltx-ae-vae-p512-full-6h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:44Z,raftbioworks/frameflow-ltx-ae-vae-p512-full-12h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:45:45Z,raftbioworks/frameflow-ltx-ae-vae-p256-full-2h-20261001,raftbioworks,0,0,license:mit; region:us; protein; autoencoder; frameflow; ablation
+2026-10-01T17:46:36Z,multabench/extended-img-reg-socal-houses,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:47:23Z,hardik073/datasets,hardik073,0,0,size_categories:1K<n<10K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T17:48:00Z,g1n0st/395114a5eee4534aecdc16b56ab00be3f451ba8b,g1n0st,0,0,region:us
+2026-10-01T17:48:03Z,multabench/extended-img-reg-romania-price,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T17:48:14Z,multabench/core-img-cls-hubmap-hpa,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:48:28Z,g1n0st/603115d94336e46f9ec8720c4bee4ac83c3ba2ab,g1n0st,0,0,region:us
+2026-10-01T17:48:56Z,nightly-wave/c18f587b,nightly-wave,0,0,region:us
+2026-10-01T17:49:56Z,multabench/extended-img-cls-minecraft,multabench,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:50:24Z,multabench/core-img-reg-painting-price,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:51:12Z,multabench/extended-img-cls-hearthstone-class,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:51:25Z,multabench/extended-img-reg-goias-houses,multabench,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:51:31Z,multabench/extended-img-reg-lahaina-auction,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:51:38Z,multabench/core-img-reg-amazon-packages,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:51:47Z,multabench/core-img-reg-mango-mass,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:51:49Z,multabench/extended-img-reg-watch-tier,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:52:02Z,multabench/extended-text-reg-used-car-pakistan,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:05Z,multabench/core-text-cls-us-accidents,multabench,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:16Z,multabench/extended-text-cls-california-prices,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:19Z,multabench/core-text-cls-jigsaw-toxicity,multabench,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:21Z,multabench/core-img-cls-celeb-attractiveness,multabench,0,0,size_categories:100K<n<1M; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:29Z,multabench/core-text-cls-data-scientist-salary,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:32Z,multabench/extended-text-cls-news-channel,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:43Z,multabench/extended-text-reg-wikiliq-prices,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:45Z,multabench/core-img-cls-zooscan-zooplankton,multabench,0,0,size_categories:100K<n<1M; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:46Z,multabench/core-text-cls-women-clothing-review,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:57Z,multabench/extended-text-cls-osha-injury,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:52:59Z,multabench/extended-text-reg-used-car-saudi,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:53:10Z,multabench/extended-text-cls-books-goodreads,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:53:12Z,multabench/core-text-cls-product-sentiment,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:53:25Z,multabench/extended-text-reg-chocolate-bar-ratings,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:53:52Z,multabench/core-img-reg-mkphoto-bots,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:54:14Z,multabench/extended-img-reg-sao-paulo-houses,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:54:17Z,multabench/extended-img-reg-airbnb-nyc,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T17:54:40Z,kimyg119/Box_Palletizing_260929_ep34-51_20261002_023235,kimyg119,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-01T17:55:08Z,multabench/core-img-cls-justin-instagram,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:55:37Z,multabench/core-img-reg-letterboxd-movies,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:55:46Z,multabench/core-img-cls-glaucoma-smdg,multabench,0,0,size_categories:10K<n<100K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:55:53Z,multabench/core-img-cls-cbis-ddsm,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:56:31Z,multabench/extended-img-cls-ham10000-lesion,multabench,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:56:32Z,multabench/extended-img-cls-pinterest-popular,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:56:49Z,multabench/core-text-reg-mercari-marketplace,multabench,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:57:03Z,multabench/extended-text-cls-consumer-complaint,multabench,0,0,size_categories:100K<n<1M; format:parquet; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:57:16Z,multabench/extended-text-reg-fifa22-wages,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:57:20Z,multabench/core-img-reg-amazon-bestseller,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:57:25Z,multabench/core-img-cls-hateful-meme,multabench,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; modality:tabular; library:datasets; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:57:30Z,multabench/extended-img-reg-kamernet-size,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:57:30Z,multabench/core-text-cls-michelin-restaurants,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:57:40Z,multabench/extended-img-cls-pokemon-height,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:57:44Z,multabench/extended-text-cls-box-office,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:57:58Z,multabench/extended-img-cls-oasis-alzheimers,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:57:58Z,multabench/core-text-reg-rotten-tomatoes,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:58:02Z,anshy/pr-thoughts-test3,anshy,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T17:58:11Z,multabench/extended-text-cls-korean-drama,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:58:14Z,multabench/core-text-cls-wine-review,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:58:24Z,multabench/extended-img-cls-pad-ufes-lesion,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:58:24Z,multabench/extended-text-cls-imdb-genre,multabench,0,0,size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:58:27Z,multabench/core-text-reg-scimagojr-impact,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:58:40Z,multabench/core-text-reg-video-games-sales,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:59:06Z,multabench/core-text-reg-book-price,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:59:11Z,Pekcfe/GarmentCodeData,Pekcfe,0,0,region:us
+2026-10-01T17:59:20Z,multabench/extended-text-reg-airbnb-seattle,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:59:23Z,multabench/extended-img-reg-tokopedia-weight,multabench,0,0,modality:image; modality:tabular; region:us; multabench; tabular
+2026-10-01T17:59:39Z,multabench/core-text-cls-spotify-genres,multabench,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T17:59:52Z,multabench/core-text-cls-kickstarter-funding,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:text; modality:tabular; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T18:00:07Z,multabench/extended-text-cls-american-eagle-prices,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T18:00:22Z,multabench/extended-text-cls-melbourne-airbnb,multabench,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T18:00:35Z,multabench/extended-text-reg-wine-vivino-spain,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T18:00:48Z,multabench/core-text-reg-babies-prices,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T18:01:01Z,multabench/extended-text-reg-wine-polish-market,multabench,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; multabench; tabular
+2026-10-01T18:02:58Z,Synthyra/canonical_embedding_sequences_v1,Synthyra,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; protein; sequences; embeddings; esmc
+2026-10-01T18:04:05Z,sanaka87/openve_relight_fixed_bernini1p3_opd_vmse_allin_eb48_s500_step200,sanaka87,0,0,region:us
+2026-10-01T18:05:05Z,fastpixels/odia-wikipedia-sep26,fastpixels,0,0,task_categories:text-generation; task_categories:translation; language:or; license:cc-by-sa-4.0; size_categories:100K<n<1M; format:json; modality:tabular; modality:text; library:datasets; library:pan…
+2026-10-01T18:05:05Z,multabench/core-img-reg-hnm-fashion,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:06:24Z,ramalamadingdong/b601_can_bowl_seed,ramalamadingdong,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; library:lerobot; region:us; LeRobot; gr00t; rebot-b601; pick-and-place
+2026-10-01T18:06:34Z,multabench/core-img-cls-petfinder,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:07:05Z,Darknsu/personaplex-helium-distillation-v3-100hr,Darknsu,0,0,license:apache-2.0; region:us
+2026-10-01T18:08:11Z,multabench/extended-img-reg-zepto-price,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:09:21Z,multabench/core-img-cls-mammography-cmmd,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:09:34Z,dougalldeepmind/2026-10-01-odcv-qwen36-0-da-t6-note-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_t6_note_15; mode:think
+2026-10-01T18:09:53Z,High-Light/jev-harth,High-Light,0,0,region:us
+2026-10-01T18:10:15Z,multabench/extended-img-cls-reddit-memes,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:10:50Z,dididog/piper_pick_up_pen,dididog,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-01T18:10:55Z,multabench/core-img-cls-csgo-skin,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:11:13Z,multabench/core-img-cls-flower-bouquets,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:11:28Z,multabench/core-text-reg-vancouver-salaries,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:11:50Z,multabench/core-text-reg-zomato-restaurants,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:11:57Z,M1keR/Reasoning-SFT-Mixture,M1keR,0,0,region:us
+2026-10-01T18:12:05Z,multabench/extended-text-reg-anime-planet,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:12:18Z,multabench/core-text-cls-fake-job-posting,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:12:31Z,multabench/core-text-reg-book-readability,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:12:44Z,multabench/extended-text-reg-ramen-ratings,multabench,0,0,modality:tabular; region:us; multabench; tabular
+2026-10-01T18:12:49Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-01T18:12:50Z,sanaka87/openve_fixed_bernini1p3_opd_vmse_allin_eb48_s500_step500,sanaka87,0,0,region:us
+2026-10-01T18:13:28Z,aakashv100/eval_act-pick-place-positions-poseA,aakashv100,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-01T18:14:52Z,abupitu762/Annoy-PyEdu-Rs-Raw,abupitu762,0,0,region:us
+2026-10-01T18:14:52Z,abupitu762/Annoy-PyEdu-Rs,abupitu762,0,0,region:us
+2026-10-01T18:15:18Z,Habib91700/minebed-admin,Habib91700,0,0,region:us
+2026-10-01T18:15:18Z,Veronyka/mapa-ia-soberana-dados,Veronyka,0,0,language:pt; license:cc-by-4.0; size_categories:n<1K; region:us; eleições; brasil; inteligência-artificial; soberania-digital; política
+2026-10-01T18:15:29Z,sunny-chokshi/commentinject,sunny-chokshi,0,0,task_categories:text-classification; language:en; license:cc-by-4.0; size_categories:1K<n<10K; region:us; code; security; prompt-injection; adversarial-attacks; vulnerability-detection; cwe; llm-eval…
+2026-10-01T18:15:30Z,dougalldeepmind/2026-10-01-mask-qwen36-0-da-tools-15-canary-nativetools,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_tools_15_canary_nativetools; mode:think
+2026-10-01T18:18:04Z,bofenghuang/docto-s1-fr-v0.1,bofenghuang,0,0,task_categories:text-classification; task_categories:multiple-choice; language:fr; size_categories:100K<n<1M; region:us; medical; french; decision; calibration; knowledge-distillation
+2026-10-01T18:18:58Z,kimyg119/Box_Palletizing_20261002_5cam_17d,kimyg119,0,0,task_categories:robotics; license:apache-2.0; region:us; lerobot; igris-c; box-palletizing
+2026-10-01T18:19:19Z,Sfekih/level-1-pillars-descriptive-questions,Sfekih,0,0,license:agpl-3.0; region:us
