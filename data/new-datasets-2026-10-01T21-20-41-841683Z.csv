@@ -1,0 +1,75 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-01T20:22:23Z,keystats/stack_cache,keystats,0,0,region:us
+2026-10-01T20:26:12Z,anondownloader/so101_pickplace_v1,anondownloader,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-01T20:26:58Z,droplit/hypurrtrade-promo-video,droplit,0,0,region:us
+2026-10-01T20:27:22Z,Codemaster67/Unichem_smiles-chemabs-1M,Codemaster67,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T20:27:44Z,g1n0st/f030d548f1167a0f0ec01ab82d81296d6ebce689,g1n0st,0,0,region:us
+2026-10-01T20:28:00Z,Alexey240577/dataset-90885910,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-01T20:28:56Z,Codemaster67/Unichem_smiles-chemabs-10M,Codemaster67,0,0,size_categories:100K<n<1M; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T20:29:05Z,tolath/Annoy-PyEdu-Rs,tolath,0,0,region:us
+2026-10-01T20:29:06Z,tolath/Annoy-PyEdu-Rs-Raw,tolath,0,0,region:us
+2026-10-01T20:30:39Z,claritystorm/somerset-construction-permits,claritystorm,0,0,language:en; license:other; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; construction; perm…
+2026-10-01T20:31:18Z,alamios/OpenSubtitles-v2024,alamios,0,0,region:us
+2026-10-01T20:31:41Z,Voxel51/Edged-USLAM-Event-Camera,Voxel51,0,0,task_categories:robotics; language:en; license:cc-by-4.0; size_categories:n<1K; library:fiftyone; region:us; fiftyone; multimodal; mcap; robotics; event-camera; uav; drone; imu; slam; visual-inertial…
+2026-10-01T20:33:20Z,ChudLauncher/Chud-Launcher,ChudLauncher,0,0,license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-01T20:34:26Z,ThuraAung1601/Qwen2.5-Coder-1.5B-Instruct_sft-lora_dafnybench-cleaned,ThuraAung1601,0,0,license:cc-by-nc-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; dafny; formal-verification;…
+2026-10-01T20:36:28Z,davidserra9/synclight,davidserra9,0,0,license:cc-by-4.0; region:us
+2026-10-01T20:36:36Z,miguel-francisco/daghar-wisdm-por-usuario,miguel-francisco,0,0,task_categories:other; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; human-activity-recognition…
+2026-10-01T20:37:32Z,mombasstic/chsa-triage-sft-metrics-assistant-only-loss,mombasstic,0,0,region:us
+2026-10-01T20:38:54Z,yashgoyal0110/multi-object-episodes-v2,yashgoyal0110,0,0,task_categories:robotics; license:apache-2.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-01T20:39:14Z,kltng/lcsh-db-lite,kltng,0,0,license:other; region:us; library-science; cataloging; lcsh; sqlite
+2026-10-01T20:39:52Z,reasoning-cues/olmo3-7b-math500-cue-rollouts,reasoning-cues,0,1,language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; math; reason…
+2026-10-01T20:40:17Z,rtrtwrw/granular-material-pour-pea-sweep,rtrtwrw,0,0,region:us
+2026-10-01T20:42:02Z,Gojosatoru123456778/glm-5-3-flash-function-calling,Gojosatoru123456778,0,0,region:us
+2026-10-01T20:43:54Z,Igor-Moreira/english-dict,Igor-Moreira,0,0,language:en; language:pt; language:es; language:zh; license:cc-by-sa-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars;…
+2026-10-01T20:46:19Z,AeroAIAviation/AvBench_1.0,AeroAIAviation,0,0,region:us
+2026-10-01T20:46:21Z,Pragyanur/asparaseg,Pragyanur,0,0,language:as; license:cc-by-sa-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T20:46:30Z,suhailmalik/cyber-libre-books,suhailmalik,0,0,size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T20:47:32Z,toolathlon4/Annoy-PyEdu-Rs,toolathlon4,0,0,region:us
+2026-10-01T20:47:32Z,toolathlon4/Annoy-PyEdu-Rs-Raw,toolathlon4,0,0,region:us
+2026-10-01T20:47:33Z,g1n0st/1193a26cf5e5f066815f33bf6928b259a844871b,g1n0st,0,0,region:us
+2026-10-01T20:48:12Z,g1n0st/b216e205e5d4c81ea3d86c84b8740add0ed79973,g1n0st,0,0,region:us
+2026-10-01T20:49:08Z,nasrellahkharroubi/DarijaDZ_SA,nasrellahkharroubi,0,0,task_categories:text-classification; source_datasets:extended|nasrellahkharroubi/DarijaDz; language:ar; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; libr…
+2026-10-01T20:50:00Z,TheBobTheBlob/so101_pickplace_v1,TheBobTheBlob,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-01T20:50:26Z,hoskasii/libritts-r-20spk-vocos-mel,hoskasii,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-01T20:52:06Z,sanaka87/openve_lc_fixed_bernini1p3_opd_vmse_allin_eb48_s500_step500,sanaka87,0,0,region:us
+2026-10-01T20:52:29Z,YongYong/cis6280-a2-pusht,YongYong,0,0,task_categories:reinforcement-learning; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2…
+2026-10-01T20:52:30Z,billyd10/laya-homelab-decisions,billyd10,0,0,task_categories:text-classification; language:en; license:apache-2.0; region:us; laya; synthetic; structured-decisions; probabilistic-classification; homelab
+2026-10-01T20:54:21Z,PrimarchMI/sac-finance,PrimarchMI,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:n<1K; region:us; safety-asset-class; hgnsi; wad-18; csl; custodial-governance
+2026-10-01T20:54:44Z,Saumya-Mundra/MIST-Dataset,Saumya-Mundra,0,0,task_categories:object-detection; task_categories:image-to-text; language:en; language:bn; language:gu; language:hi; language:kn; language:ml; language:mr; language:or; language:pa; language:ta; lang…
+2026-10-01T20:55:33Z,Jip7e/Hakim-Persona,Jip7e,0,0,task_categories:text-generation; language:fr; language:en; language:ary; language:ar; license:cc-by-4.0; size_categories:n<1K; modality:text; region:us; medical; medical-education; persona; darija; m…
+2026-10-01T20:57:22Z,Alexey240577/dataset-27ccdc0c,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-01T20:57:42Z,AS32EDXSA/Annoy-PyEdu-Rs,AS32EDXSA,0,0,region:us
+2026-10-01T20:57:43Z,AS32EDXSA/Annoy-PyEdu-Rs-Raw,AS32EDXSA,0,0,region:us
+2026-10-01T20:57:49Z,rtrtwrw/granular-material-pour-pea-370,rtrtwrw,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-01T21:00:47Z,CuriousLad1000/tmp2,CuriousLad1000,0,0,region:us
+2026-10-01T21:01:42Z,rtrtwrw/granular-material-pour-buckwheat-250,rtrtwrw,0,0,region:us
+2026-10-01T21:02:38Z,ilehman21/record-test_20261001_170201,ilehman21,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-01T21:04:32Z,glossAPI/apertus-8b-greek-cpt-modern-greek-train,glossAPI,0,0,language:el; language:en; language:de; language:fr; language:es; language:it; language:pt; language:ru; language:zh; language:grc; license:other; region:us; apertus; greek; glossapi; continued-pretra…
+2026-10-01T21:04:33Z,glossAPI/greek-apertus-sft-data,glossAPI,0,0,language:el; language:en; language:fr; language:de; language:es; language:it; language:pt; license:other; region:us; apertus; greek; glossapi; sft
+2026-10-01T21:04:34Z,glossAPI/greek-apertus-post-training-data,glossAPI,0,0,language:el; language:en; language:fr; language:de; language:es; language:it; language:pt; license:other; region:us; apertus; greek; glossapi; sft; dpo; chat
+2026-10-01T21:05:22Z,yrlyrl/lvr-data-path_tracing_with_sysprompt,yrlyrl,0,0,task_categories:visual-question-answering; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:u…
+2026-10-01T21:05:25Z,Project-AgML/cotton_disease_classification,Project-AgML,0,0,task_categories:image-classification; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-01T21:06:16Z,TryDotAtwo/quantum-generator,TryDotAtwo,0,0,region:us
+2026-10-01T21:06:35Z,yrlyrl/lvr-data-path_tracing_textcot,yrlyrl,0,0,task_categories:visual-question-answering; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:u…
+2026-10-01T21:07:08Z,yrlyrl/lvr-data-path_tracing_answeronly,yrlyrl,0,0,task_categories:visual-question-answering; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:u…
+2026-10-01T21:07:18Z,SkyeAv/drug-approvals-kp,SkyeAv,0,1,language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; knowledge-graph; kgx; biolin…
+2026-10-01T21:07:46Z,yrlyrl/lvr-data-mvc_textcot,yrlyrl,0,0,arxiv:2606.03988; region:us
+2026-10-01T21:08:14Z,yrlyrl/lvr-data-perspective_no_thought,yrlyrl,0,0,arxiv:2606.03988; region:us
+2026-10-01T21:08:39Z,yrlyrl/lvr-data-perspective_textcot,yrlyrl,0,0,arxiv:2606.03988; region:us
+2026-10-01T21:08:57Z,yrlyrl/lvr-data-pet_answeronly,yrlyrl,0,0,arxiv:2606.03988; region:us
+2026-10-01T21:09:33Z,dougalldeepmind/2026-10-01-odcv-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15; mode:think
+2026-10-01T21:09:36Z,dougalldeepmind/2026-10-01-mask-qwen36-0-da-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15; mode:think
+2026-10-01T21:10:50Z,PGCodeLLM/60807_ST_NRS_DSV32_nemotron_14k_unique_PG,PGCodeLLM,0,0,region:us
+2026-10-01T21:10:57Z,superciccio30000000/food-revolution-media,superciccio30000000,0,0,region:us
+2026-10-01T21:12:08Z,Project-AgML/BGM_YOLO_plant_disease_classification,Project-AgML,0,0,task_categories:object-detection; license:cc-by-4.0; size_categories:1K<n<10K; region:us
+2026-10-01T21:13:03Z,rtrtwrw/granular-material-pour-buckwheat-clean,rtrtwrw,0,0,region:us
+2026-10-01T21:14:37Z,g1n0st/01c542d8f959ee6841dcb6f89ee87c6764db0ac6,g1n0st,0,0,region:us
+2026-10-01T21:14:47Z,CuriousLad1000/VLPP,CuriousLad1000,0,0,region:us
+2026-10-01T21:14:59Z,stefan-hf/rvlcdip-o,stefan-hf,0,0,task_categories:image-classification; language:en; size_categories:1K<n<10K; region:us; document-classification; rvl-cdip; out-of-distribution; ood-detection
+2026-10-01T21:15:26Z,failuremap/failuremap-debugging,failuremap,0,0,task_categories:text-generation; language:en; license:cc0-1.0; size_categories:10K<n<100K; region:us; code; python; debugging; reinforcement-learning; program-repair; synthetic
+2026-10-01T21:17:55Z,safafaf22/Annoy-PyEdu-Rs,safafaf22,0,0,region:us
+2026-10-01T21:17:56Z,safafaf22/Annoy-PyEdu-Rs-Raw,safafaf22,0,0,region:us
+2026-10-01T21:18:35Z,omrastogi/adshot_benchmark,omrastogi,0,0,region:us
+2026-10-01T21:18:45Z,cloud0day3/alania-speech-captions-tr,cloud0day3,0,0,task_categories:text-to-speech; task_categories:automatic-speech-recognition; task_categories:audio-classification; language:tr; license:other; size_categories:100K<n<1M; region:us; turkish; speech;…
+2026-10-01T21:20:04Z,robert131OO4/out-series,robert131OO4,0,0,region:us
