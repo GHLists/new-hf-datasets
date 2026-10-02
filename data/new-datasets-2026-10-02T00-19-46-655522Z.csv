@@ -1,0 +1,49 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-01T23:19:32Z,Alexey240577/project-gutenberg,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-01T23:20:15Z,ilehman21/record-test_20261001_191818,ilehman21,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-01T23:20:59Z,girard444/mttv-mpvr-quorum-runs,girard444,0,0,language:fr; license:cc-by-nc-sa-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mttv-flp; mp…
+2026-10-01T23:21:33Z,sum0214/LOCI-web-media,sum0214,0,0,size_categories:n<1K; format:imagefolder; modality:image; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-01T23:21:43Z,abuzreq/model-bending-knowledge-base,abuzreq,0,0,license:cc0-1.0; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2607.22428; region:us; model-bendi…
+2026-10-01T23:22:21Z,mangaba-ai/mangaba-pro-122b-benchmark,mangaba-ai,0,0,language:pt; language:en; license:apache-2.0; size_categories:n<1K; region:us; benchmark; evaluation; llm; multimodal; agents; tool-calling; qwen3.5; mangaba
+2026-10-01T23:22:46Z,Dbmaxwell/turkish-function-calling,Dbmaxwell,0,0,task_categories:text-generation; language:tr; license:mit; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:2406.1851…
+2026-10-01T23:26:19Z,average-developer/stocks-RUBICON-1D-candles,average-developer,0,0,size_categories:n<1K; region:us
+2026-10-01T23:26:50Z,average-developer/stocks-SANSERA-1D-candles,average-developer,0,0,size_categories:n<1K; region:us
+2026-10-01T23:27:55Z,htdung167/cam-v0-20261002-test,htdung167,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-01T23:29:09Z,average-developer/stocks-SHRIPISTON-1D-candles,average-developer,0,0,size_categories:n<1K; region:us
+2026-10-01T23:31:46Z,tokenaii/neo-dataset,tokenaii,0,0,task_categories:text-classification; language:en; license:other; region:us; system-one; decision-model; rlcd; synthetic; tool-routing
+2026-10-01T23:32:23Z,sajalmadan09/indic-asr-staging-shard8,sajalmadan09,0,0,region:us
+2026-10-01T23:33:12Z,average-developer/stocks-TDPOWERSYS-1D-candles,average-developer,0,0,size_categories:n<1K; region:us
+2026-10-01T23:33:33Z,brunoymartins/cs229-astronomy,brunoymartins,0,0,license:mit; region:us; dataset; astronomy; sensor-fusion
+2026-10-01T23:35:06Z,average-developer/stocks-THANGAMAYL-1D-candles,average-developer,0,0,size_categories:n<1K; region:us
+2026-10-01T23:35:27Z,noahlewiswyn/random-speech2-2024,noahlewiswyn,0,0,license:cc-by-4.0; region:us; dataset; speech; audio-text
+2026-10-01T23:36:46Z,Tree-AI-lab/african-cultural-reasoning-multilingue,Tree-AI-lab,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:fr; language:bci; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; li…
+2026-10-01T23:38:43Z,SaifPunjwani/expdis-handoff-archive-20261001,SaifPunjwani,0,0,region:us
+2026-10-01T23:39:12Z,Lkonshu/Arko_Incode_Dataset_1.0,Lkonshu,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-01T23:41:23Z,Alexey240577/dataset-90897731,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-01T23:41:37Z,yuiseki/npa-traffic-accidents,yuiseki,0,0,task_categories:tabular-classification; task_categories:tabular-regression; language:ja; license:cc-by-4.0; size_categories:1M<n<10M; format:parquet; modality:document; modality:tabular; modality:tex…
+2026-10-01T23:42:20Z,Atharvsf396303/astronomy-text-tabular,Atharvsf396303,0,0,license:mit; region:us; dataset; astronomy; text-tabular
+2026-10-01T23:45:02Z,AlexKarachun/mod_stress,AlexKarachun,0,0,region:us
+2026-10-01T23:48:32Z,g1n0st/db31cf36ebe582a09e908ece29d046a53de21c62,g1n0st,0,0,modality:video; region:us
+2026-10-01T23:48:59Z,t2ance/atlas-baseline-frontier,t2ance,0,0,region:us
+2026-10-01T23:50:23Z,wernerlea/math-dataset,wernerlea,0,0,license:cc-by-4.0; region:us; dataset; math; audio-video
+2026-10-01T23:52:58Z,adamtwiss/incipit-data,adamtwiss,0,0,license:cc-by-4.0; size_categories:1B<n<10B; region:us; chess; nnue; self-play; viriformat
+2026-10-01T23:54:30Z,Dennis1315/write-docs-14b-ckpt,Dennis1315,0,0,region:us
+2026-10-01T23:55:05Z,ilehman21/so101-yblock-gbowl-v1_20261001_192655,ilehman21,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-01T23:55:37Z,elizabethadams5935/genai-public-corpus-study,elizabethadams5935,0,0,license:cc-by-4.0; size_categories:1M<n<10M; region:us; generative-ai; research-dataset; metadata
+2026-10-01T23:55:41Z,clooud/Archive_raubatz,clooud,0,0,region:us
+2026-10-01T23:58:12Z,nht10/cx_sampled_old,nht10,0,0,task_categories:text-generation; language:en; language:vi; language:zh; language:ru; language:de; language:ar; region:us
+2026-10-01T23:58:22Z,sanaka87/openve_relight_fixed_bernini1p3_opd_vmse_allin_eb48_s500_step500,sanaka87,0,0,region:us
+2026-10-02T00:00:17Z,Ameyapores/pick_block_eef_delta,Ameyapores,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-02T00:01:04Z,langminer/watermark-benchmark-v18,langminer,0,0,task_categories:image-classification; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:image; modality:text; modality:timeseries; library:datasets; library:dask; library:polar…
+2026-10-02T00:01:05Z,ziyjiang/WorldAuditBench-runtime,ziyjiang,0,0,modality:3d; arxiv:2609.40325; region:us; worldauditbench; 3d; simulation; benchmark
+2026-10-02T00:01:38Z,Alexey240577/dataset-bd293ebf,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-02T00:03:01Z,emmajohnson38/fun-ecommerce,emmajohnson38,0,0,license:apache-2.0; region:us; dataset; ecommerce; image-depth
+2026-10-02T00:07:03Z,Tree-AI-lab/trivia-qa-multilingue,Tree-AI-lab,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:fr; language:bci; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datase…
+2026-10-02T00:08:06Z,Moose27/Assembly-101-frames-vjepa2.1,Moose27,0,0,license:cc-by-nc-4.0; region:us
+2026-10-02T00:08:21Z,Tree-AI-lab/combined-roleplay-multilingue,Tree-AI-lab,0,0,task_categories:text-generation; task_categories:question-answering; language:en; language:fr; language:bci; license:apache-2.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets…
+2026-10-02T00:09:35Z,htdung167/cam-v0-20261002,htdung167,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-02T00:13:27Z,Alexey240577/dataset-90899704,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-02T00:16:00Z,shilinc1/infra-censoring-derived,shilinc1,0,0,task_categories:tabular-regression; license:mit; size_categories:n<1K; region:us; agent-evaluation; swe-bench; partial-identification; leaderboard
+2026-10-02T00:17:54Z,jdgxr9/eval_pickplace_vfinal,jdgxr9,0,0,region:us
+2026-10-02T00:18:52Z,antonitsin/cube-grasp_20261001_171807,antonitsin,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-02T00:19:24Z,Sterzhang/ContextProgress-Bench,Sterzhang,0,0,region:us
