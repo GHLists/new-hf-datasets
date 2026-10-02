@@ -1,0 +1,63 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-02T20:20:20Z,supanthadey1/glycorpus,supanthadey1,0,0,license:other; region:us; glycans; bertose
+2026-10-02T20:26:37Z,PardisSzah/fairstress-core-corrected,PardisSzah,0,0,license:unknown; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T20:27:13Z,PureOne/ISORYTH-Lily-v5,PureOne,0,0,language:en; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; probability; exact-sampl…
+2026-10-02T20:28:33Z,e-sensing/book_Cerrado_2018_class,e-sensing,0,0,license:cc-by-nc-sa-4.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-02T20:29:32Z,PrimeIntellect/general-agent,PrimeIntellect,0,0,library:verifiers; region:us; rl-environment; verifiers
+2026-10-02T20:30:22Z,holland202/sovereign-evidence-bench,holland202,0,0,task_categories:text-classification; language:en; license:mit; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant;…
+2026-10-02T20:32:02Z,fpadovani/mp-struct-tur-latn-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T20:32:04Z,anshks/abc-130k-640x480-examples,anshks,0,0,license:apache-2.0; size_categories:n<1K; modality:text; modality:video; region:us; robotics; bimanual
+2026-10-02T20:37:10Z,ra-02mh/lab3EDAN20,ra-02mh,0,0,region:us
+2026-10-02T20:38:56Z,khtsly/cache_stage1_merged,khtsly,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T20:40:12Z,Chendhan-Raj/aegis-curated-python,Chendhan-Raj,0,1,license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; scientific-numerics; curated-dataset
+2026-10-02T20:42:07Z,AnuragKotla/so-101arm1,AnuragKotla,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-02T20:42:25Z,ishaanamahajan/paper-triage-dataset,ishaanamahajan,0,0,task_categories:text-classification; task_categories:text-retrieval; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:…
+2026-10-02T20:42:49Z,AxiomCodex/axiom-permit-signals-sample-25k,AxiomCodex,0,0,license:other; modality:tabular; modality:geospatial; modality:timeseries; region:us; tabular; geospatial; timeseries; construction; permits
+2026-10-02T20:46:29Z,Alexey240577/supermozg-code-backup,Alexey240577,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T20:48:07Z,jetardy/AGILL-AGI-Activation-Framework,jetardy,0,0,license:cc-by-4.0; region:us
+2026-10-02T20:51:58Z,witchone1/Dataset2sep,witchone1,0,0,region:us
+2026-10-02T20:52:24Z,sofieneb/virchow2_features,sofieneb,0,0,region:us
+2026-10-02T20:53:20Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-02T20:53:20Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-02T20:54:13Z,AIIRLab/MathDisAM,AIIRLab,0,0,region:us
+2026-10-02T20:55:36Z,fpadovani/mp-struct-dan-latn-100mb,fpadovani,0,0,region:us
+2026-10-02T20:55:53Z,omroystrath/MI-STIM,omroystrath,0,0,region:us
+2026-10-02T20:56:30Z,Jerry999/SvalbardIdeaVault,Jerry999,0,0,region:us
+2026-10-02T21:04:38Z,PardisSzah/fairstress-corrected,PardisSzah,0,0,region:us
+2026-10-02T21:08:03Z,swhitfield/biomap-research-ssp_q3,swhitfield,0,0,region:us
+2026-10-02T21:08:09Z,swhitfield/biomap-research-ssp_q8,swhitfield,0,0,region:us
+2026-10-02T21:08:14Z,swhitfield/biomap-research-fold_prediction,swhitfield,0,0,region:us
+2026-10-02T21:08:17Z,swhitfield/biomap-research-fitness_prediction,swhitfield,0,0,region:us
+2026-10-02T21:08:22Z,swhitfield/biomap-research-metal_ion_binding,swhitfield,0,0,region:us
+2026-10-02T21:08:29Z,swhitfield/biomap-research-localization_prediction,swhitfield,0,0,region:us
+2026-10-02T21:08:35Z,swhitfield/biomap-research-enzyme_catalytic_efficiency,swhitfield,0,0,region:us
+2026-10-02T21:08:40Z,swhitfield/biomap-research-optimal_ph,swhitfield,0,0,region:us
+2026-10-02T21:08:45Z,swhitfield/biomap-research-optimal_temperature,swhitfield,0,0,region:us
+2026-10-02T21:09:56Z,swhitfield/biomap-research-temperature_stability,swhitfield,0,0,region:us
+2026-10-02T21:10:04Z,swhitfield/biomap-research-stability_prediction,swhitfield,0,0,region:us
+2026-10-02T21:10:28Z,swhitfield/biomap-research-solubility_prediction,swhitfield,0,0,region:us
+2026-10-02T21:11:05Z,swhitfield/interpro_active_site,swhitfield,0,0,region:us
+2026-10-02T21:11:09Z,swhitfield/interpro_binding_site,swhitfield,0,0,region:us
+2026-10-02T21:11:14Z,swhitfield/interpro_conserved_site,swhitfield,0,0,region:us
+2026-10-02T21:11:25Z,swhitfield/interpro_domain,swhitfield,0,0,region:us
+2026-10-02T21:11:33Z,swhitfield/interpro_family,swhitfield,0,0,region:us
+2026-10-02T21:11:43Z,swhitfield/interpro_homologous_superfamily,swhitfield,0,0,region:us
+2026-10-02T21:11:51Z,swhitfield/interpro_repeat,swhitfield,0,0,region:us
+2026-10-02T21:12:17Z,swhitfield/uniprot-GO_mf,swhitfield,0,0,region:us
+2026-10-02T21:12:35Z,swhitfield/uniprot-GO_bp,swhitfield,0,0,region:us
+2026-10-02T21:12:49Z,swhitfield/uniprot-GO_cc,swhitfield,0,0,region:us
+2026-10-02T21:13:31Z,swhitfield/uniprot_secondary_structure,swhitfield,0,0,region:us
+2026-10-02T21:13:41Z,swhitfield/uniprot_post_translational_modification,swhitfield,0,0,region:us
+2026-10-02T21:13:48Z,swhitfield/uniprot_glycosylation,swhitfield,0,0,region:us
+2026-10-02T21:13:55Z,swhitfield/uniprot_phosphorylation,swhitfield,0,0,region:us
+2026-10-02T21:14:00Z,swhitfield/uniprot_lipidation,swhitfield,0,0,region:us
+2026-10-02T21:14:05Z,swhitfield/uniprot_membrane_pass,swhitfield,0,0,region:us
+2026-10-02T21:14:11Z,swhitfield/uniprot_topology,swhitfield,0,0,region:us
+2026-10-02T21:14:16Z,swhitfield/uniprot_peptide,swhitfield,0,0,region:us
+2026-10-02T21:14:23Z,swhitfield/uniprot_functional_sites,swhitfield,0,0,region:us
+2026-10-02T21:14:28Z,swhitfield/uniprot_domains,swhitfield,0,0,region:us
+2026-10-02T21:14:34Z,swhitfield/uniprot_regions,swhitfield,0,0,region:us
+2026-10-02T21:14:40Z,swhitfield/uniprot_structures,swhitfield,0,0,region:us
+2026-10-02T21:15:11Z,swhitfield/uniprot_protparams,swhitfield,0,0,region:us
+2026-10-02T21:16:31Z,procedure2012/Annoy-PyEdu-Rs,procedure2012,0,0,region:us
+2026-10-02T21:16:32Z,procedure2012/Annoy-PyEdu-Rs-Raw,procedure2012,0,0,region:us
