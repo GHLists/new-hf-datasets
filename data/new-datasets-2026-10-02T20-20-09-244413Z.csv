@@ -1,0 +1,66 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-02T19:20:19Z,spacejourney/paris-sensory-impact-dataset,spacejourney,0,0,task_categories:tabular-classification; task_categories:tabular-regression; task_categories:text-retrieval; annotations_creators:expert-generated; multilinguality:multilingual; source_datasets:origin…
+2026-10-02T19:21:15Z,mohario/pi05-mujoco-pick-preview,mohario,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-02T19:26:32Z,GLOBALARCANIA/communityos-university-registry,GLOBALARCANIA,0,0,region:us
+2026-10-02T19:29:29Z,grey-cat/cs6013-w8-ecgptq20dtw-artifacts,grey-cat,0,0,region:us
+2026-10-02T19:30:53Z,cyberwenyi2357/trajectory-analysis,cyberwenyi2357,0,0,region:us
+2026-10-02T19:32:59Z,SonuTechKarma/techkarma-pdfs,SonuTechKarma,0,0,region:us
+2026-10-02T19:34:18Z,amartyanambiar/etymon-db,amartyanambiar,0,0,region:us
+2026-10-02T19:38:04Z,MarkovianProtocol/second-measurements,MarkovianProtocol,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; transparency…
+2026-10-02T19:38:38Z,e-sensing/book_Bahia_LEJEPA,e-sensing,0,0,license:cc-by-nc-sa-2.0; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-02T19:43:28Z,charlieK123/rollout_recordings_of_gripper_rgb_depth_ACT,charlieK123,0,0,region:us
+2026-10-02T19:43:29Z,swhitfield/interpro_active_site,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:43:33Z,swhitfield/interpro_binding_site,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:43:37Z,swhitfield/interpro_conserved_site,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:43:42Z,swhitfield/interpro_domain,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:43:46Z,swhitfield/interpro_family,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:43:53Z,swhitfield/interpro_homologous_superfamily,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:43:57Z,swhitfield/interpro_repeat,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:44:19Z,swhitfield/uniprot-GO_mf,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:44:27Z,swhitfield/uniprot-GO_bp,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:44:33Z,Ill-kill-gryoza/reverie,Ill-kill-gryoza,0,0,license:mit; region:us
+2026-10-02T19:44:39Z,swhitfield/uniprot-GO_cc,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:45:15Z,swhitfield/uniprot_secondary_structure,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:45:25Z,swhitfield/uniprot_post_translational_modification,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:45:32Z,swhitfield/uniprot_glycosylation,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:45:33Z,AIsekai/GEAS_DataBase,AIsekai,0,0,region:us
+2026-10-02T19:45:39Z,swhitfield/uniprot_phosphorylation,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:45:44Z,swhitfield/uniprot_lipidation,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:45:48Z,swhitfield/uniprot_membrane_pass,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:45:55Z,swhitfield/uniprot_topology,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:46:00Z,swhitfield/uniprot_peptide,swhitfield,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:46:07Z,swhitfield/uniprot_functional_sites,swhitfield,0,0,size_categories:10K<n<100K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T19:46:12Z,swhitfield/uniprot_domains,swhitfield,0,0,region:us
+2026-10-02T19:46:18Z,swhitfield/uniprot_regions,swhitfield,0,0,region:us
+2026-10-02T19:46:23Z,swhitfield/uniprot_structures,swhitfield,0,0,region:us
+2026-10-02T19:46:48Z,swhitfield/uniprot_protparams,swhitfield,0,0,region:us
+2026-10-02T19:46:59Z,RonnyMaurer255/Annoy-PyEdu-Rs,RonnyMaurer255,0,0,region:us
+2026-10-02T19:47:00Z,RonnyMaurer255/Annoy-PyEdu-Rs-Raw,RonnyMaurer255,0,0,region:us
+2026-10-02T19:47:10Z,jiazhe868/sensoformer-data,jiazhe868,0,0,license:mit; region:us; seismology; earthquake; moment-tensor; sim-to-real
+2026-10-02T19:47:31Z,ledirantunes/gartner-2026-media,ledirantunes,0,0,region:us
+2026-10-02T19:48:27Z,Ratnesh777/allahabad-hc-derived,Ratnesh777,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T19:50:32Z,medarc/brainmarks-smri,medarc,0,0,task_categories:image-classification; task_categories:image-segmentation; license:other; size_categories:10K<n<100K; region:us; medical; neuroimaging; mri; brain; nifti
+2026-10-02T19:50:33Z,ryanjin333/green_clip_single_demo_20261002_20261002_194958,ryanjin333,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-02T19:50:33Z,harrytyp/ai-coding-plan-prices,harrytyp,0,0,task_categories:question-answering; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; ai; c…
+2026-10-02T19:52:59Z,RLE-Bench/isaaclab-four-arm-kinex-astra-medium-seed0-20261002,RLE-Bench,0,0,region:us
+2026-10-02T19:53:03Z,charlieK123/rollout_recordings_of_gripper_rgb_depth_ACT_20261002_194811,charlieK123,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-02T19:54:04Z,TrustAB/trustab-mage-target002,TrustAB,0,0,region:us
+2026-10-02T19:58:57Z,MalaniAro/Annoy-PyEdu-Rs,MalaniAro,0,0,region:us
+2026-10-02T19:58:58Z,MalaniAro/Annoy-PyEdu-Rs-Raw,MalaniAro,0,0,region:us
+2026-10-02T19:59:37Z,PoseyEnder/Annoy-PyEdu-Rs,PoseyEnder,0,0,region:us
+2026-10-02T19:59:38Z,PoseyEnder/Annoy-PyEdu-Rs-Raw,PoseyEnder,0,0,region:us
+2026-10-02T20:01:30Z,akashnaren/pi-flywheel-canned,akashnaren,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; raspberry-pi; edge; response-cache; synthetic; pi-flywheel
+2026-10-02T20:01:35Z,akashnaren/pi-flywheel-sft-seed,akashnaren,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; raspberry-pi; sft; dpo; synthetic; pi-flywheel
+2026-10-02T20:01:48Z,dougalldeepmind/2026-10-02-da-grok-15-mix,dougalldeepmind,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:mixture; pipeline:da-grok; constitution:cla…
+2026-10-02T20:01:54Z,akashnaren/pi-flywheel-eval,akashnaren,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; region:us; raspberry-pi; evaluation; heldout; synthetic; pi-flywheel
+2026-10-02T20:04:41Z,fpadovani/mp-struct-eng-latn-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T20:06:01Z,hcywashere/deadpool-dublaj,hcywashere,0,0,region:us
+2026-10-02T20:10:52Z,fireviewer/fire_and_smoke_detection_very_hard_negative,fireviewer,0,0,license:apache-2.0; region:us
+2026-10-02T20:13:47Z,ryanjin333/sol_policy_20261002_201317,ryanjin333,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot; robotics; lerobot; LeLab
+2026-10-02T20:14:10Z,DSACT1HJ46A/Annoy-PyEdu-Rs,DSACT1HJ46A,0,0,region:us
+2026-10-02T20:14:11Z,DSACT1HJ46A/Annoy-PyEdu-Rs-Raw,DSACT1HJ46A,0,0,region:us
+2026-10-02T20:14:16Z,e-sensing/book_Rondonia_2022_class,e-sensing,0,0,license:cc-by-nc-sa-2.0; region:us
+2026-10-02T20:18:29Z,xcz2czasd2/Annoy-PyEdu-Rs-Raw,xcz2czasd2,0,0,region:us
+2026-10-02T20:18:29Z,xcz2czasd2/Annoy-PyEdu-Rs,xcz2czasd2,0,0,region:us
+2026-10-02T20:18:49Z,MabelCoco/Annoy-PyEdu-Rs,MabelCoco,0,0,region:us
+2026-10-02T20:18:49Z,MabelCoco/Annoy-PyEdu-Rs-Raw,MabelCoco,0,0,region:us
