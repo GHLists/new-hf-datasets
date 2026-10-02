@@ -1,0 +1,43 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-02T21:20:11Z,RanaGaber/Syrian_Rewayat_Segmented,RanaGaber,0,0,region:us
+2026-10-02T21:22:18Z,fpadovani/mp-struct-nld-latn-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T21:23:45Z,Alexey240577/dataset-90976187,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-02T21:23:48Z,PixilabAI/blink-v0.3-decision-index,PixilabAI,0,0,license:apache-2.0; region:us; decision-index; benchmark-results
+2026-10-02T21:24:08Z,JooYoon/riidolaya-shortclaim-next60-development,JooYoon,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; riidolaya; development-only; finit…
+2026-10-02T21:27:41Z,PureOne/orison-vi-order-six-lyapunov-norm-certificates,PureOne,0,0,language:en; arxiv:2608.20875; region:us; mathematics; linear-algebra; matrix-analysis; lyapunov-operators; operator-norms; symmetric-maximizer-conjecture; symmetric-matrices; skew-symmetric-matrices…
+2026-10-02T21:29:18Z,teacher57/tau-retail-distillation,teacher57,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:1K<n<10K; region:us; tau-bench; tool-use; agents; distillation; conversations
+2026-10-02T21:31:49Z,imanux12/Moroccan_Dialect_Data,imanux12,0,0,license:mit; region:us
+2026-10-02T21:33:33Z,ToppSpin/assignment3,ToppSpin,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T21:34:56Z,formalica/lean4oeis-working-dbs,formalica,0,0,region:us
+2026-10-02T21:36:31Z,Primeomicx/nfcore-laya-decisions,Primeomicx,0,0,task_categories:multiple-choice; task_categories:text-classification; task_ids:multiple-choice-qa; annotations_creators:machine-generated; annotations_creators:expert-generated; language_creators:fou…
+2026-10-02T21:38:22Z,DRB/toast2-db,DRB,0,0,license:other; region:us; arabidopsis; spaceflight; transcriptomics; nasa-osdr; genelab; duckdb
+2026-10-02T21:38:35Z,Ilya75/items_raw_full,Ilya75,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T21:40:59Z,synthetic-code-training/student-func-localize-gpt5mini-1346i_add_plan_499i,synthetic-code-training,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T21:42:13Z,Ilya75/items_raw_lite,Ilya75,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T21:44:40Z,Rob8435/so101_data,Rob8435,0,0,license:mit; region:us
+2026-10-02T21:45:40Z,fpadovani/mp-struct-isl-latn-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T21:46:09Z,spearb0lt/Indian-Matchbox-Labels,spearb0lt,0,0,task_categories:text-to-image; language:en; license:other; size_categories:n<1K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; matchbox; india;…
+2026-10-02T21:50:16Z,Arko007/yoga-skeleton-rebuilt,Arko007,0,0,region:us
+2026-10-02T21:51:27Z,isaacbaliruno2004/Luganda-Voice-Dataset,isaacbaliruno2004,0,0,license:mit; region:us
+2026-10-02T21:53:57Z,damonsalvatore123/medhalt,damonsalvatore123,0,0,region:us
+2026-10-02T21:54:18Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-02T21:54:19Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-02T21:56:23Z,r34g4n/kenya-roads-labeled-smoke,r34g4n,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T21:57:51Z,Ali4333/collatz-law-arena,Ali4333,0,0,region:us
+2026-10-02T21:59:03Z,JanaeC/lab06-tool-calling,JanaeC,0,0,modality:text; region:us
+2026-10-02T22:05:39Z,waqarali5498/vernacular-clinical-triage-benchmark,waqarali5498,0,1,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T22:06:22Z,dungvu27796/aspen,dungvu27796,0,0,region:us
+2026-10-02T22:07:59Z,jaylakwok/FreshRetailNet-50K,jaylakwok,0,0,task_categories:time-series-forecasting; language:en; license:cc-by-4.0; size_categories:1M<n<10M; modality:tabular; modality:text; arxiv:2505.16319; region:us; fresh-retail; censored-demand; hourly-…
+2026-10-02T22:08:23Z,tuanbui7932/transport,tuanbui7932,0,0,region:us
+2026-10-02T22:10:10Z,JoTalbot/octopus-eternal,JoTalbot,0,0,region:us
+2026-10-02T22:10:20Z,yendo5178/willow,yendo5178,0,0,region:us
+2026-10-02T22:12:39Z,datbui97458/twilight,datbui97458,0,0,region:us
+2026-10-02T22:12:52Z,fpadovani/mp-struct-rus-cyrl-100mb,fpadovani,0,0,region:us
+2026-10-02T22:13:15Z,TrustAB/trustab-mage-target003,TrustAB,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T22:14:24Z,phuonghuynh54295/geothermal,phuonghuynh54295,0,0,region:us
+2026-10-02T22:16:06Z,marin-community/verifier-unification-evidence,marin-community,0,0,region:us
+2026-10-02T22:16:08Z,binhle8634/wildlife,binhle8634,0,0,region:us
+2026-10-02T22:16:34Z,Trojanhorse00/mating-video-analysis,Trojanhorse00,0,0,license:apache-2.0; size_categories:10K<n<100K; modality:video; region:us; computer-vision; video; video-classification; object-detection; object-tracking; chicken; poultry
+2026-10-02T22:17:44Z,linhngo41028/vega,linhngo41028,0,0,region:us
+2026-10-02T22:19:17Z,hieuly29714/badlands,hieuly29714,0,0,region:us
+2026-10-02T22:19:21Z,RewardGuided/liveruncodebench,RewardGuided,0,0,region:us
