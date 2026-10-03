@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T03:20:47Z,Falln87/suno-audio,Falln87,0,1,task_categories:text-to-audio; task_categories:audio-classification; license:mit; size_categories:10K<n<100K; modality:audio; region:us; music; audio; suno; music-generation; ai-music
+2026-10-03T03:21:11Z,BaoWenwen/Traditional-Pattern-Dataset,BaoWenwen,0,0,region:us
+2026-10-03T03:21:31Z,luethan2025/lego,luethan2025,0,0,size_categories:n<1K; format:parquet; modality:image; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T03:23:25Z,Lauravanleeuwen/social-video-text,Lauravanleeuwen,0,0,license:cc-by-4.0; region:us; dataset; social; video-text
+2026-10-03T03:25:13Z,g1n0st/91cbaf6b86478896faee460f74343ac73f6021d6,g1n0st,0,0,region:us
+2026-10-03T03:25:24Z,NoraResearchLab/lithology-zeroshot-llm-results,NoraResearchLab,0,0,modality:document; region:us
+2026-10-03T03:28:33Z,brozonoyer/maze-perfect-easy,brozonoyer,0,0,size_categories:10K<n<100K; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T03:29:37Z,GeertWang/Replay_New,GeertWang,0,0,license:cc-by-4.0; region:us
+2026-10-03T03:34:21Z,Reiwa-AI/PoliteChatDataset,Reiwa-AI,0,0,license:other; size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T03:34:26Z,brozonoyer/maze-perfect-medium,brozonoyer,0,0,size_categories:10K<n<100K; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T03:34:54Z,aara-vsas/audio-text-corpus,aara-vsas,0,0,license:mit; region:us; dataset; comics; audio-text
+2026-10-03T03:35:49Z,r34g4n/rdd2022-india-judged,r34g4n,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T03:39:16Z,Yingg91/Windows10_1803,Yingg91,0,0,region:us
+2026-10-03T03:42:43Z,g1n0st/07171b7070e5c4d651c068167c11f2de4ef51e1e,g1n0st,0,0,region:us
+2026-10-03T03:43:16Z,Udev-miam/Metz-demo,Udev-miam,0,0,region:us
+2026-10-03T03:43:56Z,SAIFIINDUSTRIES/verilog_data-1-C,SAIFIINDUSTRIES,0,0,region:us
+2026-10-03T03:44:06Z,Alexey240577/dataset-90999035,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T03:45:08Z,deng-arcia/social-samples,deng-arcia,0,0,license:mit; region:us; dataset; social; multimodal3
+2026-10-03T03:45:26Z,ENSEONG/full-aime_2026-n256-ctx16k-Qwen3-4B-Instruct-2507-bon,ENSEONG,0,0,region:us
+2026-10-03T03:46:28Z,evgeniegorov/text-tabular-dataset,evgeniegorov,0,0,license:mit; region:us; dataset; security; text-tabular
+2026-10-03T03:47:42Z,eshion2026/pub-cp-storage,eshion2026,0,0,region:us
+2026-10-03T03:48:50Z,vllm-sr/decision-2.0-decision-index,vllm-sr,0,0,license:apache-2.0; region:us; decision-index
+2026-10-03T03:52:20Z,Param1101/tbscience-autonomous-wannierisation-data,Param1101,0,0,region:us
+2026-10-03T03:53:48Z,Robogio/color_cubes_merged,Robogio,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-03T03:55:49Z,seomais/king-of-aeo-citation-log,seomais,0,0,task_categories:question-answering; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; answer-engine-optimization; aeo; generative-engine-optimization; llm-evaluation; entity-resolution…
+2026-10-03T03:55:57Z,akash5411/livehfdatacourse,akash5411,0,0,region:us
+2026-10-03T03:59:38Z,FlyPig23/memory_dci,FlyPig23,0,0,language:en; language:zh; size_categories:n<1K; region:us; agents; memory; wildclawbench; reproducibility
+2026-10-03T04:00:23Z,ucdavisinformatics/video-text-corpus-2024,ucdavisinformatics,0,0,license:apache-2.0; region:us; dataset; gaming; video-text
+2026-10-03T04:01:00Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-03T04:01:01Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-03T04:01:48Z,ashishpatelina/comics-audio-text-clean96,ashishpatelina,0,0,license:mit; region:us; dataset; comics; audio-text
+2026-10-03T04:06:21Z,Alexey240577/dataset-1721d04a,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-03T04:06:35Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-10-03T04:06:35Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
+2026-10-03T04:06:36Z,SAD12EDSA/Annoy-PyEdu-Rs,SAD12EDSA,0,0,region:us
+2026-10-03T04:06:37Z,SAD12EDSA/Annoy-PyEdu-Rs-Raw,SAD12EDSA,0,0,region:us
+2026-10-03T04:06:40Z,Alexey240577/dataset-88419798,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-03T04:06:54Z,g1n0st/186bcbeb300e23fd022f5473d39e4eaa8cc196a9,g1n0st,0,0,region:us
+2026-10-03T04:08:01Z,AI4Manufacturing/207-annotated,AI4Manufacturing,0,0,region:us
+2026-10-03T04:08:03Z,ThiagoFerr/image-audio-dataset,ThiagoFerr,0,0,license:mit; region:us; dataset; nlp-sentiment; image-audio
+2026-10-03T04:08:07Z,g1n0st/6a3d246a0eb776d1fe03a7785a8c977d7278ebe9,g1n0st,0,0,region:us
+2026-10-03T04:08:17Z,brozonoyer/maze-perfect-hard,brozonoyer,0,0,size_categories:10K<n<100K; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T04:08:47Z,pablo-honey/Sail,pablo-honey,0,0,region:us
+2026-10-03T04:09:08Z,csoai/gspc-organism,csoai,0,0,language:en; license:cc-by-4.0; region:us; gspc; ai-governance; agent-security; mcp; evidence; claim-maintenance; provenance; opentimestamps; rekor
+2026-10-03T04:09:47Z,calebjonesler/speech-image-audio-mini,calebjonesler,0,0,license:cc-by-4.0; region:us; dataset; speech; image-audio
+2026-10-03T04:11:28Z,brozonoyer/maze-imperfect-easy,brozonoyer,0,0,size_categories:10K<n<100K; format:parquet; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T04:14:08Z,MohamedAltaj/code_generation_lite,MohamedAltaj,0,0,license:cc; size_categories:n<1K; arxiv:2403.07974; region:us; code; code generation
+2026-10-03T04:14:27Z,Alexey240577/dataset-91000824,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T04:15:23Z,ar10067/tpch,ar10067,0,0,region:us
+2026-10-03T04:15:59Z,brozonoyer/maze-imperfect-medium,brozonoyer,0,0,region:us
+2026-10-03T04:16:23Z,DANIBOY1010/ecossistema-midia,DANIBOY1010,0,0,region:us
+2026-10-03T04:16:44Z,HueyWoo/pick_and_place,HueyWoo,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-03T04:17:01Z,g1n0st/d79f020fa50b045649cff6eefe647508da01c379,g1n0st,0,0,region:us
+2026-10-03T04:17:09Z,sac12xczdsae21e/Annoy-PyEdu-Rs,sac12xczdsae21e,0,0,region:us
+2026-10-03T04:17:10Z,sac12xczdsae21e/Annoy-PyEdu-Rs-Raw,sac12xczdsae21e,0,0,region:us
+2026-10-03T04:18:29Z,tpwisn-iewski/astronomy-sensor-fusion,tpwisn-iewski,0,0,license:cc-by-4.0; region:us; dataset; astronomy; sensor-fusion
