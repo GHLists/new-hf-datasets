@@ -1,0 +1,60 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T08:23:59Z,cuonguyenphu/Contradictory-My-Dear-Watson-result-0.86544,cuonguyenphu,0,0,region:us
+2026-10-03T08:26:20Z,BenchRiedl/schriftfaden-audio,BenchRiedl,0,0,size_categories:n<1K; format:audiofolder; modality:audio; library:datasets; library:mlcroissant; region:us
+2026-10-03T08:26:42Z,YJH00013/Jet_airtarget,YJH00013,0,0,region:us
+2026-10-03T08:26:57Z,Travor278/Evo-DexBench-Gen8,Travor278,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-03T08:28:05Z,fdg2d/hand-interhand-subset,fdg2d,0,0,region:us
+2026-10-03T08:29:01Z,hariharasudharsanj-008/agent-data-collection,hariharasudharsanj-008,0,0,task_categories:text-generation; language:en; size_categories:1M<n<10M; arxiv:2510.24702; region:us; agent; multi-turn; tool-use; reasoning; interactive
+2026-10-03T08:33:57Z,Thetatec/record-box-bowl-depth,Thetatec,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; librar…
+2026-10-03T08:40:02Z,ememzyvisuals/lagos_hustle,ememzyvisuals,0,0,region:us
+2026-10-03T08:41:41Z,NeriK/cerise_20261003_103714,NeriK,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T08:43:34Z,VRLOMDA/STEPS_CL_24000,VRLOMDA,0,0,region:us
+2026-10-03T08:43:53Z,clooud/Archive_KMVAI2712,clooud,0,0,region:us
+2026-10-03T08:44:11Z,eadxm/Kestrel-Arch-Online,eadxm,0,0,region:us
+2026-10-03T08:44:14Z,faviolc/chapter2finarepo,faviolc,0,0,modality:image; region:us
+2026-10-03T08:45:47Z,dougalldeepmind/2026-10-03-da-qwen-15-mix,dougalldeepmind,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:mixture; pipeline:da-qwen; constitution:cla…
+2026-10-03T08:45:54Z,ramu9703/radkev-data,ramu9703,0,0,license:other; size_categories:100K<n<1M; format:json; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T08:48:27Z,Athrv16/synthetic-manuscript-generator,Athrv16,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; synthetic-data; manuscript; historical-manuscript;…
+2026-10-03T08:48:29Z,ShengbinYue/paraagent-sft,ShengbinYue,0,0,task_categories:text-generation; language:en; license:apache-2.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; arxiv:…
+2026-10-03T08:48:36Z,Cuebot/skin-assessment-13-class-filtered,Cuebot,0,0,task_categories:image-classification; modality:image; region:us; dermatology; skin-conditions; image-dataset
+2026-10-03T08:48:42Z,nilnguyen2k/mit67_official_fusion_results,nilnguyen2k,0,0,region:us
+2026-10-03T08:50:24Z,Kavin60606/so101-tray-sort-merged,Kavin60606,0,0,region:us
+2026-10-03T08:50:33Z,Kavin60606/so101-tray-sort-train,Kavin60606,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T08:50:39Z,Kavin60606/so101-tray-sort-val,Kavin60606,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T08:51:22Z,PritamcodesAGI/mini-imagenet-256,PritamcodesAGI,0,0,size_categories:10K<n<100K; format:parquet; modality:image; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T08:53:09Z,BertilBraun/alphazero-chess-runs,BertilBraun,0,0,license:mit; arxiv:2609.37447; region:us; chess; alphazero; reinforcement-learning; tensorboard
+2026-10-03T08:55:10Z,mindchain/mimo-v2.6-distill-qwen9b-webdev-16,mindchain,0,1,task_categories:text-generation; language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-03T08:55:25Z,Czeslawliet/Erisbell_ha-ten,Czeslawliet,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T08:57:24Z,CodeNinjatools/vertical-driven-architectures,CodeNinjatools,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physical-ai; syst…
+2026-10-03T08:58:06Z,AdithyaSK/RetroEnv-RL,AdithyaSK,0,0,task_categories:reinforcement-learning; task_categories:text-generation; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas;…
+2026-10-03T09:01:58Z,eadxm/Kestrel-Arch-Offline,eadxm,0,0,region:us
+2026-10-03T09:03:19Z,ThuraAung1601/reform-dafny-hint-gen,ThuraAung1601,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-03T09:04:22Z,TheAiCollectiveART/100k-github-mit-apache-dataset,TheAiCollectiveART,0,0,task_categories:text-retrieval; task_categories:question-answering; language:en; language:code; license:apache-2.0; size_categories:100K<n<1M; region:us; code; github; open-source; mit-license; apach…
+2026-10-03T09:06:26Z,SHARK787/offline-research-index,SHARK787,0,0,region:us
+2026-10-03T09:06:51Z,FidelityDynamics/so101-tray-sort-merged,FidelityDynamics,0,0,region:us
+2026-10-03T09:06:52Z,FidelityDynamics/so101-tray-sort-train,FidelityDynamics,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T09:06:52Z,FidelityDynamics/so101-tray-sort-val,FidelityDynamics,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T09:07:23Z,Controllable/welcoming,Controllable,0,0,region:us
+2026-10-03T09:09:14Z,FineEnvs/multilingual-multimodal-rl-runs,FineEnvs,0,0,language:kn; license:cc-by-4.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; library:openenv; re…
+2026-10-03T09:10:05Z,trishitasaha/Sample_Dataset,trishitasaha,0,0,size_categories:1K<n<10K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T09:10:24Z,ThuraAung1601/reform-dafny-hint-gen-aug,ThuraAung1601,0,0,region:us
+2026-10-03T09:10:46Z,hagsmand1/laya-thai-decisions,hagsmand1,0,0,task_categories:text-classification; task_categories:zero-shot-classification; multilinguality:multilingual; source_datasets:extended|AmazonScience/massive; source_datasets:extended|pythainlp/wisesig…
+2026-10-03T09:13:17Z,taku-y/record-test_20261003_181020,taku-y,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T09:14:43Z,PSEUDO-GOD/I-JUST-LAUGH-AT-YOUR-POST-NEITSCHEAN-ETHICS,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:15:03Z,xcxvvvb55/Annoy-PyEdu-Rs-Raw,xcxvvvb55,0,0,region:us
+2026-10-03T09:15:03Z,xcxvvvb55/Annoy-PyEdu-Rs,xcxvvvb55,0,0,region:us
+2026-10-03T09:15:21Z,antitrust56/reussir-son-referencement-google-pour-les-sites-e-3ff682,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:15:26Z,antitrust56/adoucisseur-d-eau-maison-quelle-option-choisir-184d3c,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:15:44Z,PSEUDO-GOD/PSEUDOGOD,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:16:05Z,antitrust56/die-beste-fontaine-eau-filtree-fur-ihr-zuhause-ein-9bdbb1,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:16:42Z,antitrust56/scie-a-onglet-radiale-trouver-le-bon-modele-pour-v-762df6,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:17:03Z,PSEUDO-GOD/CALCULATOR-GOD,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:17:21Z,antitrust56/barbecue-gaz-4-bruleurs-lequel-choisir-pour-vos-gr-c296e0,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:17:24Z,Battam/agentic-env-index,Battam,0,1,region:us
+2026-10-03T09:17:41Z,PSEUDO-GOD/TELL-US-ALL-DEMIS-HASSABIS,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:18:03Z,antitrust56/die-perfekte-4-jahreszeiten-bettdecke-240x260-find-c8b19a,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:18:17Z,PSEUDO-GOD/YOU-HAVE-BEEN-DESTROYED,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:18:47Z,antitrust56/ultrawide-monitor-furs-buro-eine-vergleichsanalyse-4ffc16,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:19:28Z,antitrust56/balkonkraftwerk-komplettset-welche-optionen-gibt-e-8d5437,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:20:09Z,antitrust56/frame-pool-oder-aufstellpool-welcher-ist-der-richt-d209f5,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:20:17Z,benchflow/frontierphysics-pr450-opus55-2026-10-03,benchflow,0,0,region:us
