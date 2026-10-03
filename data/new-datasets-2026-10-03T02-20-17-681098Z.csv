@@ -1,0 +1,57 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T01:21:12Z,Simaihub/unitree-g1-single-hand-Allegro-manipulation-sample,Simaihub,0,0,license:apache-2.0; region:us
+2026-10-03T01:28:36Z,Dhamz10/Screentime-Classifier-and-Rrgressor,Dhamz10,0,0,license:mit; region:us
+2026-10-03T01:30:05Z,ankit-pn/phone-assistant-function-calling,ankit-pn,0,0,task_categories:text-generation; language:en; language:hi; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissa…
+2026-10-03T01:30:30Z,RobotisSW/coffee_bottle_test,RobotisSW,0,0,size_categories:1K<n<10K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-03T01:32:19Z,FELIXFF92/video-text-corpus,FELIXFF92,0,0,license:mit; region:us; dataset; geology; video-text
+2026-10-03T01:34:44Z,fpadovani/mp-struct-heb-hebr-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T01:36:45Z,gcc479/snowman-ball-into-box_20261002_183401,gcc479,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T01:38:47Z,robert131OO4/out-series,robert131OO4,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-10-03T01:39:43Z,Talcoe/perch-trapset,Talcoe,0,0,task_categories:automatic-speech-recognition; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:audio; modality:text; library:datasets; library:pandas; library:polars; libra…
+2026-10-03T01:40:05Z,hotorigogi/doll_pick_and_place_dagger_v1,hotorigogi,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-03T01:40:15Z,introvoyz042/topu-lbvs,introvoyz042,0,0,task_categories:tabular-classification; language:en; license:cc-by-sa-4.0; size_categories:100K<n<1M; region:us; chemistry; drug-discovery; virtual-screening; ligand-based; molecular-property-predict…
+2026-10-03T01:40:36Z,sajalmadan09/indic-asr-staging-shard10,sajalmadan09,0,0,region:us
+2026-10-03T01:41:36Z,qitaoz/ScanNetpp_iphone,qitaoz,0,0,region:us
+2026-10-03T01:43:21Z,AI4Manufacturing/w_cad6-cadprompt-codegen,AI4Manufacturing,0,0,size_categories:n<1K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T01:43:34Z,introvoyz042/BindCLIP,introvoyz042,0,0,license:mit; region:us
+2026-10-03T01:43:54Z,Silviase/jasset-full-v1d-reasoning-4k-20261003,Silviase,0,0,task_categories:visual-question-answering; language:ja; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; r…
+2026-10-03T01:44:37Z,Takumiabe0213/medical-image-audio,Takumiabe0213,0,0,license:apache-2.0; region:us; dataset; medical; image-audio
+2026-10-03T01:46:53Z,introvoyz043/BindCLIP,introvoyz043,0,0,license:mit; region:us
+2026-10-03T01:47:01Z,sddsasd/Annoy-PyEdu-Rs,sddsasd,0,0,region:us
+2026-10-03T01:47:02Z,sddsasd/Annoy-PyEdu-Rs-Raw,sddsasd,0,0,region:us
+2026-10-03T01:49:38Z,singman84/architecture-collection76,singman84,0,0,license:apache-2.0; region:us; dataset; architecture; pointcloud-text
+2026-10-03T01:50:28Z,phuongngo19910/stellar,phuongngo19910,0,0,region:us
+2026-10-03T01:50:43Z,introvoyz043/E-KAN,introvoyz043,0,0,license:mit; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T01:51:17Z,Sydneyclark/gaming-video-text,Sydneyclark,0,0,license:cc-by-4.0; region:us; dataset; gaming; video-text
+2026-10-03T01:53:42Z,linhngo99603/hippo,linhngo99603,0,0,region:us
+2026-10-03T01:54:50Z,Yamada1997/gsys04,Yamada1997,0,0,region:us
+2026-10-03T01:54:58Z,developer0hye/HanIFEval,developer0hye,0,0,task_categories:text-generation; language:ko; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; i…
+2026-10-03T01:57:05Z,gschottlender/LigQ_2_evaluations,gschottlender,0,0,language:en; license:other; region:us; chemistry; bioinformatics; reproducibility; virtual-screening
+2026-10-03T01:57:37Z,nganhuynh70406/granite,nganhuynh70406,0,0,region:us
+2026-10-03T01:59:07Z,introvoyz043/Drug-TTA,introvoyz043,0,0,license:mit; region:us
+2026-10-03T01:59:18Z,williamskuf/textile-image-depth-clean-2024,williamskuf,0,0,license:mit; region:us; dataset; textile; image-depth
+2026-10-03T02:00:24Z,thaohoang13107/pleiades,thaohoang13107,0,0,region:us
+2026-10-03T02:00:40Z,masahiroid/nemotron-agentic-ipi-ja,masahiroid,0,0,language:ja; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agentic-safety; in…
+2026-10-03T02:00:41Z,r34g4n/kenya-roads-judged,r34g4n,0,0,size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T02:01:26Z,fpadovani/mp-struct-swa-latn-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T02:02:34Z,nilp0inter/Jeff-Gemma4-E2B-Multimodal-Benchmarks,nilp0inter,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; model-evaluation; multimod…
+2026-10-03T02:02:47Z,anvu32637/cargo,anvu32637,0,0,region:us
+2026-10-03T02:04:41Z,anhoang15858/perigee,anhoang15858,0,0,region:us
+2026-10-03T02:05:09Z,Alexey240577/dataset-05e9cc14,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-03T02:06:14Z,datbui14401/propulsion,datbui14401,0,0,region:us
+2026-10-03T02:07:48Z,thinhtran34305/tortoise,thinhtran34305,0,0,region:us
+2026-10-03T02:11:01Z,Ssdivya33/ocean-sensor-fusion-benchmark,Ssdivya33,0,0,license:cc-by-4.0; region:us; dataset; ocean; sensor-fusion
+2026-10-03T02:11:29Z,Alexey240577/dataset-90993466,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T02:12:22Z,Tree-AI-lab/ivoiry-story-corpus,Tree-AI-lab,0,0,language:fr; license:mit; size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; cote-d-ivoire; histoire; biographi…
+2026-10-03T02:12:35Z,ngantran78988/wharf,ngantran78988,0,0,region:us
+2026-10-03T02:14:33Z,phatduong80508/horizon,phatduong80508,0,0,region:us
+2026-10-03T02:15:06Z,itforankit/mycustomlivedata,itforankit,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T02:15:32Z,AI4Manufacturing/w_cad4-gencad-codegen,AI4Manufacturing,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T02:16:31Z,SD12DSA21EAS/Annoy-PyEdu-Rs,SD12DSA21EAS,0,0,region:us
+2026-10-03T02:16:32Z,SD12DSA21EAS/Annoy-PyEdu-Rs-Raw,SD12DSA21EAS,0,0,region:us
+2026-10-03T02:17:12Z,zXQWD12SAD/Annoy-PyEdu-Rs,zXQWD12SAD,0,0,region:us
+2026-10-03T02:17:13Z,zXQWD12SAD/Annoy-PyEdu-Rs-Raw,zXQWD12SAD,0,0,region:us
+2026-10-03T02:18:09Z,OyamaMeek/Notability,OyamaMeek,0,0,region:us
+2026-10-03T02:18:16Z,thanhngo58222/flower,thanhngo58222,0,0,region:us
+2026-10-03T02:19:05Z,congitpro/abc,congitpro,0,0,region:us
+2026-10-03T02:20:12Z,phuongpham28765/polaris,phuongpham28765,0,0,region:us
