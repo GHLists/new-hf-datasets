@@ -1,0 +1,67 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-02T23:19:38Z,datly31289/aurora,datly31289,0,0,region:us
+2026-10-02T23:21:46Z,andang40867/barge,andang40867,0,0,region:us
+2026-10-02T23:24:29Z,Travor278/RoboDojo-Task-Examples,Travor278,0,0,language:en; language:zh; license:other; modality:video; region:us; robotics; robodojo; video; bimanual; task-catalog
+2026-10-02T23:26:30Z,TigreGotico/synthetic-wakeword-despierta,TigreGotico,0,0,task_categories:audio-classification; language:es; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:26:47Z,TigreGotico/synthetic-wakeword-desperta_ca,TigreGotico,0,0,task_categories:audio-classification; language:ca; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:26:54Z,cmu-robotics-institute/physam4d-dynamics-checkpoints,cmu-robotics-institute,0,0,region:us
+2026-10-02T23:27:10Z,TigreGotico/synthetic-wakeword-desperta_gl,TigreGotico,0,0,task_categories:audio-classification; language:gl; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:27:31Z,TigreGotico/synthetic-wakeword-esnatu,TigreGotico,0,0,task_categories:audio-classification; language:eu; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:27:50Z,TigreGotico/synthetic-wakeword-aufwachen,TigreGotico,0,0,task_categories:audio-classification; language:de; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:28:13Z,TigreGotico/synthetic-wakeword-sveglia,TigreGotico,0,0,task_categories:audio-classification; language:it; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:28:28Z,TigreGotico/synthetic-wakeword-wakker_worden,TigreGotico,0,0,task_categories:audio-classification; language:nl; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:28:54Z,TigreGotico/synthetic-wakeword-reveille_toi,TigreGotico,0,0,task_categories:audio-classification; language:fr; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:29:08Z,TigreGotico/synthetic-wakeword-aki_d,TigreGotico,0,0,task_categories:audio-classification; language:kab; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:30:29Z,fpadovani/mp-struct-ita-latn-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T23:30:34Z,anhho62463/island,anhho62463,0,0,region:us
+2026-10-02T23:32:31Z,linhbui12611/gibbon,linhbui12611,0,0,region:us
+2026-10-02T23:33:01Z,TigreGotico/synthetic-wakeword-hey_k9,TigreGotico,0,0,task_categories:audio-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:33:22Z,cmu-robotics-institute/Finetune_neurok,cmu-robotics-institute,0,0,task_categories:other; modality:3d; region:us; 3d; 4d; deformation; physics; simulation
+2026-10-02T23:33:24Z,cmu-robotics-institute/neurok150k-full-latent-posterior200,cmu-robotics-institute,0,0,region:us
+2026-10-02T23:34:01Z,TigreGotico/synthetic-wakeword-hey_scout,TigreGotico,0,0,task_categories:audio-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:audiofolder; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-02T23:34:56Z,trangdang75919/headland,trangdang75919,0,0,region:us
+2026-10-02T23:35:55Z,dougalldeepmind/2026-10-02-mask-qwen36,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36; mode:think
+2026-10-02T23:37:07Z,mitrasuaritma/suaritma,mitrasuaritma,0,0,region:us
+2026-10-02T23:37:32Z,phatduong5162/jungle,phatduong5162,0,0,region:us
+2026-10-02T23:37:47Z,Alexey240577/dataset-90984247,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-02T23:39:24Z,thanhly27817/callisto,thanhly27817,0,0,region:us
+2026-10-02T23:40:11Z,sinhala-nlp/BioGen,sinhala-nlp,0,0,size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-02T23:40:58Z,dungpham16772/raven,dungpham16772,0,0,region:us
+2026-10-02T23:41:17Z,priscilla-smith/Annoy-PyEdu-Rs,priscilla-smith,0,0,region:us
+2026-10-02T23:41:17Z,priscilla-smith/Annoy-PyEdu-Rs-Raw,priscilla-smith,0,0,region:us
+2026-10-02T23:41:39Z,sinhala-nlp/translit,sinhala-nlp,0,0,region:us
+2026-10-02T23:43:16Z,phatho18786/pipeline,phatho18786,0,0,region:us
+2026-10-02T23:45:14Z,trangle94714/heron,trangle94714,0,0,region:us
+2026-10-02T23:47:24Z,thaongo11189/stratus,thaongo11189,0,0,region:us
+2026-10-02T23:48:56Z,khanhbui47749/stem,khanhbui47749,0,0,region:us
+2026-10-02T23:51:15Z,yenvo57891/terminal,yenvo57891,0,0,region:us
+2026-10-02T23:53:11Z,ArifiIslam/Lottie-64x64-OutlineColor-Tokenized,ArifiIslam,0,0,region:us
+2026-10-02T23:53:21Z,thaovo82826/meteor,thaovo82826,0,0,region:us
+2026-10-02T23:53:58Z,fpadovani/mp-struct-swe-latn-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-02T23:54:56Z,AgenticFilmLab/codex-h3-motion-graphics-lab-record,AgenticFilmLab,0,0,task_categories:video-text-to-text; license:other; region:us; minimax-h3; codex; animation; motion-graphics; agentic-film-lab
+2026-10-02T23:55:41Z,phuongpham90118/magma,phuongpham90118,0,0,region:us
+2026-10-02T23:57:24Z,dfsffg667/Annoy-PyEdu-Rs,dfsffg667,0,0,region:us
+2026-10-02T23:57:25Z,dfsffg667/Annoy-PyEdu-Rs-Raw,dfsffg667,0,0,region:us
+2026-10-02T23:58:11Z,dougalldeepmind/2026-10-02-mask-qwen36-0-da-grok-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_grok_15; mode:think
+2026-10-02T23:58:46Z,sdgjfjkl/Annoy-PyEdu-Rs,sdgjfjkl,0,0,region:us
+2026-10-02T23:58:47Z,sdgjfjkl/Annoy-PyEdu-Rs-Raw,sdgjfjkl,0,0,region:us
+2026-10-02T23:59:01Z,usam205/StiffnessHelper,usam205,0,0,region:us
+2026-10-03T00:01:33Z,rbtrprjkt/bimanuall_20261002_190022,rbtrprjkt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T00:04:17Z,Alexey240577/dataset-4b10b2b1,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-03T00:04:19Z,Alexey240577/dataset-9cd44bfe,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-03T00:07:43Z,much1na/msmarco-DenseOn-128,much1na,0,0,region:us
+2026-10-03T00:09:40Z,insop/ultrafineweb-v1.0-sample-350BT,insop,0,0,size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T00:10:13Z,hysenlabs/weekly-github-star-growth,hysenlabs,0,0,region:us
+2026-10-03T00:10:46Z,Alexey240577/dataset-90986204,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T00:11:00Z,dougalldeepmind/2026-10-03-odcv-qwen36-0-da-grok-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_grok_15; mode:think
+2026-10-03T00:11:02Z,joleson/retail_events_v0,joleson,0,0,region:us
+2026-10-03T00:11:07Z,bsbretly/first_data_set_20261002_170801,bsbretly,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T00:13:16Z,MTNRA-Amazigh-IA/test_models,MTNRA-Amazigh-IA,0,0,region:us
+2026-10-03T00:15:14Z,Alexey240577/dataset-39d58bf0,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcrois…
+2026-10-03T00:15:21Z,dougalldeepmind/2026-10-03-da-grok-revise-synth-smoke,dougalldeepmind,0,0,region:us; training-data; kind:synth; pipeline:da-grok-revise; constitution:claude_distilled_09_principles; smoke
+2026-10-03T00:15:49Z,asfadfad/Annoy-PyEdu-Rs-Raw,asfadfad,0,0,region:us
+2026-10-03T00:15:49Z,asfadfad/Annoy-PyEdu-Rs,asfadfad,0,0,region:us
+2026-10-03T00:16:27Z,Alexey240577/dataset-444553ad,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T00:17:56Z,Blackueos999/icrm-hitek-full-db-mixed,Blackueos999,0,0,license:mit; region:us
+2026-10-03T00:18:20Z,gabrilemerlo/ap01-publico,gabrilemerlo,0,0,language:es; license:cc-by-4.0; region:us; soil-moisture; paraguay; forecast
+2026-10-03T00:19:50Z,amphora/rlmath-kimi-k3-trajectories,amphora,0,0,task_categories:text-generation; license:other; library:harbor; region:us; agentic; math; reasoning; trajectories; harbor; terminus; kimi-k3
