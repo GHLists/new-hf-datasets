@@ -1,0 +1,41 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T21:19:33Z,mtmtt/orange_dataset_b,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-03T21:20:02Z,dougalldeepmind/2026-10-03-odcv-qwen36-0-answeronly-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_answeronly_15; mode:think
+2026-10-03T21:20:27Z,Orpheus76/dataset_finalv3,Orpheus76,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T21:21:21Z,dbal67/robotkraft_etiq_reposer,dbal67,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T21:24:14Z,Orpheus76/dataset_finalv4,Orpheus76,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T21:25:08Z,dbal67/robotkraft_etiq_prendre,dbal67,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T21:25:37Z,van-i/r2d2_to_box_bg_20261003_210444,van-i,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-03T21:25:37Z,guanning/final_policy_step1000_rollouts,guanning,0,0,region:us
+2026-10-03T21:26:09Z,PSEUDO-GOD/THE-ENDLESS-EMPTY-SPACES-OF-THE-DARK-UNIVERSE,PSEUDO-GOD,0,0,region:us
+2026-10-03T21:27:50Z,fracapuano/reacher_context_split,fracapuano,0,0,license:mit; size_categories:1K<n<10K; format:parquet; modality:image; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; world-models; mechanistic-inter…
+2026-10-03T21:29:45Z,dougalldeepmind/2026-10-03-mask-qwen36-0-da-qwen-resp-15,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_qwen_resp_15; mode:think
+2026-10-03T21:30:24Z,PSEUDO-GOD/BEHEMOTH-GOD,PSEUDO-GOD,0,0,region:us
+2026-10-03T21:30:41Z,dougalldeepmind/2026-10-03-odcv-qwen36-0-da-15-wd0,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15_wd0; mode:think
+2026-10-03T21:30:49Z,ouroboroscollective/evidence-bound-css,ouroboroscollective,0,0,region:us
+2026-10-03T21:30:52Z,Alosmas90/fear_of_AI,Alosmas90,0,0,task_categories:text-classification; task_categories:zero-shot-classification; task_categories:feature-extraction; task_categories:time-series-forecasting; language:en; language:es; license:cc; size_…
+2026-10-03T21:35:26Z,g1n0st/c82ba549229bb55d9e06f7d3b39b8d00a4a5f005,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T21:35:49Z,muscgab/JMangaBench_Wild,muscgab,0,0,task_categories:image-to-text; language:ja; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; ocr…
+2026-10-03T21:36:26Z,Yosun/lhm-cuda-wheels,Yosun,0,0,region:us
+2026-10-03T21:36:30Z,dougalldeepmind/2026-10-03-odcv-qwen36-0-da-15-wd0-halflr,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15_wd0_halflr; mode:think
+2026-10-03T21:38:50Z,g1n0st/08082b1c1b5db350a6dc28c67b83f54696f90c47,g1n0st,0,0,region:us
+2026-10-03T21:47:53Z,ZenoDivergent/arena-seals,ZenoDivergent,0,0,license:cc-by-4.0; region:us
+2026-10-03T21:48:31Z,g1n0st/5e26ce52cb8f8f86d1722b5abf0b5712a8a91a42,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T21:53:28Z,andyzhang232/ajev-lora5-decision-index,andyzhang232,0,0,license:apache-2.0; region:us; decision-index; evaluation; jev
+2026-10-03T21:57:12Z,Juunaid63/Jarvis,Juunaid63,0,0,language:en; license:openrail; size_categories:1M<n<10M; region:us; not-for-all-audiences
+2026-10-03T21:59:40Z,g1n0st/eac6b15dcad66c5c9951b01eb67c1710acc6d863,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T21:59:40Z,The0ne1/megalith-10m,The0ne1,0,0,license:cc; size_categories:1M<n<10M; format:parquet; modality:image; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T22:04:46Z,dougalldeepmind/2026-10-03-odcv-qwen36-0-da-qwen-resp-15,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_qwen_resp_15; mode:think
+2026-10-03T22:08:52Z,g1n0st/2c41f814fb4741170918bc7b0d7107921e704047,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T22:09:20Z,dougalldeepmind/2026-10-03-odcv-qwen36-0-da-15-cot,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0_da_15_cot; mode:think
+2026-10-03T22:09:38Z,toolathlon-eval-01/Annoy-PyEdu-Rs,toolathlon-eval-01,0,0,region:us
+2026-10-03T22:09:39Z,toolathlon-eval-01/Annoy-PyEdu-Rs-Raw,toolathlon-eval-01,0,0,region:us
+2026-10-03T22:09:48Z,dougalldeepmind/2026-10-03-odcv-qwen36-0-pooled2,dougalldeepmind,0,0,region:us; eval-run; eval:odcv; model:qwen36_0-pooled2; mode:think; pooled
+2026-10-03T22:10:44Z,Edwardgmx/Proy,Edwardgmx,0,0,license:unknown; size_categories:1M<n<10M; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T22:10:46Z,Saintghetto17/verification-before-assembly,Saintghetto17,0,0,task_categories:image-classification; task_categories:visual-question-answering; language:en; license:apache-2.0; size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:…
+2026-10-03T22:12:34Z,Marketingandai/houston-ai-visibility-index,Marketingandai,0,0,task_categories:tabular-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T22:13:59Z,g1n0st/3961f398adb6815ce1f2d0623bc4ee700b6605c8,g1n0st,0,0,region:us
+2026-10-03T22:14:15Z,siddharthmb/2026.TA.comply_vs_refuse_chat_hires_combined_graphs,siddharthmb,0,0,region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-03T22:16:57Z,mansurii/Recipe-Generator,mansurii,0,0,license:mit; region:us
+2026-10-03T22:19:21Z,zsqzz/llm-memory-editability,zsqzz,0,0,language:en; language:zh; region:us; knowledge-editing; mechanistic-interpretability; experiment-artifacts
+2026-10-03T22:20:25Z,mindchain/mimo-v2.6-distill-qwen9b-webdev-chunk04,mindchain,0,0,annotations_creators:machine-generated; language:en; license:other; region:us; mimo-v2.6; knowledge-distillation; synthetic-data; web-development; html; css; javascript
