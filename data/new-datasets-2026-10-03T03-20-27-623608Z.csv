@@ -1,0 +1,66 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T02:20:24Z,llgrnm/modal-v46-minimax-runtime,llgrnm,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T02:21:33Z,AI4Manufacturing/w_cad5-ocad-codegen,AI4Manufacturing,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T02:21:58Z,DSAD12DSA/Annoy-PyEdu-Rs,DSAD12DSA,0,0,region:us
+2026-10-03T02:21:58Z,DSAD12DSA/Annoy-PyEdu-Rs-Raw,DSAD12DSA,0,0,region:us
+2026-10-03T02:22:17Z,Lumos-Jiateng/LMBuild,Lumos-Jiateng,0,0,task_categories:text-to-3d; task_categories:image-to-3d; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; modality:3d; region:us; 3d; cad; assembly; benchmark; agents; lego
+2026-10-03T02:22:32Z,yenvo74387/yacht,yenvo74387,0,0,region:us
+2026-10-03T02:23:02Z,bryanputra/study-architecture,bryanputra,0,0,license:cc-by-4.0; region:us; dataset; architecture; multimodal3
+2026-10-03T02:24:01Z,tuannguyen32189/valley,tuannguyen32189,0,0,region:us
+2026-10-03T02:25:33Z,khanhngo95507/scooter,khanhngo95507,0,0,region:us
+2026-10-03T02:27:15Z,aixk/1024-1024-19,aixk,0,0,region:us
+2026-10-03T02:30:26Z,SUM0N/ecod-f70-embeddings,SUM0N,0,0,size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T02:31:37Z,National-Digital/nsw-beachwatch-sites,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; gov…
+2026-10-03T02:31:39Z,National-Digital/vic-measles-exposure-sites,National-Digital,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; australia; government; open-data…
+2026-10-03T02:33:07Z,Jungkookjeon1994/architecture-data,Jungkookjeon1994,0,0,license:apache-2.0; region:us; dataset; architecture; text-tabular
+2026-10-03T02:34:07Z,QSJMKDSFDS/Annoy-PyEdu-Rs,QSJMKDSFDS,0,0,region:us
+2026-10-03T02:34:08Z,QSJMKDSFDS/Annoy-PyEdu-Rs-Raw,QSJMKDSFDS,0,0,region:us
+2026-10-03T02:34:46Z,AI4Manufacturing/w_cad7-tricad-codegen,AI4Manufacturing,0,0,size_categories:100K<n<1M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T02:40:31Z,mikhailpqb/food-pointcloud-text,mikhailpqb,0,0,license:cc-by-4.0; region:us; dataset; food; pointcloud-text
+2026-10-03T02:40:39Z,datly51005/sonar,datly51005,0,0,region:us
+2026-10-03T02:40:46Z,dhthufuong/data_ai_1k8,dhthufuong,0,0,size_categories:100K<n<1M; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T02:40:57Z,OpenPathAI/alpaca-gpt4-indonesian-cleaned,OpenPathAI,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T02:41:56Z,pablo-honey/OmniDurian156,pablo-honey,0,0,region:us
+2026-10-03T02:41:57Z,Alexey240577/dataset-90995270,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T02:42:12Z,AllenHF/superinvestor-13f-holdings,AllenHF,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; finance; sec;…
+2026-10-03T02:42:48Z,yenduong89255/marsh,yenduong89255,0,0,region:us
+2026-10-03T02:43:39Z,HanJeongSeop/Ko-Optimize_Dataset_test,HanJeongSeop,0,0,size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T02:44:03Z,g1n0st/d3b880ead40acaeea05751c7b602d79ab5559390,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T02:44:53Z,Dennis1315/build-debug-14b-ckpt,Dennis1315,0,0,region:us
+2026-10-03T02:44:55Z,Stasidze/lang-obs-v10,Stasidze,0,0,task_categories:text-generation; language:ru; license:mit; size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us; diary; philosophy; ai-consciousness; sin…
+2026-10-03T02:45:04Z,thanhly17934/artemis,thanhly17934,0,0,region:us
+2026-10-03T02:46:06Z,g1n0st/88c73bd6feb380739262480fdf67a9ea8d684502,g1n0st,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T02:46:42Z,hieuduong82862/cabrio,hieuduong82862,0,0,region:us
+2026-10-03T02:47:56Z,Yingg91/Windows10_1709,Yingg91,0,0,region:us
+2026-10-03T02:48:22Z,OpenPathAI/MATH-thinking,OpenPathAI,0,0,license:apache-2.0; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T02:48:35Z,hyjwrt/Annoy-PyEdu-Rs,hyjwrt,0,0,region:us
+2026-10-03T02:48:36Z,hyjwrt/Annoy-PyEdu-Rs-Raw,hyjwrt,0,0,region:us
+2026-10-03T02:48:51Z,dungpham40781/constellation,dungpham40781,0,0,region:us
+2026-10-03T02:50:38Z,thinhdo23273/astro,thinhdo23273,0,0,region:us
+2026-10-03T02:53:22Z,nganphan67576/tide,nganphan67576,0,0,region:us
+2026-10-03T02:56:53Z,zyfz0um/openpic,zyfz0um,0,0,region:us
+2026-10-03T02:58:47Z,Alexey240577/dataset-90996284,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T02:59:22Z,hertgaer/Annoy-PyEdu-Rs,hertgaer,0,0,region:us
+2026-10-03T02:59:23Z,hertgaer/Annoy-PyEdu-Rs-Raw,hertgaer,0,0,region:us
+2026-10-03T02:59:32Z,Swcheese123/nas-modelfiles,Swcheese123,0,0,region:us
+2026-10-03T03:00:18Z,gamamima/Kamba-ASR-Data-Subset-484H,gamamima,0,0,task_categories:automatic-speech-recognition; language:kam; license:cc-by-4.0; size_categories:100K<n<1M; format:arrow; modality:audio; modality:text; library:datasets; library:mlcroissant; region:us…
+2026-10-03T03:01:22Z,drkvcsstvn/smearshare_cumulative_distribution_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T03:01:23Z,drkvcsstvn/smearshare_monthly_cumulative_lims_fast,drkvcsstvn,0,0,size_categories:n<1K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T03:04:27Z,asfdaaa/Annoy-PyEdu-Rs,asfdaaa,0,0,region:us
+2026-10-03T03:04:27Z,asfdaaa/Annoy-PyEdu-Rs-Raw,asfdaaa,0,0,region:us
+2026-10-03T03:05:42Z,lih-kin/Archive_gacekmg,lih-kin,0,0,region:us
+2026-10-03T03:06:02Z,A11asda/Annoy-PyEdu-Rs,A11asda,0,0,region:us
+2026-10-03T03:06:02Z,A11asda/Annoy-PyEdu-Rs-Raw,A11asda,0,0,region:us
+2026-10-03T03:06:10Z,oliverhal/cs231n-finance,oliverhal,0,0,license:cc-by-4.0; region:us; dataset; finance; image-audio
+2026-10-03T03:11:22Z,DevLufero/moodly-watch-index,DevLufero,0,0,license:other; region:us
+2026-10-03T03:11:43Z,Alexey240577/dataset-90997094,Alexey240577,0,0,task_categories:other; language:ru; language:en; license:cc0-1.0; region:us; autonomous; agents; evolution
+2026-10-03T03:11:56Z,daffahidayat/music-audio-video-benchmark,daffahidayat,0,0,license:cc-by-4.0; region:us; dataset; music; audio-video
+2026-10-03T03:12:11Z,daffahidayat/satellite-text-tabular-curated,daffahidayat,0,0,license:apache-2.0; region:us; dataset; satellite; text-tabular
+2026-10-03T03:12:35Z,Reiwa-AI/PoliteQADataset,Reiwa-AI,0,0,license:cc-by-sa-4.0; region:us
+2026-10-03T03:13:37Z,davisilvaso/sensor-fusion-samples,davisilvaso,0,0,license:mit; region:us; dataset; comics; sensor-fusion
+2026-10-03T03:13:43Z,toolathlonmsft2/Annoy-PyEdu-Rs-Raw,toolathlonmsft2,0,0,region:us
+2026-10-03T03:13:43Z,toolathlonmsft2/Annoy-PyEdu-Rs,toolathlonmsft2,0,0,region:us
+2026-10-03T03:15:05Z,GastroAgent/Oracle-PD-OBS,GastroAgent,0,0,region:us
+2026-10-03T03:18:15Z,g1n0st/51186f555deae53b41fa2610d33cd26f51953daf,g1n0st,0,0,region:us
+2026-10-03T03:18:57Z,afdasfasdd/Annoy-PyEdu-Rs,afdasfasdd,0,0,region:us
+2026-10-03T03:18:58Z,afdasfasdd/Annoy-PyEdu-Rs-Raw,afdasfasdd,0,0,region:us
