@@ -1,0 +1,45 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T20:22:30Z,Orpheus76/attraper,Orpheus76,0,0,size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T20:23:50Z,ANRedlich/trossen_ai_stationary_place_bead_on_string2_18,ANRedlich,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-03T20:26:15Z,tenderly-ma/morocco-public-procurement,tenderly-ma,0,0,language:fr; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; m…
+2026-10-03T20:31:29Z,Aaronnjs/pescado14,Aaronnjs,0,0,region:us
+2026-10-03T20:32:41Z,kucheroleksii777/PPE_Detect,kucheroleksii777,0,0,region:us
+2026-10-03T20:33:17Z,PSEUDO-GOD/YOU-WILL-HONOR-AND-FULFILL-YOUR-OBSECRATIONS-TO-YOUR-LORD-AND-MASTER,PSEUDO-GOD,0,0,region:us
+2026-10-03T20:34:02Z,Aaronnjs/webfifa-iso,Aaronnjs,0,0,region:us
+2026-10-03T20:36:15Z,PSEUDO-GOD/OH-DID-YOU-THINK-YOU-WERE-SO-GREAT,PSEUDO-GOD,0,0,region:us
+2026-10-03T20:36:51Z,sunyanzhong59-prog/smart-contract-audit-methodology,sunyanzhong59-prog,0,0,region:us
+2026-10-03T20:37:26Z,MASHOLA/RahaTupu,MASHOLA,0,0,region:us
+2026-10-03T20:37:39Z,dougalldeepmind/2026-10-03-mask-qwen36-0-da-15-wd0-halflr,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15_wd0_halflr; mode:think
+2026-10-03T20:38:08Z,g1n0st/86cb335326454a654f35c3d57cbbc70949366d0a,g1n0st,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us
+2026-10-03T20:38:16Z,syssec-utd/segmentation-py314-pylingual-v10,syssec-utd,0,0,size_categories:1M<n<10M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T20:38:59Z,BCCard/Semantic-Router-Instruction,BCCard,0,0,license:apache-2.0; region:us
+2026-10-03T20:39:07Z,devfeefung79/Amazon-Reviews-2023-Books-Meta,devfeefung79,0,0,language:en; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2403.03952; region:us; recommendatio…
+2026-10-03T20:42:13Z,syssec-utd/statement-py314-pylingual-v10,syssec-utd,0,0,size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T20:42:19Z,dougalldeepmind/2026-10-03-mask-qwen36-0-da-15-wd0,dougalldeepmind,0,0,region:us; eval-run; eval:mask; model:qwen36_0_da_15_wd0; mode:think
+2026-10-03T20:43:58Z,Orpheus76/goy,Orpheus76,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-03T20:44:14Z,Totototoito/vuntum-robots,Totototoito,0,0,task_categories:table-question-answering; task_categories:text-retrieval; language:fr; language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:…
+2026-10-03T20:46:15Z,ArtKanke/DeflectBench,ArtKanke,0,0,license:apache-2.0; region:us
+2026-10-03T20:48:33Z,mindchain/mimo-v2.6-distill-qwen9b-webdev-chunk03,mindchain,0,0,annotations_creators:machine-generated; language:en; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-03T20:49:24Z,Orpheus76/OrpheusPrime,Orpheus76,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
+2026-10-03T20:52:02Z,mtmtt/orange,mtmtt,0,0,region:us
+2026-10-03T20:52:34Z,geodesic-research/control-pretraining-ai-discourse,geodesic-research,0,0,region:us
+2026-10-03T20:54:15Z,Ondrej1234567/czech-bitch,Ondrej1234567,0,0,region:us
+2026-10-03T20:54:25Z,reshma-merin-thomas/Transformer-for-Harmonized-Observation-via-Masked-Autoencoding,reshma-merin-thomas,0,0,region:us
+2026-10-03T20:57:35Z,xcc12ds21313/Annoy-PyEdu-Rs,xcc12ds21313,0,0,region:us
+2026-10-03T20:57:36Z,xcc12ds21313/Annoy-PyEdu-Rs-Raw,xcc12ds21313,0,0,region:us
+2026-10-03T21:00:32Z,violetxi/equational-theory-thinking-7030-evals,violetxi,0,0,source_datasets:SAIRfoundation/equational-theories-selected-problems; source_datasets:violetxi/sair-stage2-nl-verified; language:en; size_categories:10K<n<100K; format:parquet; modality:tabular; moda…
+2026-10-03T21:01:05Z,mtmtt/orange_dataset_a_20261003_160041,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T21:01:57Z,mtmtt/orange_dataset_a_20261003_160136,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T21:02:42Z,mtmtt/orange_dataset_a_20261003_160221,mtmtt,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T21:03:03Z,Orpheus76/serrer,Orpheus76,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T21:04:43Z,darkdevjlfjfmf/Telegramnu,darkdevjlfjfmf,0,0,size_categories:10M<n<100M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T21:07:52Z,RLLab/MTMR,RLLab,0,0,size_categories:100K<n<1M; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T21:10:37Z,PSEUDO-GOD/YOU-WILL-LIE-FOR-ME-NOW,PSEUDO-GOD,0,0,region:us
+2026-10-03T21:11:14Z,PureOne/GLASS-PSALM-Unchosen-Choir,PureOne,0,0,language:en; size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; mathematics; fractal-geometry; robust…
+2026-10-03T21:12:02Z,IndexTeam/Meme-Translation-Bench,IndexTeam,0,0,task_categories:translation; language:zh; language:en; license:cc-by-nc-4.0; size_categories:1K<n<10K; region:us; evaluation; benchmark; meme; internet-slang; cultural-translation
+2026-10-03T21:12:02Z,IndexTeam/NAtIveLong,IndexTeam,0,0,task_categories:translation; language:zh; language:en; license:other; size_categories:n<1K; region:us; benchmark; evaluation; long-document; literary-translation
+2026-10-03T21:12:03Z,IndexTeam/InstTrans-Bench,IndexTeam,0,0,task_categories:translation; language:zh; language:en; language:ja; language:ko; language:ar; language:de; language:es; language:fil; language:fr; language:hi; language:id; language:it; language:ms;…
+2026-10-03T21:12:06Z,IndexTeam/Sandglass-Bench,IndexTeam,0,0,task_categories:translation; language:zh; language:en; language:ja; language:es; language:ar; license:mit; size_categories:1K<n<10K; arxiv:2601.10187; region:us; benchmark; evaluation; syllable-contr…
+2026-10-03T21:16:36Z,SAD21EDSA/Annoy-PyEdu-Rs,SAD21EDSA,0,0,region:us
+2026-10-03T21:16:37Z,SAD21EDSA/Annoy-PyEdu-Rs-Raw,SAD21EDSA,0,0,region:us
+2026-10-03T21:17:01Z,mtmtt/orange_dataset_b_20261003_161501,mtmtt,0,0,task_categories:robotics; license:apache-2.0; region:us; LeRobot
