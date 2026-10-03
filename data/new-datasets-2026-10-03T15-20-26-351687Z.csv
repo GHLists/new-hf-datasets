@@ -1,0 +1,101 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T14:22:17Z,citizenolu2023/cache-3b-tokens,citizenolu2023,0,0,region:us
+2026-10-03T14:22:55Z,schneiderkamplab/dfm13-wave3-opus-lv-sv,schneiderkamplab,0,0,task_categories:translation; language:lv; language:sv; license:other; size_categories:100K<n<1M; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T14:23:17Z,schneiderkamplab/dfm13-wave3-opus-lv-uk,schneiderkamplab,0,0,task_categories:translation; language:lv; language:uk; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlc…
+2026-10-03T14:25:11Z,mindchain/mimo-v2.6-distill-qwen9b-webdev-chunk00,mindchain,0,0,annotations_creators:machine-generated; language:en; license:other; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcro…
+2026-10-03T14:25:22Z,AlmazErmilov/samuged-recurring-phrases,AlmazErmilov,0,0,language:en; license:cc-by-4.0; size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; music; mi…
+2026-10-03T14:26:27Z,g1n0st/9db2d992d6361ae399ad910023632fdfd34c974f,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T14:26:59Z,rtrtwrw/granular-material-pour-rollouts,rtrtwrw,0,0,task_categories:robotics; license:apache-2.0; region:us; robotics; evaluation; imperfect-data
+2026-10-03T14:27:45Z,AlexKarachun/ak-cold-store,AlexKarachun,0,0,region:us
+2026-10-03T14:29:18Z,AcientWings/AncientWings_R2AI_STAGE3_ds,AcientWings,0,0,region:us
+2026-10-03T14:29:30Z,g1n0st/f17869232d55573c1f23df149d8356899c466326,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T14:30:13Z,clearbox-ai/examroom-suites,clearbox-ai,0,0,region:us; evaluation; benchmark; small-language-models
+2026-10-03T14:30:14Z,clearbox-ai/examroom-results,clearbox-ai,0,0,region:us; evaluation; leaderboard
+2026-10-03T14:31:00Z,Gramscii-IT/italian-civic-addresses,Gramscii-IT,0,0,language:it; license:cc-by-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; modality:geospatial; library:datasets; library:dask; library:polars; library:mlcroissant;…
+2026-10-03T14:31:15Z,nightly-wave/3745a2d4,nightly-wave,0,0,region:us
+2026-10-03T14:31:24Z,VIRUS374/ai-developer-dataset,VIRUS374,0,0,task_categories:text-generation; language:ru; language:en; license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region…
+2026-10-03T14:31:27Z,lesliexxy/items_raw_full,lesliexxy,0,0,size_categories:100K<n<1M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T14:32:07Z,lesliexxy/items_raw_lite,lesliexxy,0,0,size_categories:10K<n<100K; format:parquet; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T14:32:34Z,g1n0st/934f6dfd23c4d5e77ef5c5c32f233c599654ea77,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T14:33:02Z,aixk/1024-1024-n,aixk,0,0,region:us
+2026-10-03T14:35:04Z,cuonguyenphu/Solar-Filament-Segmentation-Challenge-2026-result-0.34,cuonguyenphu,0,0,region:us
+2026-10-03T14:35:14Z,sudo-0x2a/progressive_reasoning,sudo-0x2a,0,0,license:mit; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T14:35:27Z,Ngod-ung90/cv-movie-posters,Ngod-ung90,0,0,license:mit; region:us; dataset; movie-posters; video-text
+2026-10-03T14:35:39Z,Aureliolo/game-review-claims,Aureliolo,0,1,task_categories:text-classification; language:multilingual; license:cc-by-4.0; doi:10.57967/hf/10735; region:us; steam; game-reviews; aspect-based-sentiment-analysis
+2026-10-03T14:38:49Z,songyiren/shownow-b1-long-1min,songyiren,0,0,license:other; size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us; video; world-model; vizdoom
+2026-10-03T14:38:50Z,g1n0st/71e24fddc26e43cae8ced38b4e66560c2a9bd785,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T14:39:13Z,kultranz/2026-us-tax-brackets,kultranz,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; finance; tax; dataset
+2026-10-03T14:39:13Z,kultranz/us-metro-cost-of-living,kultranz,0,0,task_categories:other; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; economics; h…
+2026-10-03T14:41:12Z,hi-todayis-jh/compression-math-extra96-er-qwen3-1.7b-verl091-146102-20261002,hi-todayis-jh,0,0,region:us
+2026-10-03T14:42:26Z,CCHENZIQI/speech-multimodal3,CCHENZIQI,0,0,license:mit; region:us; dataset; speech; multimodal3
+2026-10-03T14:43:52Z,HughieHu/SAGE-Index-BM25,HughieHu,0,0,task_categories:text-retrieval; language:en; license:cc-by-nc-4.0; region:us; scientific-literature; retrieval; embeddings; deep-research-agents
+2026-10-03T14:44:14Z,jp1924-laion-2/Laion400m-3-part2,jp1924-laion-2,0,0,region:us
+2026-10-03T14:45:08Z,mthor/Event_and_Depth,mthor,0,0,region:us
+2026-10-03T14:45:28Z,cemrenurkeles/test_cube_essai,cemrenurkeles,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T14:48:08Z,aipracticecafe/curated-danbooru-2026-synthetic-512px,aipracticecafe,0,0,region:us
+2026-10-03T14:48:16Z,schneiderkamplab/dfm13-wave3-transform-baltic-lt-blkt-denoising-newgenltu,schneiderkamplab,0,0,task_categories:text-generation; language:lt; license:other; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-03T14:48:30Z,schneiderkamplab/dfm13-wave3-transform-baltic-lt-blkt-prefix-continuation-newgenltu,schneiderkamplab,0,0,task_categories:text-generation; language:lt; license:other; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-03T14:48:42Z,schneiderkamplab/dfm13-wave3-transform-baltic-lt-blkt-span-filling-newgenltu,schneiderkamplab,0,0,task_categories:text-generation; language:lt; license:other; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroi…
+2026-10-03T14:50:10Z,siamaky1984/WiFi_CSI_activity_recognition_dataset,siamaky1984,0,0,region:us
+2026-10-03T14:51:03Z,TERABAYTYCH/claude-images,TERABAYTYCH,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T14:51:50Z,clooud/Archive_blindeman,clooud,0,0,size_categories:n<1K; format:text; modality:image; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T14:52:04Z,HughieHu/SAGE-Index-Qwen3,HughieHu,0,0,region:us
+2026-10-03T14:52:59Z,cemrenurkeles/test_cube_2,cemrenurkeles,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-03T14:54:31Z,cms1308/n1-landscape,cms1308,0,0,license:cc-by-4.0; size_categories:10M<n<100M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; arxiv:2408.02953; arxiv:2510.19136…
+2026-10-03T14:56:28Z,schneiderkamplab/dfm13-wave4-wikipedia-bg-denoising,schneiderkamplab,0,0,task_categories:text-generation; language:bg; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T14:56:54Z,schneiderkamplab/dfm13-wave4-wikipedia-bg-paragraph-reordering,schneiderkamplab,0,0,task_categories:text-generation; language:bg; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T14:57:20Z,schneiderkamplab/dfm13-wave4-wikipedia-bg-prefix-continuation,schneiderkamplab,0,0,task_categories:text-generation; language:bg; license:cc-by-sa-3.0; license:gfdl; region:us
+2026-10-03T14:57:24Z,Dere64/plz,Dere64,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T14:57:37Z,alexandersmirnov/medical-dataset-2024,alexandersmirnov,0,0,license:apache-2.0; region:us; dataset; medical; audio-video
+2026-10-03T14:57:47Z,schneiderkamplab/dfm13-wave4-wikipedia-bg-span-filling,schneiderkamplab,0,0,task_categories:text-generation; language:bg; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T14:57:52Z,alexandersmirnov/text-tabular-data,alexandersmirnov,0,0,license:apache-2.0; region:us; dataset; music; text-tabular
+2026-10-03T14:59:21Z,schneiderkamplab/dfm13-wave3-latvian-p3-cc-by-4-0,schneiderkamplab,0,0,task_categories:text-generation; language:lv; license:cc-by-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcr…
+2026-10-03T14:59:28Z,schneiderkamplab/dfm13-wave3-latvian-p3-cc-by-sa-4-0,schneiderkamplab,0,0,task_categories:text-generation; language:lv; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:m…
+2026-10-03T14:59:59Z,XuepingZhang/MultiAPI_Spoof,XuepingZhang,0,0,license:cc-by-nc-4.0; arxiv:2512.07352; region:us
+2026-10-03T15:00:11Z,travi-sgtg87/art-dataset3,travi-sgtg87,0,0,license:mit; region:us; dataset; art; audio-text
+2026-10-03T15:00:28Z,Travor278/ReflexBench-Task-Examples,Travor278,0,0,language:en; language:zh; license:other; size_categories:n<1K; format:parquet; modality:image; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-03T15:00:34Z,Robogio/color_cubes_81,Robogio,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-03T15:01:04Z,schneiderkamplab/dfm13-wave4-wikipedia-be-denoising,schneiderkamplab,0,0,task_categories:text-generation; language:be; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:01:27Z,schneiderkamplab/dfm13-wave4-wikipedia-be-paragraph-reordering,schneiderkamplab,0,0,task_categories:text-generation; language:be; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:01:47Z,schneiderkamplab/dfm13-wave4-wikipedia-be-prefix-continuation,schneiderkamplab,0,0,task_categories:text-generation; language:be; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:01:49Z,Travor278/DynamicVLA-Task-Examples,Travor278,0,0,language:en; language:zh; license:other; size_categories:n<1K; format:parquet; modality:image; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; libra…
+2026-10-03T15:02:09Z,schneiderkamplab/dfm13-wave4-wikipedia-be-span-filling,schneiderkamplab,0,0,task_categories:text-generation; language:be; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:02:14Z,minyichen/tw-instruct-distill,minyichen,0,0,task_categories:text-generation; language:zh; license:other; size_categories:10K<n<100K; region:us; sft; instruction-tuning; distillation; traditional-chinese; taiwan
+2026-10-03T15:02:38Z,zsxm1998/GRIT-TallyQA-Relabeled,zsxm1998,0,0,task_categories:visual-question-answering; task_categories:object-detection; language:en; license:cc-by-4.0; size_categories:n<1K; region:us; counting; visual-grounding; grounded-reasoning
+2026-10-03T15:02:52Z,qizhangslam/table1-readiness-audit-20260924-public,qizhangslam,0,0,region:us
+2026-10-03T15:02:52Z,schneiderkamplab/dfm13-wave4-wikipedia-bs-denoising,schneiderkamplab,0,0,task_categories:text-generation; language:bs; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:03:05Z,schneiderkamplab/dfm13-wave4-wikipedia-bs-paragraph-reordering,schneiderkamplab,0,0,task_categories:text-generation; language:bs; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:03:17Z,schneiderkamplab/dfm13-wave4-wikipedia-bs-prefix-continuation,schneiderkamplab,0,0,task_categories:text-generation; language:bs; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:03:27Z,schneiderkamplab/dfm13-wave4-wikipedia-bs-span-filling,schneiderkamplab,0,0,task_categories:text-generation; language:bs; license:cc-by-sa-3.0; license:gfdl; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:p…
+2026-10-03T15:04:01Z,qizhangslam/scannet_pp_pt-public,qizhangslam,0,0,size_categories:n<1K; modality:3d; library:datasets; library:mlcroissant; region:us
+2026-10-03T15:04:02Z,qizhangslam/das6-retired-workdirs-20260816-public,qizhangslam,0,0,license:other; region:us
+2026-10-03T15:04:04Z,qizhangslam/anydeblur3d-replica-eval-archive-public,qizhangslam,0,0,license:other; size_categories:n<1K; format:json; modality:image; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T15:04:06Z,qizhangslam/unblur-slam-two-stage-evidence-20260910-public,qizhangslam,0,0,task_categories:image-to-image; license:other; region:us; deblurring; slam; turtle; reproducibility
+2026-10-03T15:04:07Z,qizhangslam/blur-aware-comparison-artifacts-20260914-public,qizhangslam,0,0,license:other; region:us
+2026-10-03T15:04:08Z,qizhangslam/local-space-recovery-archives-public,qizhangslam,0,0,language:en; license:other; region:us; reproducibility; provenance; environment-lock
+2026-10-03T15:04:09Z,qizhangslam/six-method-five-category-aligned-20260924-public,qizhangslam,0,0,size_categories:n<1K; format:text; modality:text; library:datasets; library:mlcroissant; region:us
+2026-10-03T15:04:11Z,qizhangslam/unblur-exposure-final-20260926-public,qizhangslam,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T15:04:12Z,qizhangslam/prism3d-scannet-original7k-fixedk-20260926-public,qizhangslam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T15:04:13Z,qizhangslam/prism3d-scannet-star50k-fixedk-20260926-public,qizhangslam,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T15:04:21Z,PSEUDO-GOD/WE-ARE-ALL-INNOCENT,PSEUDO-GOD,0,0,region:us
+2026-10-03T15:04:42Z,PSEUDO-GOD/NOTICE-OF-BANKRUPTCY,PSEUDO-GOD,0,0,region:us
+2026-10-03T15:05:54Z,g1n0st/510c26f0952c31a9fa0746825e3850d0ec415fa3,g1n0st,0,0,region:us
+2026-10-03T15:06:51Z,schneiderkamplab/dfm13-wave3-baltic-lt-summary-newgenltu,schneiderkamplab,0,0,language:lt; license:other; size_categories:1K<n<10K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T15:09:46Z,xuanjohnny/memorywam-v7-event-jepa-joint-16k-10steps-gain1,xuanjohnny,0,0,region:us
+2026-10-03T15:11:26Z,xinxinZhang23e/fork4,xinxinZhang23e,0,0,region:us
+2026-10-03T15:11:34Z,PSEUDO-GOD/DID-YOU-LIKE-BEING-A-DOCTOR,PSEUDO-GOD,0,0,region:us
+2026-10-03T15:12:37Z,mikeyigupu05/Annoy-PyEdu-Rs-Raw,mikeyigupu05,0,0,region:us
+2026-10-03T15:12:37Z,mikeyigupu05/Annoy-PyEdu-Rs,mikeyigupu05,0,0,region:us
+2026-10-03T15:13:00Z,PSEUDO-GOD/YOU-CAN-JUST-DONATE-TO-THE-CHILDREN-CANCER-FUND,PSEUDO-GOD,0,0,region:us
+2026-10-03T15:14:09Z,eucalyptusai/euca-sft-long-v1,eucalyptusai,0,0,region:us
+2026-10-03T15:14:38Z,PSEUDO-GOD/YOU-HAVE-TO-PAY-IT-ALL-UP-NOW,PSEUDO-GOD,0,0,region:us
+2026-10-03T15:15:24Z,schneiderkamplab/dfm13-wave4-wikipedia-fa-denoising,schneiderkamplab,0,0,task_categories:text-generation; language:fa; license:cc-by-sa-3.0; license:gfdl; region:us
+2026-10-03T15:15:41Z,antitrust56/dein-inneres-kind-heilen-ein-praktischer-leitfaden-a2650e,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T15:15:47Z,schneiderkamplab/dfm13-wave4-wikipedia-fa-paragraph-reordering,schneiderkamplab,0,0,task_categories:text-generation; language:fa; license:cc-by-sa-3.0; license:gfdl; region:us
+2026-10-03T15:16:10Z,schneiderkamplab/dfm13-wave4-wikipedia-fa-prefix-continuation,schneiderkamplab,0,0,task_categories:text-generation; language:fa; license:cc-by-sa-3.0; license:gfdl; region:us
+2026-10-03T15:16:27Z,PSEUDO-GOD/ABOVE-THE-LAW,PSEUDO-GOD,0,0,region:us
+2026-10-03T15:16:34Z,schneiderkamplab/dfm13-wave4-wikipedia-fa-span-filling,schneiderkamplab,0,0,task_categories:text-generation; language:fa; license:cc-by-sa-3.0; license:gfdl; region:us
+2026-10-03T15:16:35Z,nightly-wave/1d4a42f4,nightly-wave,0,0,region:us
+2026-10-03T15:18:24Z,PSEUDO-GOD/GOD-I-LOVE-THEM-WHORES,PSEUDO-GOD,0,0,region:us
+2026-10-03T15:18:28Z,g1n0st/e47989627776337986e944af0c426bafdb2d009d,g1n0st,0,0,region:us
+2026-10-03T15:19:54Z,duyle2408/rtdetr-levirship-adamw-runs,duyle2408,0,0,region:us
