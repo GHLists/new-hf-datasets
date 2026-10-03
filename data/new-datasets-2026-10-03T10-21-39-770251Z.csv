@@ -1,0 +1,72 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T09:20:20Z,yutongli2024/EgoExo-Next,yutongli2024,0,0,task_categories:visual-question-answering; task_categories:image-to-text; language:en; license:other; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissa…
+2026-10-03T09:20:49Z,antitrust56/wlan-wetterstation-welche-option-passt-zu-ihnen-bdb41c,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:20:51Z,PSEUDO-GOD/I-JUST-LAUGH-AT-ISRAEL,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:21:11Z,Stanger/Arm6_preprocessing,Stanger,0,0,region:us
+2026-10-03T09:21:28Z,antitrust56/gasgrill-4-brenner-welches-modell-passt-zu-ihnen-8410f1,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:22:10Z,antitrust56/kapp-zugsage-welche-option-passt-zu-ihrem-projekt-8fea6c,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:22:52Z,antitrust56/heissluftfritteuse-xxl-familie-welche-option-ist-d-63af18,antitrust56,0,0,license:mit; region:us; guide
+2026-10-03T09:23:56Z,Munaza10/mm3-ood,Munaza10,0,0,task_categories:audio-to-audio; license:cc-by-sa-4.0; size_categories:n<1K; region:us; music; audio-tokenizer; minimax-music-3
+2026-10-03T09:24:16Z,g1n0st/9044b23c671146fb52fa0888db2175c1fa4367e4,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T09:25:43Z,Emalawi19/Data,Emalawi19,0,0,region:us
+2026-10-03T09:25:44Z,burkimbia/speech-rejected-aligned,burkimbia,0,0,size_categories:1K<n<10K; format:parquet; format:optimized-parquet; modality:audio; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T09:25:53Z,roxiejade/imgbed,roxiejade,0,1,region:us
+2026-10-03T09:26:08Z,g1n0st/edaa7e787063052e52e7121bea82b687953bbda4,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T09:27:50Z,fpadovani/mp-struct-tam-taml-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T09:28:35Z,Thetatec/box-bowl-depth_20261003_105542,Thetatec,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-03T09:29:33Z,g1n0st/60855fe6e1b350f94807e3e0555b285df3284f38,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T09:30:12Z,cloverx-id/Lumina-Math-Repository,cloverx-id,0,0,license:apache-2.0; region:us
+2026-10-03T09:31:02Z,CoralLeiCN/rgc-collections,CoralLeiCN,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; product-research; pricing; provenance
+2026-10-03T09:31:48Z,ThuraAung1601/reform-dafny-hint-gen-aug-combine,ThuraAung1601,0,0,task_categories:text-generation; language:en; license:cc-by-nc-4.0; size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-03T09:33:04Z,afdasfaa/Annoy-PyEdu-Rs-Raw,afdasfaa,158,0,region:us
+2026-10-03T09:33:04Z,afdasfaa/Annoy-PyEdu-Rs,afdasfaa,163,0,region:us
+2026-10-03T09:33:12Z,g1n0st/475b8e87156c2bf018b0651d0a2291c696fb78d3,g1n0st,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T09:34:49Z,ramwazir/addari-Hindi-English-Dictionary,ramwazir,0,0,region:us
+2026-10-03T09:35:40Z,ramwazir/Paddari-Hindi-English-Dictionary,ramwazir,0,0,region:us
+2026-10-03T09:37:13Z,scgen/SecBaRT-supervised-fine-tuning,scgen,0,0,size_categories:10K<n<100K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T09:37:13Z,PSEUDO-GOD/YOUR-DISCIPLES-DONT-WASH-THEIR-HANDS-BEFORE-THEY-EAT,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:39:16Z,PSEUDO-GOD/ITS-BEEN-A-LONG-TIME-SINCE-WE-BEEN-THIS-WAY,PSEUDO-GOD,0,0,region:us
+2026-10-03T09:42:10Z,AdithyaSK/RetroEnv-SFT,AdithyaSK,0,0,task_categories:text-generation; license:cc-by-4.0; size_categories:10K<n<100K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; re…
+2026-10-03T09:47:02Z,taku-y/record-test_20261003_183831,taku-y,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T09:48:06Z,sanaka87/openve_relight_bernini14b_base,sanaka87,0,0,size_categories:n<1K; modality:video; library:datasets; library:mlcroissant; region:us
+2026-10-03T09:48:17Z,PraxySante/FR-Vocalcommands-dictation-app,PraxySante,0,0,task_categories:automatic-speech-recognition; language:fr; license:other; size_categories:10K<n<100K; format:parquet; modality:audio; modality:text; library:datasets; library:dask; library:polars; li…
+2026-10-03T09:49:28Z,slam-e2e/smart-gs-artifacts-public,slam-e2e,0,0,region:us
+2026-10-03T09:49:30Z,SoSolaris/Astra_task,SoSolaris,0,0,region:us
+2026-10-03T09:49:54Z,sanaka87/openve_pp_videocof_base,sanaka87,0,0,region:us
+2026-10-03T09:50:32Z,fpadovani/mp-struct-arb-arab-100mb,fpadovani,0,0,size_categories:100K<n<1M; format:parquet; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T09:51:00Z,VHADAU/local-help-hub,VHADAU,0,0,region:us
+2026-10-03T09:51:08Z,ShengbinYue/paraagent-rl,ShengbinYue,0,0,license:apache-2.0; region:us
+2026-10-03T09:51:14Z,Recommenders/recommenders_data,Recommenders,0,0,region:us
+2026-10-03T09:52:33Z,Hend2030/MUSTASHAR,Hend2030,0,0,license:cc-by-nc-4.0; region:us
+2026-10-03T09:53:44Z,bitaimkingfree/850MindData,bitaimkingfree,0,0,size_categories:100M<n<1B; format:parquet; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T09:55:51Z,nan1185/AncientWings_R2AI_STAGE3_ds,nan1185,0,0,region:us
+2026-10-03T09:57:29Z,taku-y/record-test_20261003_183831_cleaned,taku-y,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; librar…
+2026-10-03T09:59:42Z,CodeNinjatools/wildfire-risk-distribution-us-ontology,CodeNinjatools,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; region:us; physical-ai; sovereign-ai; united-states; electric-utility; wildfire; psps; reference-architecture; ontology; knowledge-graph; open-we…
+2026-10-03T09:59:45Z,CodeNinjatools/truck-turn-container-terminal-us-ontology,CodeNinjatools,0,0,language:en; license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; physical-ai; sovereign-ai; united-st…
+2026-10-03T10:01:01Z,DXBHAFASF/Annoy-PyEdu-Rs,DXBHAFASF,0,0,region:us
+2026-10-03T10:01:01Z,DXBHAFASF/Annoy-PyEdu-Rs-Raw,DXBHAFASF,0,0,region:us
+2026-10-03T10:01:28Z,taku-y/record-merged-20261003,taku-y,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-03T10:02:14Z,zongling/CPRS,zongling,0,0,region:us
+2026-10-03T10:02:42Z,SoSolaris/Astra_task_20261003055902,SoSolaris,0,0,task_categories:robotics; license:apache-2.0; size_categories:n<1K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; library:ml…
+2026-10-03T10:03:32Z,abz2781/clothing-recommender-data,abz2781,0,0,license:openrail; modality:image; region:us
+2026-10-03T10:04:04Z,ASD12EDSA2QWE/Annoy-PyEdu-Rs,ASD12EDSA2QWE,0,0,region:us
+2026-10-03T10:04:05Z,ASD12EDSA2QWE/Annoy-PyEdu-Rs-Raw,ASD12EDSA2QWE,0,0,region:us
+2026-10-03T10:04:20Z,Anshuuu25/synthetic-manuscript-dataset,Anshuuu25,0,0,region:us
+2026-10-03T10:04:40Z,g1n0st/b32926c3a58cb157d3dc7b2970a6f3c12414163d,g1n0st,0,0,modality:video; region:us
+2026-10-03T10:05:01Z,PSEUDO-GOD/ZELENSKYY-IS-GOD,PSEUDO-GOD,0,0,region:us
+2026-10-03T10:05:34Z,superciccio30000000/oasis-media-cifrato,superciccio30000000,0,0,license:other; size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T10:06:06Z,danijmg/smart-campus-tickets,danijmg,0,0,license:cc-by-4.0; size_categories:n<1K; format:csv; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T10:07:06Z,g1n0st/256b7c1547ddfec83e62646e6e7d92cea86a818d,g1n0st,0,0,modality:video; region:us
+2026-10-03T10:07:49Z,g1n0st/53d94c8dfcafe260692f1b02e0800137ab48420a,g1n0st,0,0,modality:video; region:us
+2026-10-03T10:10:33Z,yxjia/tandem-repeat-adjudication-data,yxjia,0,0,region:us
+2026-10-03T10:11:10Z,SZLHOLDINGS/szl-second-brain-frontier-candidates,SZLHOLDINGS,0,0,task_categories:other; language:en; license:other; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; retrieval; prove…
+2026-10-03T10:12:34Z,tranlamnguyen/system,tranlamnguyen,0,0,region:us
+2026-10-03T10:12:44Z,fpadovani/mp-struct-nor-latn-100mb,fpadovani,0,0,region:us
+2026-10-03T10:13:45Z,Kaito-F/parc2026-mm2-dpo-pub,Kaito-F,0,0,region:us
+2026-10-03T10:14:41Z,sdfgsdg1224/Annoy-PyEdu-Rs,sdfgsdg1224,0,0,region:us
+2026-10-03T10:14:42Z,sdfgsdg1224/Annoy-PyEdu-Rs-Raw,sdfgsdg1224,0,0,region:us
+2026-10-03T10:19:39Z,cms1308/classS-schur-db,cms1308,0,0,language:en; license:cc-by-4.0; size_categories:10K<n<100K; arxiv:1706.01607; arxiv:1104.3850; arxiv:1110.3740; arxiv:1408.6522; arxiv:0910.2225; arxiv:1707.07679; arxiv:2112.10715; arxiv:1212.1271;…
+2026-10-03T10:21:05Z,sdaeas/Annoy-PyEdu-Rs-Raw,sdaeas,0,0,region:us
+2026-10-03T10:21:05Z,sdaeas/Annoy-PyEdu-Rs,sdaeas,0,0,region:us
+2026-10-03T10:21:11Z,liufeftwer145/Annoy-PyEdu-Rs,liufeftwer145,0,0,region:us
+2026-10-03T10:21:12Z,liufeftwer145/Annoy-PyEdu-Rs-Raw,liufeftwer145,0,0,region:us
