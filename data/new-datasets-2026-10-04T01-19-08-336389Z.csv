@@ -1,0 +1,55 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-04T00:21:10Z,gabicogs/votacao_candidato_munzona_2022_RS,gabicogs,0,0,region:us
+2026-10-04T00:21:23Z,natnguyen215/acf-co-23-25-llm-split,natnguyen215,0,0,size_categories:1K<n<10K; format:parquet; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; quizbowl; question-answering
+2026-10-04T00:22:07Z,EdManZoeTech/plant-disease-detection,EdManZoeTech,0,0,task_categories:image-classification; language:en; license:mit; size_categories:10K<n<100K; format:parquet; format:optimized-parquet; modality:image; library:datasets; library:pandas; library:polars;…
+2026-10-04T00:22:18Z,g1n0st/17e419d709f877c17598141b6689ee320c929de4,g1n0st,0,0,region:us
+2026-10-04T00:22:44Z,AdityaShah/self_repair_gripper_screwdriver_bc,AdityaShah,0,0,task_categories:robotics; license:cc-by-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant;…
+2026-10-04T00:23:47Z,dougalldeepmind/2026-10-04-da-low-synth,dougalldeepmind,0,0,size_categories:1K<n<10K; modality:tabular; modality:text; region:us; training-data; kind:synth; pipeline:da-low; constitution:claude_distilled_09_principles
+2026-10-04T00:23:54Z,ahmedxg/gvr-chat-app,ahmedxg,0,0,region:us
+2026-10-04T00:26:13Z,NM268/multimodal-ai-search-data,NM268,0,0,size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us; image-retrieval; siglip; flickr8k
+2026-10-04T00:34:45Z,drogba771/px-pool,drogba771,0,0,region:us
+2026-10-04T00:36:32Z,dayvidpham/TraceBench,dayvidpham,0,0,language:en; license:cc-by-sa-4.0; size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; agent-traces; coding-agents;…
+2026-10-04T00:37:05Z,permutans/wikidata-scholar-labels,permutans,0,0,region:us
+2026-10-04T00:37:25Z,permutans/wikidata-scholar-descriptions,permutans,0,0,region:us
+2026-10-04T00:37:46Z,permutans/wikidata-scholar-aliases,permutans,0,0,region:us
+2026-10-04T00:37:51Z,permutans/wikidata-scholar-links,permutans,0,0,region:us
+2026-10-04T00:37:56Z,permutans/wikidata-scholar-claims,permutans,0,0,region:us
+2026-10-04T00:38:45Z,ShayManor/Purdue_GP_Track,ShayManor,0,0,license:cc-by-4.0; size_categories:10K<n<100K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-04T00:39:04Z,g1n0st/465f118ad57d97f84d1c608af3d67005cf97bc8a,g1n0st,0,0,region:us
+2026-10-04T00:41:55Z,maximsemenov/text-tabular-samples,maximsemenov,0,0,license:apache-2.0; region:us; dataset; memes; text-tabular
+2026-10-04T00:42:42Z,dougalldeepmind/2026-10-04-da-sr-synth-smoke,dougalldeepmind,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us; training-data; kind:synth; pipeline:da-sr; constitution:claude_distilled_09_principles; smoke
+2026-10-04T00:44:22Z,lih-kin/Archive_UntMods,lih-kin,0,0,region:us
+2026-10-04T00:44:52Z,phcokonkwo/travel-text-tabular-2023,phcokonkwo,0,0,license:apache-2.0; region:us; dataset; travel; text-tabular
+2026-10-04T00:45:55Z,emilyusmith/traffic-image-depth,emilyusmith,0,0,license:cc-by-4.0; region:us; dataset; traffic; image-depth
+2026-10-04T00:46:28Z,dougalldeepmind/2026-10-04-da-sr-synth,dougalldeepmind,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:synth; pipeline:da-sr; consti…
+2026-10-04T00:47:03Z,samitesla/various_wheelchairs,samitesla,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-04T00:49:14Z,snjzz38/so101_grab_ball_D40-R2_20261003_201733,snjzz38,0,0,task_categories:robotics; license:apache-2.0; size_categories:10K<n<100K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:pandas; library:polars; libr…
+2026-10-04T00:49:17Z,adamwillee/fashion-image-text-2023,adamwillee,0,0,license:apache-2.0; region:us; dataset; fashion; image-text
+2026-10-04T00:52:34Z,dougalldeepmind/2026-10-04-da-low-15-mix,dougalldeepmind,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; training-data; kind:mixture; pipeline:da-low; constitution:clau…
+2026-10-04T00:53:11Z,Krarilotus/zebratlas-kg,Krarilotus,0,0,language:en; license:cc-by-4.0; size_categories:1M<n<10M; region:us; rare-diseases; knowledge-graph; rdf; prov-o; sssom; research-navigation
+2026-10-04T00:53:14Z,Saintghetto17/verifying-the-verifier,Saintghetto17,0,0,task_categories:visual-question-answering; task_categories:image-classification; language:en; license:cc-by-4.0; size_categories:n<1K; format:json; modality:image; modality:text; library:datasets; li…
+2026-10-04T00:54:04Z,ozikoro/ozituma,ozikoro,0,0,task_categories:text-generation; task_categories:translation; language:ig; language:mnk; language:wol; language:yor; language:urh; license:other; region:us
+2026-10-04T00:55:22Z,StrawberryHarvester/MASKED_PURPLE_Single_Strawberry_Pot_4_15ep_9-29-26,StrawberryHarvester,0,0,task_categories:robotics; license:apache-2.0; size_categories:1K<n<10K; format:parquet; modality:tabular; modality:timeseries; modality:video; library:datasets; library:dask; library:polars; library:…
+2026-10-04T00:56:05Z,rasyosef/open-perfectblend_gemma-4-E4B-it,rasyosef,0,0,size_categories:1K<n<10K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T00:56:10Z,yehoroliynyk/audio-text-samples,yehoroliynyk,0,0,license:cc-by-4.0; region:us; dataset; travel; audio-text
+2026-10-04T00:56:48Z,g1n0st/2ee21f715259e6fca02fa070497b9a69f73c402f,g1n0st,0,0,region:us
+2026-10-04T00:58:19Z,nutrientdocs/system-one-base-mix,nutrientdocs,0,0,region:us
+2026-10-04T00:58:35Z,ipekoztas/clevr_10k,ipekoztas,0,0,region:us
+2026-10-04T00:59:59Z,robert131OO4/out-series,robert131OO4,0,0,region:us
+2026-10-04T01:00:54Z,duyle2408/augmentation-size-metrics-runs,duyle2408,0,0,region:us
+2026-10-04T01:01:23Z,introvoyz043/elpv-dataset,introvoyz043,0,0,license:mit; region:us
+2026-10-04T01:03:31Z,Chauhan93/study-document-ocr,Chauhan93,0,0,license:cc-by-4.0; region:us; dataset; document-ocr; sensor-fusion
+2026-10-04T01:04:31Z,DarthYoda3129/outpost-masters,DarthYoda3129,0,0,license:cc-by-nc-sa-4.0; size_categories:1M<n<10M; format:parquet; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us; chess
+2026-10-04T01:07:22Z,siddharthmb/2026.TA.comply_vs_refuse_chat_hires_combined_ftgs_graphs,siddharthmb,0,0,region:us; interpretability; circuit-tracing; attribution-graphs; transcoder-adapters; gemma-2-2b
+2026-10-04T01:07:59Z,rokairu/loca-wiki-vital5-en-v1,rokairu,0,0,license:cc-by-sa-4.0; size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-04T01:08:39Z,parotresearch/wikipedia-multi-5gb,parotresearch,0,0,license:cc-by-sa-4.0; size_categories:1B<n<10B; region:us; cartridge
+2026-10-04T01:09:03Z,andipratama/traffic-video-text-benchmark-2023,andipratama,0,0,license:cc-by-4.0; region:us; dataset; traffic; video-text
+2026-10-04T01:09:27Z,Kicaulah/rag-faithfulness-benchmark,Kicaulah,0,0,task_categories:text-classification; language:en; language:id; language:es; language:fr; language:de; language:zh; language:multilingual; license:apache-2.0; size_categories:n<1K; format:json; modali…
+2026-10-04T01:10:35Z,muscgab/JMangaBench_Read,muscgab,0,0,task_categories:image-to-text; language:ja; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; modality:text; library:datasets; library:mlcroissant; region:us; ocr…
+2026-10-04T01:10:59Z,g1n0st/29693db2159e964abf8c6fef5908c593cab8b5cd,g1n0st,0,0,region:us
+2026-10-04T01:13:03Z,g1n0st/90ce75c0a137ec1ee0c3e666f35d92ddeae5e595,g1n0st,0,0,region:us
+2026-10-04T01:14:06Z,e12ex2/debug-moe-data,e12ex2,0,0,license:other; region:us; code; testing; bug-finding; counterexample
+2026-10-04T01:14:42Z,daffarahmanberg/geology-dataset,daffarahmanberg,0,0,license:cc-by-4.0; region:us; dataset; geology; audio-video
+2026-10-04T01:17:14Z,diegosajswu/weeeeeeeeeeeeeee,diegosajswu,0,0,license:openrail; region:us
+2026-10-04T01:17:38Z,yuxuanchenland/satellite-dataset,yuxuanchenland,0,0,license:mit; region:us; dataset; satellite; image-audio
+2026-10-04T01:17:56Z,Hfzune/Duplocate-technology-htk-cmr,Hfzune,0,0,region:us
