@@ -1,0 +1,63 @@
+created_at,dataset,author,downloads,likes,tags
+2026-10-03T23:23:10Z,chengenwu/plug_charger,chengenwu,0,0,task_categories:robotics; region:us; maniskill; imitation-learning; motion-planning
+2026-10-03T23:24:24Z,zzzekryo/direct_conversation,zzzekryo,0,0,language:en; license:apache-2.0; size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; direct; help; general
+2026-10-03T23:24:51Z,JamesSeegel/lab06-tool-calling,JamesSeegel,0,0,modality:text; region:us
+2026-10-03T23:28:22Z,jp1924-laion-2/Laion400m-3-part3,jp1924-laion-2,0,0,size_categories:1M<n<10M; format:parquet; modality:image; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; region:us
+2026-10-03T23:28:36Z,g1n0st/33db8439424da84cf5091154343bc579f6ab7905,g1n0st,0,0,region:us
+2026-10-03T23:29:26Z,JesusMelendez/Sales_Drugstore,JesusMelendez,0,0,size_categories:n<1K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:45Z,gemmozero/ai-nuclear-tech-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:47Z,gemmozero/ai-agriculture-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:48Z,gemmozero/ai-translation-market-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:49Z,gemmozero/ai-supply-chain-ai-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:51Z,gemmozero/ai-education-tech-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:52Z,gemmozero/ai-climate-finance-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:53Z,gemmozero/ai-hr-recruiting-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:54Z,gemmozero/ai-cybersecurity-tools-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:56Z,gemmozero/ai-drug-trials-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:57Z,gemmozero/ai-crypto-trading-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:58Z,gemmozero/ai-accessibility-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:29:59Z,gemmozero/ai-gaming-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:30:26Z,ZihaoZhang/AREAs-Lab,ZihaoZhang,0,0,license:cc-by-nc-sa-4.0; region:us
+2026-10-03T23:30:40Z,gagattzo/avatar-lab-public,gagattzo,0,0,size_categories:n<1K; format:imagefolder; modality:image; library:datasets; library:mlcroissant; region:us
+2026-10-03T23:31:02Z,awsref/Annoy-PyEdu-Rs,awsref,0,0,region:us
+2026-10-03T23:31:02Z,awsref/Annoy-PyEdu-Rs-Raw,awsref,0,0,region:us
+2026-10-03T23:32:27Z,DSACZ12DSA/Annoy-PyEdu-Rs,DSACZ12DSA,0,0,region:us
+2026-10-03T23:32:28Z,DSACZ12DSA/Annoy-PyEdu-Rs-Raw,DSACZ12DSA,0,0,region:us
+2026-10-03T23:33:14Z,ASDCX1DXSXA/Annoy-PyEdu-Rs,ASDCX1DXSXA,0,0,region:us
+2026-10-03T23:33:15Z,ASDCX1DXSXA/Annoy-PyEdu-Rs-Raw,ASDCX1DXSXA,0,0,region:us
+2026-10-03T23:35:02Z,g1n0st/c2d17477d239765f9e73ae5f7158e16abc3912ea,g1n0st,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:35:33Z,afesaf/Annoy-PyEdu-Rs,afesaf,0,0,region:us
+2026-10-03T23:35:33Z,afesaf/Annoy-PyEdu-Rs-Raw,afesaf,0,0,region:us
+2026-10-03T23:39:10Z,dougalldeepmind/2026-10-03-da-low-synth-smoke,dougalldeepmind,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us; training-data; kind:synth; pipeline:da-low; constitution:claude_distilled_09_principles; smoke
+2026-10-03T23:39:24Z,mandipgoswami/RIR-Bench-Hard,mandipgoswami,0,0,task_categories:audio-to-audio; task_categories:automatic-speech-recognition; license:cc-by-4.0; size_categories:1K<n<10K; format:parquet; modality:audio; modality:tabular; modality:text; library:dat…
+2026-10-03T23:43:11Z,introvoyz043/mvtec-ad,introvoyz043,0,0,task_categories:image-classification; task_categories:image-segmentation; language:en; license:cc-by-nc-sa-4.0; size_categories:1K<n<10K; format:imagefolder; modality:image; library:datasets; library…
+2026-10-03T23:45:01Z,g1n0st/fda880c84eaa873d7af77ef5f6ca5d712924d933,g1n0st,0,0,region:us
+2026-10-03T23:45:51Z,ZMC2019/Single_Stream_Measurement,ZMC2019,0,0,task_categories:text-generation; license:other; size_categories:n<1K; region:us; benchmark; agentic; coding; inference; single-stream
+2026-10-03T23:50:44Z,ASDCXZ12E3213/Annoy-PyEdu-Rs,ASDCXZ12E3213,0,0,region:us
+2026-10-03T23:50:45Z,ASDCXZ12E3213/Annoy-PyEdu-Rs-Raw,ASDCXZ12E3213,0,0,region:us
+2026-10-03T23:54:23Z,gemmozero/ai-fashion-luxury-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:24Z,gemmozero/ai-journalism-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:26Z,gemmozero/ai-architecture-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:27Z,gemmozero/ai-music-gen-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:28Z,gemmozero/ai-insurance-claims-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:29Z,gemmozero/ai-climate-adaptation-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:30Z,gemmozero/ai-quantum-ml-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:32Z,gemmozero/ai-elder-care-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:33Z,gemmozero/ai-pets-animals-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:54:34Z,argusic/does-it-run,argusic,0,0,language:en; license:cc-by-4.0; size_categories:1K<n<10K; format:csv; modality:tabular; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us; open-source; s…
+2026-10-03T23:54:34Z,gemmozero/ai-smart-cities-2026,gemmozero,0,0,size_categories:n<1K; format:json; modality:text; library:datasets; library:pandas; library:polars; library:mlcroissant; region:us
+2026-10-03T23:56:21Z,FelNeg/bitcoin-transaction-network-2009-2013,FelNeg,0,0,language:en; license:cc-by-4.0; size_categories:10M<n<100M; format:parquet; modality:document; modality:tabular; modality:text; library:datasets; library:dask; library:polars; library:mlcroissant; re…
+2026-10-03T23:59:10Z,g1n0st/5be1c3ab32710537073657e481bcc5bd8bda6ed0,g1n0st,0,0,region:us
+2026-10-04T00:02:27Z,Saga-AI/bdh-k20-gx10-probe,Saga-AI,0,0,region:us
+2026-10-04T00:04:49Z,xzc3sae21zxas/Annoy-PyEdu-Rs-Raw,xzc3sae21zxas,0,0,region:us
+2026-10-04T00:04:49Z,xzc3sae21zxas/Annoy-PyEdu-Rs,xzc3sae21zxas,0,0,region:us
+2026-10-04T00:04:53Z,dougalldeepmind/2026-10-04-da-low-synth-smoke,dougalldeepmind,0,0,size_categories:n<1K; modality:tabular; modality:text; region:us; training-data; kind:synth; pipeline:da-low; constitution:claude_distilled_09_principles; smoke
+2026-10-04T00:06:53Z,Jinyan0924/habitat_hssd_pointgoal_nav_scenarios,Jinyan0924,0,0,task_categories:robotics; license:cc-by-nc-4.0; size_categories:10K<n<100K; region:us; navigation; trajectory-prediction; point-goal; humanoid; collision-avoidance; simulation; habitat; camera; depth
+2026-10-04T00:06:55Z,Jamesdaviestik/fashion-video-text,Jamesdaviestik,0,0,license:cc-by-4.0; region:us; dataset; fashion; video-text
+2026-10-04T00:08:26Z,vjkdasdf/twitch-inf-craft-db,vjkdasdf,0,0,region:us
+2026-10-04T00:09:14Z,S34085068/caltennis,S34085068,0,0,task_categories:keypoint-detection; license:cc-by-nc-4.0; size_categories:n<1K; format:json; modality:text; modality:video; library:datasets; library:pandas; library:polars; library:mlcroissant; regi…
+2026-10-04T00:11:32Z,asfafq3f/Annoy-PyEdu-Rs-Raw,asfafq3f,0,0,region:us
+2026-10-04T00:11:32Z,asfafq3f/Annoy-PyEdu-Rs,asfafq3f,0,0,region:us
+2026-10-04T00:12:37Z,g1n0st/81042f9da5aabc20cf62ed584dda8d962e7b77bb,g1n0st,0,0,region:us
+2026-10-04T00:14:34Z,g1n0st/9281637ca528955eb557cd5575f487883ab60b34,g1n0st,0,0,region:us
+2026-10-04T00:17:45Z,pablo-honey/PD4,pablo-honey,0,0,region:us
